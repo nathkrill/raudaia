@@ -1,5 +1,8 @@
 Recorded history begins with The Founding. There is no precise time in which this began, but it signifies the time in which the scattered people of the land began to join together and civilise. This saw the formation of 7 mostly independent states.
 
+Calendars begin with The Founding, using the notation PF for "Post Founding".
+
+The age of The Founding lasted 150 years, ending with the [[Raffan Conquest]].
 ## States
 
 ```leaflet
