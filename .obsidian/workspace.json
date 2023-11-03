@@ -11,8 +11,12 @@
             "id": "21b7f453a1013f74",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "The Founding.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Founding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Founding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Founding.md"
+              }
             }
           }
         ]
@@ -141,8 +149,12 @@
   },
   "active": "21b7f453a1013f74",
   "lastOpenFiles": [
-    "Cult of the Mountains.md",
     "Welcome to Raudaia!.md",
+    "Kara.md",
+    "Culture.md",
+    "Cult of the Mountains.md",
+    "index.md",
+    "Untitled",
     "Nelharim.md",
     "Gods of the Valley.md",
     "Nelhahet.md",
@@ -162,24 +174,20 @@
     "Alkhara Desert.md",
     "Rafah.md",
     "Kara Valley.md",
-    "Kara.md",
     "Witenspire Mountains.md",
     "Tugar Forest.md",
     "Umrion Valley.md",
-    "Culture.md",
     "Geography.md",
     "images/The Founding Religions.png",
     "images/The Founding Religions.png.crdownload",
     "Eastern Lands.md",
     "Fajari Wetlands.md",
-    "Emerald Coast.md",
     "Geography",
     "images/The Founding Cultures.png",
     "images/The Founding - Cultures.png.crdownload",
     "images/The Founding States.png",
     "Maps",
     "Appendices",
-    "images/Raudaia Overview.png",
-    "images/Raudaia Overview.png.crdownload"
+    "images/Raudaia Overview.png"
   ]
 }
