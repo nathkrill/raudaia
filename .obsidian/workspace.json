@@ -8,51 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0eb202142af36556",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome to Raudaia!.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08f7ea95a026684a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nelharim.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a868b7271d24704",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Religion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c64f215b457410a",
+            "id": "21b7f453a1013f74",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome to Raudaia!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome to Raudaia!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Welcome to Raudaia!.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -180,13 +139,16 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "7c64f215b457410a",
+  "active": "21b7f453a1013f74",
   "lastOpenFiles": [
-    "Nelharim.md",
-    "Religion.md",
-    "Nelhahet.md",
-    "Khar.md",
+    "Cult of the Mountains.md",
     "Welcome to Raudaia!.md",
+    "Nelharim.md",
+    "Gods of the Valley.md",
+    "Nelhahet.md",
+    "Religion.md",
+    "Dwarf Gods.md",
+    "Khar.md",
     "Maps/Raudaia at The Founding.md",
     "The Founding.md",
     "datasets/The Founding - Relations.csv",
@@ -211,11 +173,8 @@
     "Eastern Lands.md",
     "Fajari Wetlands.md",
     "Emerald Coast.md",
-    "Western Horn.md",
-    "Starved Wastes.md",
     "Geography",
     "images/The Founding Cultures.png",
-    "Maps/Blank Map.md",
     "images/The Founding - Cultures.png.crdownload",
     "images/The Founding States.png",
     "Maps",
