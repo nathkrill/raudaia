@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "a8725d790bc832fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b20b7f3edf42ec3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0eb202142af36556",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome to Raudaia!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08f7ea95a026684a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nelharim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a868b7271d24704",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Religion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c64f215b457410a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3fcbf3efb43ff7e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d379ab845686a84d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b0822facc6ccb34",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "77bcdb4c090b232a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "69cb1e351df9efb2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "496418b9872ab737",
+    "type": "split",
+    "children": [
+      {
+        "id": "f18155a7753b3278",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66afce7f87a40d18",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome to Raudaia!.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98c13c7364ede8eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome to Raudaia!.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98262899516efb7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "798d9d933056ac3f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome to Raudaia!.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
+    }
+  },
+  "active": "7c64f215b457410a",
+  "lastOpenFiles": [
+    "Nelharim.md",
+    "Religion.md",
+    "Nelhahet.md",
+    "Khar.md",
+    "Welcome to Raudaia!.md",
+    "Maps/Raudaia at The Founding.md",
+    "The Founding.md",
+    "datasets/The Founding - Relations.csv",
+    "datasets/The Founding - Relations.csv.crdownload",
+    "datasets",
+    "New folder",
+    "History.md",
+    "Climate.md",
+    "Witenspire.md",
+    "Regions.md",
+    "Alkhara Desert.md",
+    "Rafah.md",
+    "Kara Valley.md",
+    "Kara.md",
+    "Witenspire Mountains.md",
+    "Tugar Forest.md",
+    "Umrion Valley.md",
+    "Culture.md",
+    "Geography.md",
+    "images/The Founding Religions.png",
+    "images/The Founding Religions.png.crdownload",
+    "Eastern Lands.md",
+    "Fajari Wetlands.md",
+    "Emerald Coast.md",
+    "Western Horn.md",
+    "Starved Wastes.md",
+    "Geography",
+    "images/The Founding Cultures.png",
+    "Maps/Blank Map.md",
+    "images/The Founding - Cultures.png.crdownload",
+    "images/The Founding States.png",
+    "Maps",
+    "Appendices",
+    "images/Raudaia Overview.png",
+    "images/Raudaia Overview.png.crdownload"
+  ]
+}

@@ -1,0 +1,3 @@
+### Emerald Coast
+
+To the east lies the emerald coast. This mostly mundane grassy region gives way to lush forests and beautiful coves. 

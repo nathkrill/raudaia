@@ -1,0 +1,8 @@
+,Legaiziripo,Palerabi,Witnesland,Pevia,Carria,Arleans,Gafranthel
+Legaiziripo,x,Rival,Neutral,Suspicion,Unknown,Friendly,Suspicion
+Palerabi,Rival,x,Neutral,Suspicion,Unknown,Suspicion,Suspicion
+Witnesland,Neutral,Neutral,x,Rival,Unknown,Neutral,Suspicion
+Pevia,Suspicion,Suspicion,Rival,x,Unknown,Suspicion,Vassal
+Carria,Unknown,Unknown,Unknown,Unknown,x,Unknown,Unknown
+Arleans,Friendly,Suspicion,Neutral,Suspicion,Unknown,x,Friendly
+Gafranthel,Suspicion,Suspicion,Suspicion,Suzerain,Unknown,Friendly,x
