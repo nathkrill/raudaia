@@ -1,3 +1,7 @@
+---
+tags:
+  - Region
+---
 ### Tugar Forest
 
 In the furthest north of Raudaia lies a deep pine forest, blanketed with snow. The endless lines of trees make for a dangerous and confusing terrain to travel in.

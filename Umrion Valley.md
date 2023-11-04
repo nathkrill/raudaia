@@ -1,3 +1,7 @@
+---
+tags:
+  - Region
+---
 
 Not a valley in the traditional sense, the Umrion river spans the width of the northern part of Raudaia, separating off the chilly regions of the north.
 The river provides a lush and bountiful strip that is enclosed by the deserts of the lower north.

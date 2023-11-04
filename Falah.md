@@ -1,3 +1,7 @@
+---
+tags:
+  - Religion
+---
 Falah is the unitary God of the [[Rafah]] people. For them he is the one true god, and all other gods are false. 
 
 Falah revealed himself to the [[Rafah]] atop the solitary mountain in the centre of the [[Alkhara Desert]]. Cloud, lightening, and fire gathered around the peak as he delivered to them his divine purpose for their people. 

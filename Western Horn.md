@@ -1,3 +1,7 @@
+---
+tags:
+  - Region
+---
 ### Western Horn
 
 To the west is the uncivilised region known as the Western Horn. Named by it's coastal protrusion, this region has never hosted any major civilisation and as such is a dangerous and uncharted place.

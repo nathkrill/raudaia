@@ -1,3 +1,7 @@
+---
+tags:
+  - Culture
+---
 ### Khar
 
 The Dwarven people of Khar reside in the foreboding [[Witenspire Mountains|Witenspite Mountains]]. Their great halls are built under the mountains themselves, and stretch deep beneath the surface.

@@ -1,3 +1,7 @@
+---
+tags:
+  - Religion
+---
 The gods that the Dwarves worship are more like demi-gods. They are champions of the their people who have unlocked sacred powers of the world in order to bless their subjects.
 It is believed that in the [[Khar]] time of need, the champions are reincarnated.
 

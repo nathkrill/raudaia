@@ -1,3 +1,7 @@
+---
+tags:
+  - Culture
+---
 ### Rafah
 
 Somewhere out of the deep [[Alkhara Desert]] came the Rafah. A nomadic people, they mostly seem content to roam the wilderness in small tribes.

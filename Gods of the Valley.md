@@ -1,3 +1,7 @@
+---
+tags:
+  - Religion
+---
 The numerous members of the [[Kara]] Pantheon are defined by colour. As a result, their domains are often overlapping and there are always new ones being added. Their domains can be almost anything, but are usually led by emotion.
 The most common worshipped, and most consistent, are the seven colours of the rainbow, a symbol that is used to generally represent the Gods of the Valley.
 

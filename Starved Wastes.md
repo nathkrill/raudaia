@@ -1,3 +1,7 @@
+---
+tags:
+  - Region
+---
 ### Starved Wastes
 
 South of the Witenspire Mountains is a vast, freezing desert wasteland. A complete lack of precipitation combined with the freezing temperatures bring an inhospitable region of empty cold.

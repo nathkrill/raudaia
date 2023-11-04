@@ -1,3 +1,7 @@
+---
+tags:
+  - Religion
+---
 The Cult of the Mountains is the religion mostly held by the [[Kara]] people of [[Palerabi]]. It is a violent and ritualistic order that reveres great monstrous beasts that live in caves high up in the mountains of the [[Kara Valley]].
 
 As with most cults, it is very hierarchical. Lower initiates and citizens will not ever meet their gods, but visit statues and totems erected in the towns and cities of the western valley. Higher priests and druids make ritualistic sacrifices at the mouths of the sacred caves, and deliver offerings of treasure and produce in order to appease their gods on behalf of the people.

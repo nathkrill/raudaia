@@ -1,3 +1,7 @@
+---
+tags:
+  - State
+---
 The Witnes Conglomerate are a nation of the [[Khar]]. Their borders mostly lie high in the [[Witenspire Mountains]], with some parts stretching south. 
 
 Their political structure is made of a conglomerate of mining bosses, who lead a productive capitalist society. 

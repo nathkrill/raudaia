@@ -1,3 +1,7 @@
+---
+tags:
+  - Region
+---
 ### Witenspire Mountains
 
 The Witenspire Mountains (or White Mountains in the common tongue) are a dense clump of snow-capped mountain peaks in the north. The traditional birthplace of the Dwarven [[Khar]] culture, these mountains are treacherous and unpredictable places to travel.

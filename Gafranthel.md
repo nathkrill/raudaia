@@ -1,3 +1,7 @@
+---
+tags:
+  - State
+---
 Gafranthel is a [[Nelhahet]] state at the time of [[The Founding]]. It is a vassal of the [[Pevian Holy State]] and relies on them for much of its jurisdiction. 
 
 Their capital city of [[Ebesia]] is a long, narrow city that dominates the southern shore of the central [[Umrion Valley|Umrion River]].
