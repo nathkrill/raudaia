@@ -8,6 +8,8 @@ It is believed that in the [[Khar]] time of need, the champions are reincarnated
 The worship of the champions is not one of rites and rituals, but rather an oral tradition passed down. When the champions appear, they are treated like great leaders, and the people rally around them for whatever cause they may have.
 
 Most of the champions have a gender associated with them, usually based on notable incarnations in the past, but they can be reincarnated in many forms.
+
+Most other religions believe the Kharparet are real, but consider them more as demigods or blessed warriors than actual deities. 
 ## [[Buraz]]
 
 Buraz the Stonefist is a mighty warrior. It is said that he can split even the mountains with his mighty blows.

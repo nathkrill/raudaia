@@ -1,9 +1,17 @@
-Raudaia is home to many people, who have varying cultural backgrounds. Besides these, there are those who walk between cultures, and though they are rooted in specific racial heritage they are not exclusive.
+[[Welcome to Raudaia!|Raudaia]] is home to many people, who have varying cultural backgrounds. Besides these, there are those who walk between cultures, and though they are rooted in specific racial heritage they are not exclusive.
 
-## [[Nelhahet]] - The elven people of the north
+## [[Nelhahet]]
 
-## [[Khar]] - The dwarven folk from the mountains
+The elven people of the north
 
-## [[Kara]] - Humans of the valley
+## [[Khar]]
 
-## [[Rafah]] - Nomads from the southern desert
+The dwarven folk from the mountains
+
+## [[Kara]]
+
+Humans of the valley
+
+## [[Rafah]]
+
+Nomads from the southern desert

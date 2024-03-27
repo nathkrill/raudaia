@@ -10,6 +10,8 @@ The sacred centre of this religion is the waters of the [[Umrion Valley]]. It is
 
 The [[Pevian Holy State]] is ruled by a religious oligarchy that revere the Nelharim. They have a strict ban against the worship of any other gods, and will regularly persecute and sometimes execute religious leaders who encourage the worship of so-called false gods.
 
+Most other religions believe the Nelharim are real, but don't regard them as objects of worship. The religion of the [[Kharparet]] have ancient stories of their champions waging war against great colossi, but they don't see them as threats any more. 
+
 ## [[Eahethel]]
 
 The supreme deity of the Nelharim. [[Eahethel]] takes the form of an immense Yeti. His preferred dwelling is the [[Tugar Forest]]. He brings the blessing of warmth from the cold climate, and is sometimes associated with fire.
@@ -30,3 +32,8 @@ He takes the form of a sea-giant, with a large crab claw at the end of his left 
 ## [[Himnes]]
 
 A giant cyclops. [[Himnes]] is god of the mountains and rocks. He is less revered, as his gifts of minerals and stones are not very valuable to the [[Nelhahet]].
+
+## [[Vadox]]
+
+[[Vadox]] is not worshipped as a god by the [[Nelhahet]]. He is the eternal foe of the Nelharim, having betrayed them and slayed others of their kin. He is portrayed in myth as a vast shadow, or a dark mountainous being.
+Some of the more extreme worshippers of the Nelharim believe that the monstrous gods of the [[Cult of the Mountains]] are beings created by [[Vadox|Vadox's]] dark magic, while others are suspicious of the [[Rafah]] god [[Falah]], believing he is a new incarnation of [[Vadox]].

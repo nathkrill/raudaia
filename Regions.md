@@ -1,21 +1,41 @@
-Raudaia is not the most diverse place in its regional distribution, but there are a few notable areas of geographical and political interest.
+[[Welcome to Raudaia!|Raudaia]] is not the most diverse place in its regional distribution, but there are a few notable areas of geographical and political interest.
 
-## [[Tugar Forest]] - Arctic forests of the north
+## [[Tugar Forest]]
 
-## [[Witenspire Mountains]] - Frozen peaks
+Arctic forests of the north
 
-## [[Starved Wastes]] - Freezing Desert in the north
+## [[Witenspire Mountains]]
 
-## [[Umrion Valley]] - Bountiful riverland, skirting the north
+Frozen peaks
 
-## [[Kara Valley]] - Salty canyon in the centre
+## [[Starved Wastes]]
 
-## [[Western Horn]] - Uncharted jungles to the west
+Freezing Desert in the north
 
-## [[Emerald Coast]] - Idyllic planes and coasts in the east
+## [[Umrion Valley]]
 
-## [[Fajari Wetlands]] - Swamps and fens in the south west
+Bountiful riverland, skirting the north
 
-## [[Eastern Lands]] - Unknown region to the east
+## [[Kara Valley]]
 
-## [[Alkhara Desert]] - Vast desert in the south
+Salty canyon in the centre
+
+## [[Western Horn]]
+
+Uncharted jungles to the west
+
+## [[Emerald Coast]]
+
+Idyllic planes and coasts in the east
+
+## [[Fajari Wetlands]]
+
+Swamps and fens in the south west
+
+## [[Eastern Lands]]
+
+Unknown region to the east
+
+## [[Alkhara Desert]]
+
+Vast desert in the south
