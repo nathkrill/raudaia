@@ -11,12 +11,8 @@
             "id": "dc4563f667e4e94e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Alkhara Desert.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Alkhara Desert.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Alkhara Desert.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Alkhara Desert.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -134,15 +126,22 @@
   },
   "active": "dc4563f667e4e94e",
   "lastOpenFiles": [
-    "Gods of the Valley.md",
-    "Alkhara Desert.md",
+    "King of the Lake.md",
+    "Legaiziripo.md",
+    "The Founding.md",
+    "Palerabi.md",
+    "Lord of Salt.md",
+    "Council of Salt.md",
+    "Cult of the Mountains.md",
     "Maps/Raudaia at The Founding.md",
+    "Campaigns",
+    "Alkhara Desert.md",
+    "Gods of the Valley.md",
     "Council of Arleans.md",
     "Maps/Blank Map.md",
     "Kara.md",
     "Nelharim.md",
     "Kharparet.md",
-    "Cult of the Mountains.md",
     "Falah.md",
     "Religion.md",
     "Welcome to Raudaia!.md",
@@ -154,12 +153,6 @@
     "Fajari Wetlands.md",
     "Emerald Coast.md",
     "Western Horn.md",
-    "Kara Valley.md",
-    "Umrion Valley.md",
-    "Starved Wastes.md",
-    "Witenspire Mountains.md",
-    "Tugar Forest.md",
-    "Nelhahet.md",
     "images/Raudaia Overview.png",
     "images/The Founding States.png",
     "images/The Founding Religions.png",
