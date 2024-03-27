@@ -11,8 +11,12 @@
             "id": "dc4563f667e4e94e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Carria.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Carria.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Carria.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Carria.md"
+          }
         }
       }
     ],
@@ -126,12 +134,21 @@
   },
   "active": "dc4563f667e4e94e",
   "lastOpenFiles": [
+    "The Founding.md",
+    "Carria.md",
+    "The Trials of the Lake.md",
     "King of the Lake.md",
     "Legaiziripo.md",
-    "The Founding.md",
     "Palerabi.md",
-    "Lord of Salt.md",
     "Council of Salt.md",
+    "Lord of Salt.md",
+    "Kara.md",
+    "Nelharim.md",
+    "Kara Valley.md",
+    "Culture.md",
+    "Rafah.md",
+    "Welcome to Raudaia!.md",
+    "index.md",
     "Cult of the Mountains.md",
     "Maps/Raudaia at The Founding.md",
     "Campaigns",
@@ -139,20 +156,11 @@
     "Gods of the Valley.md",
     "Council of Arleans.md",
     "Maps/Blank Map.md",
-    "Kara.md",
-    "Nelharim.md",
     "Kharparet.md",
     "Falah.md",
     "Religion.md",
-    "Welcome to Raudaia!.md",
     "History.md",
     "Climate.md",
-    "Geography.md",
-    "Regions.md",
-    "Eastern Lands.md",
-    "Fajari Wetlands.md",
-    "Emerald Coast.md",
-    "Western Horn.md",
     "images/Raudaia Overview.png",
     "images/The Founding States.png",
     "images/The Founding Religions.png",

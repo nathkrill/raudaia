@@ -1,3 +1,7 @@
+---
+tags:
+  - State
+---
 The Western kingdom of Palerabi was created at the time of [[The Founding]]. It came out of the [[Kara]] who followed the beliefs of the [[Cult of the Mountains]]. 
 
 ## Political Structure
