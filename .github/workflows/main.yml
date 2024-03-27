@@ -1,5 +1,13 @@
+name: Deploy Quartz
+
 on:
   push:
     branches:
     - master
-  run: npx quartz create
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: npx
+        run: npx quartz create
