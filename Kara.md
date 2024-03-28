@@ -3,7 +3,7 @@ tags:
   - Culture
 ---
 
-As the name suggests, the Kara people originate in the [[Kara Valley|Kara Valley]]. A race of humans, they are hot-headed and salty people - to match their place of origin! Their culture is lively and colourful. They take pride in the dyeing of cloths and clothes.
+As the name suggests, the Kara people originate in the [[Kara Valley|Kara Valley]]. They are hot-headed and salty people - to match their place of origin! Their culture is lively and colourful. They take pride in the dyeing of cloths and clothes.
 
 Most Kara livelihood comes from fishing the lakes, although they are also known to shepherd the hills and fields on the outskirts of the valley.
 

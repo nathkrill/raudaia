@@ -41,6 +41,20 @@
         "a": 1,
         "rgb": 16711680
       }
+    },
+    {
+      "query": "tag:#Location  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "path:Campaigns ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9901971420552399,
+  "scale": 1.6484506613414125,
   "close": false
 }

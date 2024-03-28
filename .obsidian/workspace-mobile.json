@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carria.md",
+                "file": "Kharparet.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ede232f241d4ae9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/Qs in R/GM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Carria.md",
+            "file": "Kharparet.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Carria.md",
+            "file": "Kharparet.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,8 +126,16 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Carria.md"
+            "file": "Kharparet.md"
           }
+        }
+      },
+      {
+        "id": "9428e893eee2d1aa",
+        "type": "leaf",
+        "state": {
+          "type": "DICE_ROLLER_VIEW",
+          "state": {}
         }
       }
     ],
@@ -134,40 +154,51 @@
   },
   "active": "dc4563f667e4e94e",
   "lastOpenFiles": [
-    "The Founding.md",
-    "Carria.md",
-    "The Trials of the Lake.md",
-    "King of the Lake.md",
+    "Leeyaz.md",
+    "images/leeyaz.png",
     "Legaiziripo.md",
-    "Palerabi.md",
-    "Council of Salt.md",
-    "Lord of Salt.md",
-    "Kara.md",
-    "Nelharim.md",
-    "Kara Valley.md",
-    "Culture.md",
-    "Rafah.md",
-    "Welcome to Raudaia!.md",
-    "index.md",
-    "Cult of the Mountains.md",
-    "Maps/Raudaia at The Founding.md",
-    "Campaigns",
-    "Alkhara Desert.md",
-    "Gods of the Valley.md",
-    "Council of Arleans.md",
+    "The Founding.md",
     "Maps/Blank Map.md",
-    "Kharparet.md",
-    "Falah.md",
+    "Maps/Raudaia at The Founding.md",
+    "Campaigns/Qs in R/The Circus.md",
+    "Campaigns/Qs in R/Scene Board.canvas",
+    "Campaigns/Qs in R/Assets/Screenshot_20240327-145612.png",
+    "Welcome to Raudaia!.md",
     "Religion.md",
-    "History.md",
-    "Climate.md",
+    "Campaigns/Qs in R/Threads/Find Fahnren.md",
+    "Campaigns/Qs in R/Characters/Inma.md",
+    "Campaigns/Qs in R/Characters/Bloola Steel.md",
+    "Campaigns/Qs in R/Encounters/Session 1 - Circus Encounter.md",
+    "Campaigns/Qs in R/Scene 1.md",
+    "Campaigns/Qs in R/Encounters",
+    "Ebesia.md",
+    "Campaigns/Qs in R/Introduction.md",
+    "Campaigns/Qs in R/GM.md",
+    "Campaigns/Qs in R/Characters/Fahnren.md",
+    "Campaigns/Qs in R/PCs/Quentin McQuall.md",
+    "Untitled.md",
+    "Campaigns/Qs in R/Assets",
+    "Campaigns/Qs in R/Characters",
+    "Campaigns/Qs in R/Threads",
+    "Campaigns/Qs in R/Assets/Screenshot_20240327-142015.png",
+    "Campaigns/Qs in R/Assets/Screenshot_20240327-141848.png",
+    "Campaigns/Qs in R/Assets/Screenshot_20240327-141732.png",
+    "Campaigns/Qs in R/Assets/Screenshot_20240327-141523 1.png",
+    "Campaigns/Qs in R/Assets/Screenshot_20240327-141523.png",
+    "Gafranthel.md",
+    "Campaigns/Qs in R/PCs",
+    "Campaigns/Qs in R",
+    "Nelhahet.md",
+    "Nelharim.md",
+    "Khar.md",
+    "Kharparet.md",
+    "Kara.md",
+    "Campaigns",
     "images/Raudaia Overview.png",
     "images/The Founding States.png",
     "images/The Founding Religions.png",
-    "images/The Founding Cultures.png",
     "datasets/The Founding - Relations.csv",
     "images",
-    "datasets",
-    "Maps"
+    "datasets"
   ]
 }

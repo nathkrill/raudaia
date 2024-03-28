@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"8137c8639ff12544","type":"file","file":"Campaigns/Qs in R/GM.md","x":-122,"y":-301,"width":400,"height":400},
+		{"id":"9f9e267a38915335","type":"file","file":"Campaigns/Qs in R/PCs/Quentin McQuall.md","x":300,"y":-301,"width":400,"height":400},
+		{"id":"23166c5152c3e370","type":"file","file":"Maps/Raudaia at The Founding.md","x":-122,"y":-960,"width":822,"height":620}
+	],
+	"edges":[]
+}

@@ -1,0 +1,17 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Agility": "number",
+    "Strength": "number",
+    "Finesse": "number",
+    "Instinct": "number",
+    "Presence": "number",
+    "Knowledge": "number",
+    "Experiences": "text",
+    "Chaos": "number",
+    "latitude": "number",
+    "longitude": "number"
+  }
+}
