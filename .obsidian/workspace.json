@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3b20b7f3edf42ec3",
+        "id": "7ea3ce2f1ad4e320",
         "type": "tabs",
         "children": [
           {
-            "id": "21b7f453a1013f74",
+            "id": "ad66a47d1c536a08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Founding.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Founding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Founding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "The Founding.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "9e52c03fb54c7dd8",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
             }
           }
         ]
@@ -147,11 +147,35 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "21b7f453a1013f74",
+  "active": "ad66a47d1c536a08",
   "lastOpenFiles": [
-    "Welcome to Raudaia!.md",
-    "Kara.md",
+    "Ebesia.md",
+    "Leeyaz.md",
+    "Maps/Raudaia at The Founding.md",
+    "Campaigns/Qs in R/Scene Board.canvas",
+    "Maps/Blank Map.md",
+    "Campaigns/Qs in R/Threads/Find Fahnren.md",
+    "Campaigns/Qs in R/Threads",
+    "Campaigns/Qs in R/PCs/Quentin McQuall.md",
+    "Campaigns/Qs in R/PCs",
+    "Campaigns/Qs in R/Encounters/Session 1 - Circus Encounter.md",
+    "Campaigns/Qs in R/Encounters",
+    "Campaigns/Qs in R/Characters/Inma.md",
+    "Campaigns/Qs in R/Characters/Fahnren.md",
+    "Campaigns/Qs in R/Characters/Bloola Steel.md",
+    "Campaigns/Qs in R/Characters",
+    "images/leeyaz.png",
+    "Campaigns/Qs in R/Assets/Screenshot_20240327-141848.png",
+    "Campaigns/Qs in R/Assets/Screenshot_20240327-141732.png",
+    "Campaigns/Qs in R/Assets/Screenshot_20240327-141523.png",
+    "Campaigns/Qs in R/Assets/Screenshot_20240327-141523 1.png",
+    "Campaigns/Qs in R/Assets",
+    "Campaigns/Qs in R",
+    "Campaigns",
     "Culture.md",
+    "Kara.md",
+    "The Founding.md",
+    "Welcome to Raudaia!.md",
     "Cult of the Mountains.md",
     "index.md",
     "Untitled",
@@ -161,33 +185,15 @@
     "Religion.md",
     "Dwarf Gods.md",
     "Khar.md",
-    "Maps/Raudaia at The Founding.md",
-    "The Founding.md",
     "datasets/The Founding - Relations.csv",
     "datasets/The Founding - Relations.csv.crdownload",
-    "datasets",
-    "New folder",
     "History.md",
     "Climate.md",
     "Witenspire.md",
     "Regions.md",
-    "Alkhara Desert.md",
-    "Rafah.md",
-    "Kara Valley.md",
-    "Witenspire Mountains.md",
-    "Tugar Forest.md",
-    "Umrion Valley.md",
-    "Geography.md",
     "images/The Founding Religions.png",
-    "images/The Founding Religions.png.crdownload",
-    "Eastern Lands.md",
-    "Fajari Wetlands.md",
-    "Geography",
     "images/The Founding Cultures.png",
-    "images/The Founding - Cultures.png.crdownload",
     "images/The Founding States.png",
-    "Maps",
-    "Appendices",
     "images/Raudaia Overview.png"
   ]
 }
