@@ -1,3 +1,7 @@
+---
+tags:
+  - Person
+---
 A rogue dwarf member of [[The Circus]]. 
 Inma is a compassionate sort, always looking out for his fellow performers. 
 

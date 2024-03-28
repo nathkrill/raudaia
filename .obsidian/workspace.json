@@ -11,11 +11,74 @@
             "id": "ad66a47d1c536a08",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ebesia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8dd168c3e6f7559",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maps/Raudaia at The Founding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42e546f604f87889",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leeyaz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d12f3ae11ae8fe5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/Qs in R/Scene 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "392bee5f1849826b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Campaigns/Qs in R/Assets/MythicGME2eV2.pdf"
+              }
+            }
+          },
+          {
+            "id": "a9101d5ee3a5777a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/Qs in R/GM.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Leeyaz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Leeyaz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Leeyaz.md"
+              }
             }
           },
           {
@@ -129,12 +196,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,12 +214,26 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "ad66a47d1c536a08",
+  "active": "42e546f604f87889",
   "lastOpenFiles": [
     "Ebesia.md",
     "Leeyaz.md",
     "Maps/Raudaia at The Founding.md",
+    "Campaigns/Qs in R/Scene 1.md",
+    "Campaigns/Qs in R/Scene 2.md",
+    "Issren.md",
+    "The Founding.md",
+    "Campaigns/Qs in R/Threads/Find and remove the robbers.md",
+    "Campaigns/Qs in R/Characters/Ka'Eek.md",
+    "Campaigns/Qs in R/Characters/Inma.md",
+    "Campaigns/Qs in R/Characters/Fahnren.md",
+    "Campaigns/Qs in R/Characters/Bloola Steel.md",
+    "Ke'Eek.md",
     "Campaigns/Qs in R/Scene Board.canvas",
+    "Campaigns/Qs in R/Assets/MythicGME2eV2.pdf",
+    "Emerald Coast.md",
+    "images/issren.png",
+    "Campaigns/Qs in R/GM.md",
     "Maps/Blank Map.md",
     "Campaigns/Qs in R/Threads/Find Fahnren.md",
     "Campaigns/Qs in R/Threads",
@@ -160,9 +241,6 @@
     "Campaigns/Qs in R/PCs",
     "Campaigns/Qs in R/Encounters/Session 1 - Circus Encounter.md",
     "Campaigns/Qs in R/Encounters",
-    "Campaigns/Qs in R/Characters/Inma.md",
-    "Campaigns/Qs in R/Characters/Fahnren.md",
-    "Campaigns/Qs in R/Characters/Bloola Steel.md",
     "Campaigns/Qs in R/Characters",
     "images/leeyaz.png",
     "Campaigns/Qs in R/Assets/Screenshot_20240327-141848.png",
@@ -174,23 +252,13 @@
     "Campaigns",
     "Culture.md",
     "Kara.md",
-    "The Founding.md",
     "Welcome to Raudaia!.md",
     "Cult of the Mountains.md",
     "index.md",
     "Untitled",
     "Nelharim.md",
     "Gods of the Valley.md",
-    "Nelhahet.md",
-    "Religion.md",
-    "Dwarf Gods.md",
-    "Khar.md",
     "datasets/The Founding - Relations.csv",
-    "datasets/The Founding - Relations.csv.crdownload",
-    "History.md",
-    "Climate.md",
-    "Witenspire.md",
-    "Regions.md",
     "images/The Founding Religions.png",
     "images/The Founding Cultures.png",
     "images/The Founding States.png",

@@ -8,13 +8,13 @@ Knowledge: 0
 Experiences:
   Acrobat: 2
   Showoff: 1
-HP: 2
+HP: 0
 MaxHP: 6
 Stress: 0
 MaxStress: 5
 Hope: 5
 MaxHope: 5
-ArmourSlots: 3
+ArmourSlots: 0
 MaxArmourSlots: 3
 Evasion: 10
 Armour: 3

@@ -13,4 +13,7 @@ defaultZoom: 7
 unit: meters
 scale: 1
 darkMode: false
+markerFile: [[Issren]]
+markerFile: [[Leeyaz]]
+markerFile: [[Ebesia]]
 ```

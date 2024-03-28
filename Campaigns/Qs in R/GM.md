@@ -1,7 +1,7 @@
 ---
-Chaos: 6
-Fear: 2
-Hope: 0
+Chaos: 7
+Fear: 4
+Hope: 3
 Action: 0
 tags:
   - Campaign

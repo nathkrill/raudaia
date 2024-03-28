@@ -1,9 +1,7 @@
 ---
 tags:
   - Location
-mapmarker:
-  latitude: 1.35
-  longitude: 4.72
+location: [-1.35,4.73]
 ---
 ![[leeyaz.png]]
 
@@ -12,11 +10,11 @@ id: raudaia-founding
 image: 
  - [[The Founding States.png|States]]
 height: 500px
-lat: 50
-long: 50
+lat: 35
+long: 60
 minZoom: 1
 maxZoom: 10
-defaultZoom: 7
+defaultZoom: 9
 unit: meters
 scale: 1
 darkMode: false

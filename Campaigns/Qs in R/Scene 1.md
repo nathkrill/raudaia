@@ -1,3 +1,7 @@
+---
+tags:
+  - Narrative
+---
 Random Event Focus: PC Negative
 Random Event Meaning: Betray Protection
 
