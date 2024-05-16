@@ -11,11 +11,14 @@
             "id": "ad66a47d1c536a08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Ebesia.md",
-                "mode": "source",
-                "source": false
+                "file": "Campaigns/Qs in R/Scene Board.canvas",
+                "viewState": {
+                  "x": 263.5573776705163,
+                  "y": 385.4994185155058,
+                  "zoom": -1.9999999999999996
+                }
               }
             }
           },
@@ -25,7 +28,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maps/Raudaia at The Founding.md",
+                "file": "Campaigns/Qs in R/Characters/Hugo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3466a459d65ed4d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/Qs in R/Scene 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2218b6f6c30d40e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Issren.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +104,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leeyaz.md",
+                "file": "Campaigns/Qs in R/Scene Board.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leeyaz.md",
+                "file": "Campaigns/Qs in R/Scene Board.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leeyaz.md"
+                "file": "Campaigns/Qs in R/Scene Board.canvas"
               }
             }
           },
@@ -214,14 +240,18 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "42e546f604f87889",
+  "active": "ad66a47d1c536a08",
   "lastOpenFiles": [
+    "Campaigns/Qs in R/Assets/MythicGME2eV2.pdf",
+    "Campaigns/Qs in R/Scene Board.canvas",
+    "Campaigns/Qs in R/Scene 3.md",
     "Ebesia.md",
-    "Leeyaz.md",
-    "Maps/Raudaia at The Founding.md",
-    "Campaigns/Qs in R/Scene 1.md",
+    "Campaigns/Qs in R/Characters/Hugo.md",
     "Campaigns/Qs in R/Scene 2.md",
+    "Campaigns/Qs in R/Scene 1.md",
     "Issren.md",
+    "Maps/Raudaia at The Founding.md",
+    "Leeyaz.md",
     "The Founding.md",
     "Campaigns/Qs in R/Threads/Find and remove the robbers.md",
     "Campaigns/Qs in R/Characters/Ka'Eek.md",
@@ -229,8 +259,6 @@
     "Campaigns/Qs in R/Characters/Fahnren.md",
     "Campaigns/Qs in R/Characters/Bloola Steel.md",
     "Ke'Eek.md",
-    "Campaigns/Qs in R/Scene Board.canvas",
-    "Campaigns/Qs in R/Assets/MythicGME2eV2.pdf",
     "Emerald Coast.md",
     "images/issren.png",
     "Campaigns/Qs in R/GM.md",
@@ -254,10 +282,7 @@
     "Kara.md",
     "Welcome to Raudaia!.md",
     "Cult of the Mountains.md",
-    "index.md",
     "Untitled",
-    "Nelharim.md",
-    "Gods of the Valley.md",
     "datasets/The Founding - Relations.csv",
     "images/The Founding Religions.png",
     "images/The Founding Cultures.png",
