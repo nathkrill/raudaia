@@ -30,4 +30,14 @@ There is the shuffling of feet, then the voice shouts "Begin!"
 
 Quentin edges closer to try to see what's going on.
 agility roll: `= [[Quentin McQuall]].agility` + 9h + 8f = 18
- 
+
+He sees 4 pairs of gruff looking individuals, wrestling on the ground, with a larger one pacing between them, barking advice on their form. Quentin assumes that these are some kind of bandit trainees. 
+A number of tunnels split off from this chamber, but there's no way through without being spotted. Quentin decides to double back to the fork and take the right-hand tunnel instead. 
+
+*reward depletion*
+The tunnel goes to what looks like a long-abandoned store room. Dusty crates line the square chamber and a musty aroma hangs in the air. 
+Quentin searches the room for anything useful, however unlikely. 
+Instinct roll dc20 `= [[Quentin McQuall]].instinct` + 7h + 4h = 11
+He doesn't find anything but spiders, so continues on through the next tunnel. 
+
+The tunnel goes on, the darkness seeming to stretch on forever. 
