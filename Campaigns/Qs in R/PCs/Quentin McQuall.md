@@ -28,6 +28,7 @@ Damage:
 tags:
   - Campaign
   - Person
+Spellcast: "2"
 ---
 Level 1 Troubadour Bard. Wanderborne
 
@@ -50,8 +51,14 @@ Armour `= this.armour`
 **Deft Deceiver**
 Spend a hope to take advantage on a deception or trick
 
+**Enrapture**
+Make a Spellcast Roll against a close target. On a success, you can temporarily keep their attention on you, narrowing their field of view and drowning out any sound but your voice. Once per short rest, you may also mark a Stress on a success to deal a Stress to the target.
+
 **Rally**
-Each session, place 1d6 on your sheet. Increase the value on the die with each fear roll. At 6 remove the die and and everyone can add 1d6 to an action, reaction, or damage roll. 
+Once per session, describe how you rally the party as they head into the fray, then give yourself and each of your allies a d6 Rally die. 
+Anyone with a Rally die can spend it to roll it, adding the result to an action roll, reaction roll, or damage roll, or clearing Stress equal to the Rally die result. 
+At the end of each session, all unspent Rally dice are cleared.
+The Rally die you distribute increases to 1d8 at level 5.
 
 **Troubadour**
 Relaxing Song: Once per long rest, perform to heal allies by 1HP.
@@ -61,14 +68,15 @@ Epic Song: Once per long rest, perform to make an enemy vulnerable
 Heartbreaking Song: Once per long rest, give 1 hope you and allies
 
 **Goblin**
-✅ Once per long rest, mark 1 stress to make the GM reroll and attack. If it hits, reduce the damage by your proficiency. 
+✅ **Danger Sense**: Once per short rest, mark a Stress to make an adversary reroll an attack against you or an ally within Very Close range of you.
+**Surefooted**: You ignore disadvantage on Agility rolls.
 ## Inventory 
 
-### Bladed Whip
-Finesse, Very Close. 1d10 physical damage.
-Spend 1 stress to attack 2 targets
+### Bladed Whip (+1)
+Finesse, Very Close. 1d8+3 physical damage.
+**Feature**: Quick (Mark a Stress to make an attack an additional target in range.)
 
-### Whip
+### Whip (+2)
 Finesse, Very Close. 1d6 physical damage.
 Spend 1 stress to push away melee targets to close range
 

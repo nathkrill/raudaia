@@ -12,6 +12,7 @@
     "Experiences": "text",
     "Chaos": "number",
     "latitude": "number",
-    "longitude": "number"
+    "longitude": "number",
+    "Spellcast": "number"
   }
 }

@@ -1,9 +1,10 @@
 {
 	"nodes":[
-		{"id":"2651a3ed94310127","x":-122,"y":120,"width":400,"height":400,"type":"file","file":"Campaigns/Qs in R/Scene 3.md"},
 		{"id":"8137c8639ff12544","type":"file","file":"Campaigns/Qs in R/GM.md","x":-122,"y":-301,"width":400,"height":400},
 		{"id":"9f9e267a38915335","type":"file","file":"Campaigns/Qs in R/PCs/Quentin McQuall.md","x":300,"y":-301,"width":400,"height":400},
-		{"id":"23166c5152c3e370","type":"file","file":"Maps/Raudaia at The Founding.md","x":-122,"y":-940,"width":822,"height":620}
+		{"id":"23166c5152c3e370","type":"file","file":"Maps/Raudaia at The Founding.md","x":-122,"y":-940,"width":822,"height":620},
+		{"id":"ed7f100b8e649c3f","type":"link","url":"https://app.demiplane.com/nexus/daggerheart/rules","x":-620,"y":-301,"width":480,"height":821},
+		{"id":"1d982210b6288571","x":-122,"y":120,"width":400,"height":400,"type":"file","file":"Campaigns/Qs in R/Scene 4.md"}
 	],
 	"edges":[]
 }
