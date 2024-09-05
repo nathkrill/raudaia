@@ -29,3 +29,6 @@ The young world has seen two distinct ages, transitioned by a mighty religious c
 ## [[Religion]]
 
 Unsurprisingly, religion has been at the centre most of the historical, cultural, and political interest in Raudaia.
+
+## [[Factions]]
+

@@ -1,7 +1,7 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 45884
       }
+    },
+    {
+      "query": "tag:#Faction",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
     }
   ],
   "collapse-display": true,
@@ -74,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5982019239170299,
+  "scale": 0.32133638605035897,
   "close": false
 }
