@@ -1,0 +1,27 @@
+{
+  "documentFormatVersion": 3,
+  "abilities": [
+    {
+      "filled": true,
+      "name": "Agile",
+      "text": "+1 to a move where you perform a feat of acrobatics. +1 momentum on success."
+    },
+    {
+      "filled": true,
+      "name": "Dancer's Grace",
+      "text": "You can Secure An Advantage with Edge +1 to captivate those around you with your fluid movements."
+    }
+  ],
+  "description": "You are a performer of acrobatic feats and daring stunts.",
+  "name": "Acrobat",
+  "type": "Path",
+  "fonts": {},
+  "icon": {
+    "name": "acrobatic",
+    "author": "",
+    "dataUri": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBzdHlsZT0iaGVpZ2h0OiA1MTJweDsgd2lkdGg6IDUxMnB4OyI+PGcgY2xhc3M9IiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwwKSIgc3R5bGU9IiI+PHBhdGggZD0iTTE0MC40ODggMTkuMzFzLTI2LjcyNiA2NS41ODQtMjQuNTcyIDc1LjczNGMxLjg3OCA5LjE5MSA5LjMwNi4zMTYgMTIuNDU3IDcuMDY0IDUuNTkgMTEuODAzIDU1LjM0MiA5My42NjMgNDkuMTgyIDk4LjYyNi0xLjU1OCAxLjM2LTM5LjM4LS40MDItNjcuOTYxLTUuODQ1LTUyLjQ5LTkuOTk4LTk0LjgyMiAyLjM1Mi03Ny4wMzkgNDIuMjEgMjYuMTc3IDU4LjY1MyAxMzMuMTUgMTU0LjE0IDk3Ljg5IDE4My42MDItNDAuODQ0IDM0LjE1OSAxOS44MiAxMTcuMjQ5IDc5LjI3NSA0MC4zMDggMTAuODg1LTE0LjA4NSAyOS4zNTYtNzMuMjAxLTEuNjE0LTY5LjU3OS0zNy40NDcgNC4zOC0xNC4xMjgtMzAuNDkxLTE0LjEyOC0zMC40OTFsMjMuMzQ1LTI5LjkyYzEyLjk2LTEuOSAxMzQuNTM0LTIxLjQ0OSAxMzQuNTM0LTIxLjQ0OWwtNC4yMjYtMjcuMDAyLTE3NC40NzUgMjAuMjVzLTI0LjE2LTMyLjQ1My0zNS45NjQtNTAuNjg3Yy05LjM3LTExLjQ3NCA2Mi4wMDUgNC44OCA3Ni4zODgtMTAuNTIyIDE5Ljk2OC0yMS4yNzYgNy42MDEtNDMuODggNy42MDEtNDMuODhMMTU1LjM1IDY5LjIwMXptMTE0LjYxOSA0My45NzdsLTYyLjc1OSAzOS40MTkgMTYuMDgxIDI4Ljg5NyAxMTQuOTMxLTU4Ljg2em0tMTI0Ljc0MyA3OC44NGwtNDYuNjkxIDMxLjYxMiA0OC4yMjQgMTAuNDQ0IDE3LjQxNy0xMi4xM3ptMTc1LjA4IDI0LjQ5NmwtNTIuMTY2IDM0LjM3IDUxLjk2OSAzMi40NjIuMDU4LTIxLjkzYzUxLjg2OSAxMi40MyAxNDAuMjIgNDguMTMgMTI2LjQ3MiAxOTEuMjZsMjMuOTA4LTczLjg4OSAyNy44ODQgMzMuMzg2Yy01LjUwMi0xNjYuOTAzLTE1MC41MzctMTcwLjU5My0xNzguMTktMTcxLjYwOXptLTc0LjM3NiAxNzUuOTUzbC0xOS45MSAyNS44NzMgMTEwLjg5IDE0LjY5N3MxOC42MzgtMTcuODQgMTUuMDM1LTE4Ljk3NmMtMjcuNzEyLTguNjIzLTc5Ljg4Ni0xNi45Ny0xMDYuMDE1LTIxLjU5NHoiIGZpbGw9IiNmZmYiIGZpbGwtb3BhY2l0eT0iMSI+PC9wYXRoPjwvZz48L3N2Zz4="
+  },
+  "track": null,
+  "writeIn": "",
+  "writeIn2": ""
+}

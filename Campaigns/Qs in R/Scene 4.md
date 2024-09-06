@@ -41,3 +41,149 @@ Instinct roll dc20 `= [[Quentin McQuall]].instinct` + 7h + 4h = 11
 He doesn't find anything but spiders, so continues on through the next tunnel. 
 
 The tunnel goes on, the darkness seeming to stretch on forever. 
+
+After some time walking, the tunnel opens up to another cavern. This cavern is lined with a rough brick wall, and has various workbenches. I approach quietly.
+
+Delve the Depths + shadow => weak hit
+
+Reveal a Danger: Environmental Hazard
+
+The room is empty, and appears to be a dead-end.
+I examine the wall closely, remembering the note I found before.
+Are there torches on the wall? Yes
+
+I go left-to-right, finding the second torch. I look for a cracked brick.
+
+Gather Information: Miss
+
+There is no cracked brick to be found. As I scrabble along the wall, I hear footsteps coming down the passage.
+
+I try to find a place to hide.
+
+Face Danger: Strong Hit!
+
+I duck under a desk close by the the right curve of the wall and hide.
+
+A small group of 4 bandits come into the room.
+Do I recognise them from the training room? Yes.
+
+They file into the room, discussing their training session.
+Do they open the secret door? Yes.
+
+One of them finds the cracked brick I had been looking for and presses hard on it. A loud grating noise sounds through the chamber as a portion of the brick wall opens inward by a hinge.
+The bandits go into the tunnel one-by-one.
+
+I dive in behind them, trying to get into the door before it closes.
+
+Face Danger: Strong hit
+
+I slide into the doorway as it snaps shut on some kind of spring. I'm left in a dark tunnel sloping downward.
+
+ I head down the tunnel, slowly and quietly.
+
+Move: Delve the Depths
+
+As I slowly creep along, suddenly there is a loud creaking and cracking. Dust and rocks begin to fall from the ceiling.
+
+Is the collapse ahead? No.
+
+I quickly creep back to the tunnel entrance, to find that it is well and truly blocked by a collapsed ceiling.
+
+As I inspect the pile of rubble in the way, I hear voices as the bandits start coming back up the tunnel.
+
+With nowhere to hide, I crouch down in the shadow and prepare to ambush them.
+
+Secure Advantage: Weak hit
+ 
+ As they come up the tunnel, I suddenly leap forward and lash out with a rope-blade.
+
+Enter the Fray: Weak hit - Take initiative
+
+Strike: Weak hit
+
+My blade goes right into his eye, and he falls to the ground.
+As I pull the ribbon to get the blade back, the others rush forward.
+The first raises his sword. I slide beneath his legs.
+
+Face Danger: +1 danger sense +1 agile => Strong Hit!
+
+The sword comes down behind me and I slide and stand now between 2 of them.
+
+I spin and slice 2 blades at once at each of them.
+
+Strike: Weak hit.
+
+They both go down, blood gushing from their necks. The final one charges at me.
+I kick off the wall to get behind him.
+
+Face Danger: +1 Agile +1 Danger Sense
+Weak Hit.
+He doesn't hit me, and I land behind him. He spins to face me before I can attack. We both go for each other together.
+
+Clash: burn momentum for weak hit
+
+We both take a blow, my dagger going into his chest and his sword striking my arm.
+
+Turn the Tide (Strike): +1 Weak hit
+My blade sinks into his other chest. He raises his arm to hack me away. I kick off his chest and backflip away.
+
+Face Danger: +1 Agile: Weak hit
+
+I land just infront of him. He comes at me again as I go to roll between his legs.
+
+Face Danger: +1 Agile: Strong Hit!
+
+I come up behind him and rush away to get out of his range.
+
+Secure Advantage: Strong hit! (+1)
+
+I turn back and fling both daggers at him as he begins to turn around.
+
+Strike: +1 : Weak hit.
+
+They both hit, but he keeps coming. I dodge around him again.
+
+Face Danger: +1 Weak hit
+
+I again avoid his attack, but he reaches out to grab me as I fly past.
+
+Face Danger: +1 Strong Hit
+
+He grabs air and stumbles forward. I spin and throw out the ribbon as a lasso.
+
+Constrict: burn momentum for strong hit with match!
+
+The lasso tightens around his neck. I pull tight around his throat and pull.
+
+Strike: +2 Strong hit!
+End the fight: Weak hit.
+
+He falls down, his neck broken. I did not enjoy that. -1 spirit.
+
+I rush on down the tunnel, not really worried about sneaking now.
+
+Further down the tunnel I find what the bandits were running from. The colaspse had broken open gas pockets in the walls and a thick cloud of acrid air hits my lungs.
+
+I run on, trying to hold my breath.
+
+Face Danger: Strong hit
+
+I hold my breath and run through it easily.
+I keep going. The tunnel cramps up and I have to squeeze between small gaps in the tunnel.
+
+Face Danger: +1 Weak hit.
+
+I squeeze through the gaps. The pressing rock gives me a moment of panic.
+
+I run down and come to a another chamber.
+
+Is it occupied? No.
+
+It's a chamber that has clearly gone through a lot of excavation. At the far end is a wooden doorway, with light coming from behind it. An exit!
+
+Before I leave, I look for something to help me destroy this place.
+
+Gather Information: Burn momemntum for weak hit.
+
+Oracle Hide Freedom
+

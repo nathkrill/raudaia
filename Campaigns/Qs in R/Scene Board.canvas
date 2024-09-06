@@ -1,10 +1,18 @@
 {
 	"nodes":[
-		{"id":"8137c8639ff12544","type":"file","file":"Campaigns/Qs in R/GM.md","x":-122,"y":-301,"width":400,"height":400},
-		{"id":"9f9e267a38915335","type":"file","file":"Campaigns/Qs in R/PCs/Quentin McQuall.md","x":300,"y":-301,"width":400,"height":400},
+		{"id":"8137c8639ff12544","type":"file","file":"Campaigns/Qs in R/GM.md","x":-122,"y":-301,"width":400,"height":741},
 		{"id":"23166c5152c3e370","type":"file","file":"Maps/Raudaia at The Founding.md","x":-122,"y":-940,"width":822,"height":620},
-		{"id":"ed7f100b8e649c3f","type":"link","url":"https://app.demiplane.com/nexus/daggerheart/rules","x":-620,"y":-301,"width":480,"height":821},
-		{"id":"1d982210b6288571","x":-122,"y":120,"width":400,"height":400,"type":"file","file":"Campaigns/Qs in R/Scene 4.md"}
+		{"id":"f13c5d29705d7db3","type":"file","file":"Campaigns/Qs in R/Assets/Ironsworn-Rulebook.pdf","x":-1827,"y":-1077,"width":1079,"height":1597},
+		{"id":"ca7ff757582eb518","type":"file","file":"Campaigns/Qs in R/Assets/Acrobat.png","x":-440,"y":120,"width":286,"height":400},
+		{"id":"250fde7aaa72adc9","type":"file","file":"Campaigns/Qs in R/Assets/Rope & Blade.png","x":-440,"y":560,"width":286,"height":400},
+		{"id":"1d982210b6288571","type":"file","file":"Campaigns/Qs in R/Scene 4.md","x":300,"y":-301,"width":400,"height":1241},
+		{"id":"47e2bb0620cd4497","type":"file","file":"Campaigns/Qs in R/Assets/Ironsworn-Delve-Rulebook.pdf","x":-1840,"y":560,"width":1092,"height":1414},
+		{"id":"4e378cee46c8247d","type":"file","file":"Pasted image 20240905154405.png","x":-480,"y":1020,"width":232,"height":400},
+		{"id":"0bc9df76a9da512b","type":"file","file":"Pasted image 20240905154428.png","x":-248,"y":1020,"width":235,"height":400},
+		{"id":"50dec65f58502719","type":"file","file":"Campaigns/Qs in R/Delves/Robber's Tunnels.md","x":-122,"y":483,"width":400,"height":137},
+		{"id":"47ee645a6260c02b","type":"file","file":"Campaigns/Qs in R/Assets/Ironsworn-Playkit.pdf","x":-2920,"y":-1080,"width":1040,"height":1597},
+		{"id":"2e82625c23c1d148","type":"file","file":"Campaigns/Qs in R/Encounters/Scene 4 - Tunnel Ambush.md","x":-122,"y":634,"width":400,"height":126},
+		{"id":"f7963f43d1217a30","type":"file","file":"Campaigns/Qs in R/Assets/Goblin (4).png","x":-440,"y":-301,"width":286,"height":400}
 	],
 	"edges":[]
 }

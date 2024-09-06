@@ -1,0 +1,37 @@
+{
+  "documentFormatVersion": 3,
+  "abilities": [
+    {
+      "filled": true,
+      "name": "Tricksy",
+      "text": "+1 on Compel moves where you are deceiving."
+    },
+    {
+      "filled": true,
+      "name": "Danger Sense",
+      "text": "+1 when you Face Danger, and gain +1 momentum on a hit. You have 3 uses at level 1, 5 uses at level 2, 8 uses at level 3."
+    },
+    {
+      "filled": true,
+      "name": "Evil Heritage",
+      "text": "+1 on a Gather Information move if you are trying to find out about something evil in nature."
+    },
+    {
+      "filled": true,
+      "name": "Tiny",
+      "text": "Your small form gives you +1 when you <em>Face Danger</em> or <em>Secure an Advantage</em> by entering a small space."
+    }
+  ],
+  "description": "You are a goblin. An often-shunned monstrous race with dark origins.",
+  "name": "Goblin",
+  "type": "Heritage",
+  "fonts": {},
+  "icon": {
+    "name": "goblin",
+    "author": "",
+    "dataUri": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBzdHlsZT0iaGVpZ2h0OiA1MTJweDsgd2lkdGg6IDUxMnB4OyI+PGcgY2xhc3M9IiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwwKSIgc3R5bGU9IiI+PHBhdGggZD0ibTI1NiA0MTUtMTQyLjktNDYuNyAxMC4yLTQ5LjdTLTMuMzg2IDM1Ni4xIDI2IDcxLjRsMTIzLjYgMTQ4LjlMMjU2IDIwMC4xbDEwNi40IDIwLjJMNDg2IDcxLjRjMjkuNCAyODQuNy05Ny4zIDI0Ny4yLTk3LjMgMjQ3LjJsMTAuMiA0OS43em0wLTk4LjQtMzUuOCAxLjgtMTkuNyAzNS41LTI3LTMzLjMtMjAuOCAxLjFjMy41IDM4LjYgNDEuMiA1NC44IDk0LjMgNjAuOWwxMi40LTI0LjggMjUuNCAyMS45YzQyLjUtNy44IDcxLjQtMjQuNCA3NC41LTU4bC0yMi4xLTEuMS0zNi4zIDMxLjQtMTIuNy0zMy44em0xODMuNC0xMDMuNGMxMC40IDY3LjgtMzYuMSA3MS45LTM2LjEgNzEuOWwyLjcgMTIuMnM3NC4yIDMuMiA2MS44LTE2Mi4xbC04NS4xIDEwNy45em0tMzEwLjEgMjkuOUw0NC4yNCAxMzUuMkMzMS43NSAzMDAuNSAxMDYgMjk3LjMgMTA2IDI5Ny4zbDIuNy0xMi4ycy00Ni40Ni00LjEtMzYuMDktNzEuOXptMTQ2IDQyLjEgMzEuNC41IDEyLjEtMTMuMSAxNS4zIDEzLjIgMzEuMy40Yy05LjItNDMuMS03My45LTY5LTkwLjEtMXptLTEyOC43IDEgMzEuMy0uNCAxNS4zLTEzLjIgMTIuMSAxMy4xIDMxLjQtLjVjLTE2LjItNjgtODAuOS00Mi4xLTkwLjEgMXoiIGZpbGw9IiNmZmYiIGZpbGwtb3BhY2l0eT0iMSI+PC9wYXRoPjwvZz48L3N2Zz4="
+  },
+  "track": 8,
+  "writeIn": "",
+  "writeIn2": ""
+}
