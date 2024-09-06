@@ -1,5 +1,7 @@
 {
   "campaigns": {
-    "Campaigns/Qs in R/Ironsworn/Qs in R.md": {}
+    "Campaigns/Qs in R/Ironsworn/Qs in R.md": {
+      "activeCharacter": "Campaigns/Qs in R/Ironsworn/Characters/Quentin McQuall.md"
+    }
   }
 }

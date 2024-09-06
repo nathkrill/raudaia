@@ -3,6 +3,7 @@ tags:
   - Campaign
   - Group
 ---
+
 A travelling band of performers and artists. The Circus makes it's way around the northern regions of Raudaia entertaining the people, bringing life and colour to their mundane lives. 
 
 ## Notable members
