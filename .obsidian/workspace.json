@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e9c122b33b0ca7f8",
+        "id": "70d2fa005171b010",
         "type": "tabs",
         "children": [
           {
-            "id": "fea2414bbce63df4",
+            "id": "946128609eabdb62",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Campaigns/Qs in R/Scene Board.canvas",
-                "viewState": {
-                  "x": -1110,
-                  "y": 447,
-                  "zoom": -1.749647002754368
-                }
+                "file": "Welcome to Raudaia!.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -72,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.5
   },
   "right": {
     "id": "496418b9872ab737",
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/Qs in R/Scene Board.canvas",
+                "file": "Welcome to Raudaia!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaigns/Qs in R/Scene Board.canvas",
+                "file": "Welcome to Raudaia!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Qs in R/Scene Board.canvas"
+                "file": "Welcome to Raudaia!.md"
               }
             }
           },
@@ -174,18 +171,35 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "fea2414bbce63df4",
+  "active": "946128609eabdb62",
   "lastOpenFiles": [
+    "Culture.md",
+    "History.md",
+    "Welcome to Raudaia!.md",
+    "Factions.md",
     "Maps/Raudaia at The Founding.md",
+    "Maps/Raudaia World Map.svg",
+    "Home.md",
+    "Campaigns/Qs in R/Ironsworn/Qs in R.md",
+    "Campaigns/Qs in R/Ironsworn/Progress/Session 1 - Circus Encounter.md",
+    "Campaigns/Qs in R/GM.md",
+    "Campaigns/Qs in R/Ironsworn/Progress/Scene 4 - Tunnel Ambush.md",
+    "Campaigns/Qs in R/Ironsworn/Locations/Robber's Tunnels.md",
+    "Campaigns/Qs in R/Ironsworn/Journals/Session 0.md",
+    "index.md",
+    "Campaigns/Qs in R/Ironsworn/Journals/Scene 7.md",
     "Issren.md",
+    "Campaigns/Qs in R/Ironsworn/Journals/Scene 6.md",
+    "Campaigns/Qs in R/Ironsworn/Progress/Dirty Guard.md",
+    "Campaigns/Qs in R/Scene Board.canvas",
+    "Campaigns/Qs in R/Ironsworn/Journals/Scene 1.md",
     "Maps/Unconfirmed 745569.crdownload",
     "Campaigns/Qs in R/Characters/Ka'Eek.md",
     "Maps/raurest.map",
     "Maps/Unconfirmed 765185.crdownload",
-    "Home.md",
-    "Campaigns/Qs in R/Scene 2.md",
+    "Campaigns/Qs in R/Ironsworn/Journals/Scene 2.md",
     "Maps/Unconfirmed 670968.crdownload",
-    "Campaigns/Qs in R/Scene 3.md",
+    "Campaigns/Qs in R/Ironsworn/Journals/Scene 3.md",
     "JSON Importing How To.md",
     "01-Campaigns/Raudaia/05-Atlas/Raudaia-Simple Atlas.md",
     "Maps/Raudaia Full 2024-09-06-09-30.json",
@@ -197,22 +211,6 @@
     "01-Campaigns/Raudaia/05-Atlas/States/State-Thouiers/Thouiers.md",
     "01-Campaigns/Raudaia/05-Atlas/States/State-Ruan/Ruan.md",
     "01-Campaigns/Raudaia/05-Atlas/States/State-Oberdorfia/Oberdorfia.md",
-    "01-Campaigns/Raudaia/05-Atlas/Religions/Falah.md",
-    "01-Campaigns/Raudaia/05-Atlas/Religions/Gods of the Valley.md",
-    "01-Campaigns/Raudaia/05-Atlas/Religions/Cult of the Mountains.md",
-    "01-Campaigns/Raudaia/05-Atlas/Religions/Kharparet.md",
-    "01-Campaigns/Raudaia/05-Atlas/Religions/Nelharim.md",
-    "01-Campaigns/Raudaia/05-Atlas/Religions/Sect of the Fat.md",
-    "01-Campaigns/Raudaia/05-Atlas/Religions/Cult of the Plum Goose.md",
-    "01-Campaigns/Raudaia/05-Atlas/Religions/Licumilialese Worship.md",
-    "01-Campaigns/Raudaia/05-Atlas/Religions/Tallian Religion.md",
-    "01-Campaigns/Raudaia/05-Atlas/Religions/Chelug undefined.md",
-    "01-Campaigns/Raudaia/05-Atlas/Religions/Faith of Egnely.md",
-    "01-Campaigns/Raudaia/05-Atlas/Religions/Way of Rouil.md",
-    "01-Campaigns/Raudaia/05-Atlas/Religions/Fluortenese Spirits.md",
-    "01-Campaigns/Raudaia/05-Atlas/Religions/Ulus Druidism.md",
-    "Maps/Raudaia World Map.svg",
-    "Campaigns/Qs in R/Scene Board.canvas",
     "91-Assets/_general/PlaceholderImage.png",
     "91-Assets/_general/Grauern Cosmology-1920x1920.png",
     "91-Assets/Test Campaign Ladonia/Village-WEBPs/Zagyhad.webp",

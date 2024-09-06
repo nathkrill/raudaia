@@ -1,5 +1,5 @@
 ---
-Chaos: 6
+Chaos: 7
 Fear: 5
 Hope: 4
 Action: 0
