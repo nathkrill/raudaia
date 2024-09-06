@@ -3,22 +3,8 @@ tags:
   - Location
 location: [-1,5]
 ---
-![[issren.png]]
-```leaflet
-id: raudaia-founding
-image: 
- - [[The Founding States.png|States]]
-height: 500px
-lat: 30
-long: 65
-minZoom: 1
-maxZoom: 10
-defaultZoom: 9
-unit: meters
-scale: 1
-darkMode: false
-marker: ,-1, 5,,Issren
-```
+
+<iframe src="https://watabou.github.io/city-generator/?size=27&seed=6150364240062&name=Issren&population=6716&greens=0&citadel=1&urban_castle=1&plaza=0&temple=0&walls=1&shantytown=0&coast=0&river=1&hub=1" width="768" height="768" />
 
 The town of Issren is the most eastern settlement into the [[Emerald Coast]]. A frontier town, it serves as a stronghold to protect civilians from the wild jungles around it.
 

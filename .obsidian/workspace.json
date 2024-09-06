@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "920115a23b68ed91",
+        "id": "e9c122b33b0ca7f8",
         "type": "tabs",
         "children": [
           {
-            "id": "9ebfb47671344f84",
+            "id": "fea2414bbce63df4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Maps/Raudaia at The Founding.md",
-                "mode": "preview",
-                "source": true
+                "file": "Campaigns/Qs in R/Scene Board.canvas",
+                "viewState": {
+                  "x": -1110,
+                  "y": 447,
+                  "zoom": -1.749647002754368
+                }
               }
             }
           }
@@ -48,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "issren",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maps/Raudaia at The Founding.md",
+                "file": "Campaigns/Qs in R/Scene Board.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maps/Raudaia at The Founding.md",
+                "file": "Campaigns/Qs in R/Scene Board.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maps/Raudaia at The Founding.md"
+                "file": "Campaigns/Qs in R/Scene Board.canvas"
               }
             }
           },
@@ -171,10 +174,18 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "9ebfb47671344f84",
+  "active": "fea2414bbce63df4",
   "lastOpenFiles": [
-    "Home.md",
     "Maps/Raudaia at The Founding.md",
+    "Issren.md",
+    "Maps/Unconfirmed 745569.crdownload",
+    "Campaigns/Qs in R/Characters/Ka'Eek.md",
+    "Maps/raurest.map",
+    "Maps/Unconfirmed 765185.crdownload",
+    "Home.md",
+    "Campaigns/Qs in R/Scene 2.md",
+    "Maps/Unconfirmed 670968.crdownload",
+    "Campaigns/Qs in R/Scene 3.md",
     "JSON Importing How To.md",
     "01-Campaigns/Raudaia/05-Atlas/Raudaia-Simple Atlas.md",
     "Maps/Raudaia Full 2024-09-06-09-30.json",
@@ -183,10 +194,6 @@
     "Maps/Raudaia - The Trifold Treaty.map",
     "Maps/Raudaia - Rafarran Conquest Stage 7.map",
     "Maps/Raudaia - Rafarran Conquest Stage 6.map",
-    "Maps/Raudaia - Rafarran Conquest Stage 5.map",
-    "Maps/Raudaia - Rafarran Conquest Stage 4.map",
-    "Maps/Raudaia - Rafarran Conquest Stage 3.map",
-    "Maps/Raudaia - Rafarran Conquest Stage 2.map",
     "01-Campaigns/Raudaia/05-Atlas/States/State-Thouiers/Thouiers.md",
     "01-Campaigns/Raudaia/05-Atlas/States/State-Ruan/Ruan.md",
     "01-Campaigns/Raudaia/05-Atlas/States/State-Oberdorfia/Oberdorfia.md",
@@ -204,11 +211,6 @@
     "01-Campaigns/Raudaia/05-Atlas/Religions/Way of Rouil.md",
     "01-Campaigns/Raudaia/05-Atlas/Religions/Fluortenese Spirits.md",
     "01-Campaigns/Raudaia/05-Atlas/Religions/Ulus Druidism.md",
-    "01-Campaigns/Raudaia/05-Atlas/Religions/Slovan Druidism.md",
-    "01-Campaigns/Raudaia/05-Atlas/Religions/Soumi Beliefs.md",
-    "01-Campaigns/Raudaia/05-Atlas/Religions/Elladan Deities.md",
-    "01-Campaigns/Raudaia/05-Atlas/Religions/Yamoto Beliefs.md",
-    "01-Campaigns/Raudaia/05-Atlas/Religions/Astellian undefined.md",
     "Maps/Raudaia World Map.svg",
     "Campaigns/Qs in R/Scene Board.canvas",
     "91-Assets/_general/PlaceholderImage.png",

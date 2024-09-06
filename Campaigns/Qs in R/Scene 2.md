@@ -2,6 +2,7 @@
 tags:
   - Narrative
 ---
+
 Expected scene:
 Quentin travels along the river, he might reach [[Ebesia]] eventually.
 scene check: 3 - altered scene - 5: Remove an object  -combine completion

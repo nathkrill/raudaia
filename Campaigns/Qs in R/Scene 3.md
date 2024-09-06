@@ -2,6 +2,7 @@
 tags:
   - Narrative
 ---
+
 Expected scene: Quentin hands over the newspaper to the guard, then gets directions to begin searching the jungle for the robbers.
 Scene check: 9. expected
 
