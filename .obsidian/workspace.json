@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "70d2fa005171b010",
+        "id": "0297dd5d9d6c027d",
         "type": "tabs",
         "children": [
           {
-            "id": "946128609eabdb62",
+            "id": "12691282c53b2e8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maps/Raudaia at The Founding.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9e38f2d74ff1cb29",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +30,33 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "d5398b66bb8381a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leeyaz.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "02f86190b1f34e53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Issren.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome to Raudaia!.md",
+                "file": "Issren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome to Raudaia!.md",
+                "file": "Issren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome to Raudaia!.md"
+                "file": "Issren.md"
               }
             }
           },
@@ -171,13 +208,16 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "946128609eabdb62",
+  "active": "02f86190b1f34e53",
   "lastOpenFiles": [
+    "Leeyaz.md",
+    "Welcome to Raudaia!.md",
+    "Maps/Raudaia at The Founding.md",
+    "Maps/Unconfirmed 855328.crdownload",
+    "Issren.md",
     "Culture.md",
     "History.md",
-    "Welcome to Raudaia!.md",
     "Factions.md",
-    "Maps/Raudaia at The Founding.md",
     "Maps/Raudaia World Map.svg",
     "Home.md",
     "Campaigns/Qs in R/Ironsworn/Qs in R.md",
@@ -188,7 +228,6 @@
     "Campaigns/Qs in R/Ironsworn/Journals/Session 0.md",
     "index.md",
     "Campaigns/Qs in R/Ironsworn/Journals/Scene 7.md",
-    "Issren.md",
     "Campaigns/Qs in R/Ironsworn/Journals/Scene 6.md",
     "Campaigns/Qs in R/Ironsworn/Progress/Dirty Guard.md",
     "Campaigns/Qs in R/Scene Board.canvas",
@@ -207,10 +246,7 @@
     "Maps/Raudaia at The Founding.map",
     "Maps/Raudaia - The Trifold Treaty.map",
     "Maps/Raudaia - Rafarran Conquest Stage 7.map",
-    "Maps/Raudaia - Rafarran Conquest Stage 6.map",
     "01-Campaigns/Raudaia/05-Atlas/States/State-Thouiers/Thouiers.md",
-    "01-Campaigns/Raudaia/05-Atlas/States/State-Ruan/Ruan.md",
-    "01-Campaigns/Raudaia/05-Atlas/States/State-Oberdorfia/Oberdorfia.md",
     "91-Assets/_general/PlaceholderImage.png",
     "91-Assets/_general/Grauern Cosmology-1920x1920.png",
     "91-Assets/Test Campaign Ladonia/Village-WEBPs/Zagyhad.webp",

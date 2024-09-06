@@ -5,24 +5,8 @@ mapmarker:
   latitude: 1.35
   longitude: 4.72
 ---
-![[leeyaz.png]]
 
-```leaflet
-id: raudaia-founding
-image: 
- - [[The Founding States.png|States]]
-height: 500px
-lat: 50
-long: 50
-minZoom: 1
-maxZoom: 10
-defaultZoom: 7
-unit: meters
-scale: 1
-darkMode: false
-marker: ,-1.35, 4.73,,Leeyaz
-```
-
+<iframe src="https://watabou.github.io/city-generator/?size=32&seed=6150364240516&name=Leeyaz&population=10870&greens=0&citadel=0&urban_castle=0&plaza=1&temple=0&walls=0&shantytown=1&coast=0&river=1&hub=1"  width="768" height="768" />
 Leeyaz is a major [[Gafranthel]] town along the [[Umrion Valley]] River. It sits between a fork in the river, offering it a strategic location for travel and trade. 
 
 ## Notable Events
