@@ -183,7 +183,25 @@ It's a chamber that has clearly gone through a lot of excavation. At the far end
 
 Before I leave, I look for something to help me destroy this place.
 
-Gather Information: Burn momemntum for weak hit.
+Gather Information: Burn momentum for weak hit.
 
 Oracle Hide Freedom
 
+There's not much here, but this chamber has a lot of furniture and curtains that would definitely catch fire if I lit one.
+I hurriedly try to light a fire.
+
+Secure an Advantage: Weak hit
+
+I set a small fire at the base of a curtain. The flames begin to rise quickly, then pass along the rail to the other curtain.
+
+It's only then that I realise that the flames are around the door I need to leave by!
+I throw a chair at the door to knock it open, then try to leap through the flames.
+
+Face Danger +1 agile Miss
+The chair doesn't knock the door open.
+I throw out a ribbon to a beam on the ceiling and try to swing through the door,
+
+Face Danger +1 agile +1 swing Weak hit.
+
+I swing across the room and kick through the door, tumbling out in to a small ditch at the side of a low hill.
+I get to my feet and rush off into the woods.

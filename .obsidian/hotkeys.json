@@ -1,1 +1,11 @@
-{}
+{
+  "obsidian-import-json:import-json": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "J"
+    }
+  ]
+}

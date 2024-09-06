@@ -1,4 +1,10 @@
 {
+  "livePreview": false,
+  "propertiesInDocument": "hidden",
+  "showLineNumber": true,
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "defaultViewMode": "preview",
+  "showInlineTitle": false
 }

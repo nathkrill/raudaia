@@ -1,0 +1,13 @@
+{
+  "jsonName": "info.thisCampaign",
+  "jsonNamePath": false,
+  "jsonUrl": "",
+  "folderName": "01-Campaigns/Raudaia/05-Atlas/",
+  "topField": "",
+  "notePrefix": "",
+  "noteSuffix": "-Linked Atlas",
+  "handleExistingNote": 1,
+  "forceArray": true,
+  "multipleJSON": false,
+  "uniqueNames": false
+}

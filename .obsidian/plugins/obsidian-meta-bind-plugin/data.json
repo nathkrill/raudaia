@@ -1,0 +1,146 @@
+{
+  "devMode": false,
+  "ignoreCodeBlockRestrictions": true,
+  "preferredDateFormat": "YYYY-MM-DD",
+  "firstWeekday": {
+    "index": 0,
+    "name": "Sunday",
+    "shortName": "Su"
+  },
+  "syncInterval": 200,
+  "minSyncInterval": 50,
+  "maxSyncInterval": 1000,
+  "enableJs": true,
+  "viewFieldDisplayNullAsEmpty": true,
+  "enableSyntaxHighlighting": true,
+  "enableEditorRightClickMenu": true,
+  "inputFieldTemplates": [
+    {
+      "name": "Status",
+      "declaration": "INPUT[inlineSelect(option(null), option(setup), option(active), option(hiatus), option(completed))]"
+    },
+    {
+      "name": "Tags",
+      "declaration": "INPUT[inlineSelect(option(#Location), option(#Settlement), option(#Character), option(#Organization), option(#NPC), option(#Player), option(#POI), option(#SessionNote), option(#Service), option(#Letter), option(#Party), option(#Deity), option(#Geography), option(#Landmark), option(#Ancestry), option(#Quest), option(#KeyedLocation), option(#District), option(#Key), option(#Adventure), option(#County), option(#Literature), option(#JourneyBoard), option(#Hierarchy))]"
+    },
+    {
+      "name": "WBProgress",
+      "declaration": "INPUT[inlineSelect(option(Imported), option(In Progress), option(Game-ready), option(Nearly Complete), option(Completed), showcase)]"
+    },
+    {
+      "name": "cssClass",
+      "declaration": "INPUT[inlineSelect(option(sixty-pct-width),option(seventy-pct-width),option(eighty-pct-width),option(ninety-pct-width),option(full-width))]"
+    }
+  ],
+  "buttonTemplates": [
+    {
+      "label": "Add New Campaign",
+      "hidden": false,
+      "class": "",
+      "tooltip": "Add a new campaign & folder structure",
+      "id": "new-campaign",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:2fbf6b35-69f7-4821-a1fa-2ff526c54da1"
+        }
+      ]
+    },
+    {
+      "label": "Load Workspace",
+      "hidden": false,
+      "class": "",
+      "tooltip": "Load a workspace",
+      "id": "load-workspace",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "workspaces:load"
+        }
+      ]
+    },
+    {
+      "label": "Reload App",
+      "hidden": false,
+      "class": "",
+      "tooltip": "Reload the app without saving.",
+      "id": "reload-vault",
+      "style": "default",
+      "actions": [
+        {
+          "type": "command",
+          "command": "app:reload"
+        }
+      ]
+    },
+    {
+      "label": "Add New Session Note",
+      "icon": "",
+      "hidden": false,
+      "class": "",
+      "tooltip": "Add a new Session in the current Campaign",
+      "id": "new-session",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:d661e66b-e072-4760-95e6-1e172dadb98c"
+        }
+      ]
+    },
+    {
+      "label": "Campaign Index",
+      "icon": "",
+      "hidden": false,
+      "class": "",
+      "tooltip": "Open the Campaign Index",
+      "id": "campaign-index",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "open",
+          "link": "[[obsidian://open?vault=buttonpusherTTRPG&file=01-Campaigns%2FCampaign%20Index]]",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "label": "Remove Burg Help Callout",
+      "icon": "",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "remove-burg-callout",
+      "style": "destructive",
+      "actions": [
+        {
+          "type": "regexpReplaceInNote",
+          "regexp": "!\\[\\[Burg Help Info\\]\\]",
+          "replacement": "%%Burg Help Info%%"
+        }
+      ]
+    },
+    {
+      "label": "Insert Burg Help Callout",
+      "icon": "",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "insert-burg-callout",
+      "style": "default",
+      "actions": [
+        {
+          "type": "regexpReplaceInNote",
+          "regexp": "%%Burg Help Info%%",
+          "replacement": "![[Burg Help Info]]"
+        }
+      ]
+    }
+  ],
+  "excludedFolders": [
+    "templates"
+  ],
+  "useUsDateInputOrder": false
+}

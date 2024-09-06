@@ -1,3 +1,10 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "ITS Theme",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "optional-full-width",
+    "its_snippets",
+    "metabind-custom"
+  ]
 }

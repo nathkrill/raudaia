@@ -4,38 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b8057ee0cdd1774b",
+        "id": "dedc3acb2fbb0078",
         "type": "tabs",
         "children": [
           {
-            "id": "3de295c6c2094e1e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Campaigns/Qs in R/Scene Board.canvas",
-                "viewState": {
-                  "x": 391.69978066673195,
-                  "y": 414.82227293004917,
-                  "zoom": -1.0829803360877015
-                }
-              }
-            }
-          },
-          {
-            "id": "04ae937c3f8fbf8e",
+            "id": "ce2937e8f6cd2d6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Qs in R/Scene 4.md",
-                "mode": "source",
-                "source": false
+                "file": "Maps/Raudaia at The Founding.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/Qs in R/Scene 4.md",
+                "file": "Maps/Raudaia at The Founding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaigns/Qs in R/Scene 4.md",
+                "file": "Maps/Raudaia at The Founding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Qs in R/Scene 4.md"
+                "file": "Maps/Raudaia at The Founding.md"
               }
             }
           },
@@ -177,57 +161,65 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "iron-vault:Show Iron Vault commands": false
+      "iron-vault:Show Iron Vault commands": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "custom-sort:Toggle custom sorting": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "04ae937c3f8fbf8e",
+  "active": "ce2937e8f6cd2d6a",
   "lastOpenFiles": [
+    "Home.md",
+    "Maps/Raudaia at The Founding.md",
+    "JSON Importing How To.md",
+    "01-Campaigns/Raudaia/05-Atlas/Raudaia-Simple Atlas.md",
+    "Maps/Raudaia Full 2024-09-06-09-30.json",
+    "Maps/Raudaia Full 2024-09-06-09-30-MODDED.json",
+    "Maps/Raudaia at The Founding.map",
+    "Maps/Raudaia - The Trifold Treaty.map",
+    "Maps/Raudaia - Rafarran Conquest Stage 7.map",
+    "Maps/Raudaia - Rafarran Conquest Stage 6.map",
+    "Maps/Raudaia - Rafarran Conquest Stage 5.map",
+    "Maps/Raudaia - Rafarran Conquest Stage 4.map",
+    "Maps/Raudaia - Rafarran Conquest Stage 3.map",
+    "Maps/Raudaia - Rafarran Conquest Stage 2.map",
+    "01-Campaigns/Raudaia/05-Atlas/States/State-Thouiers/Thouiers.md",
+    "01-Campaigns/Raudaia/05-Atlas/States/State-Ruan/Ruan.md",
+    "01-Campaigns/Raudaia/05-Atlas/States/State-Oberdorfia/Oberdorfia.md",
+    "01-Campaigns/Raudaia/05-Atlas/Religions/Falah.md",
+    "01-Campaigns/Raudaia/05-Atlas/Religions/Gods of the Valley.md",
+    "01-Campaigns/Raudaia/05-Atlas/Religions/Cult of the Mountains.md",
+    "01-Campaigns/Raudaia/05-Atlas/Religions/Kharparet.md",
+    "01-Campaigns/Raudaia/05-Atlas/Religions/Nelharim.md",
+    "01-Campaigns/Raudaia/05-Atlas/Religions/Sect of the Fat.md",
+    "01-Campaigns/Raudaia/05-Atlas/Religions/Cult of the Plum Goose.md",
+    "01-Campaigns/Raudaia/05-Atlas/Religions/Licumilialese Worship.md",
+    "01-Campaigns/Raudaia/05-Atlas/Religions/Tallian Religion.md",
+    "01-Campaigns/Raudaia/05-Atlas/Religions/Chelug undefined.md",
+    "01-Campaigns/Raudaia/05-Atlas/Religions/Faith of Egnely.md",
+    "01-Campaigns/Raudaia/05-Atlas/Religions/Way of Rouil.md",
+    "01-Campaigns/Raudaia/05-Atlas/Religions/Fluortenese Spirits.md",
+    "01-Campaigns/Raudaia/05-Atlas/Religions/Ulus Druidism.md",
+    "01-Campaigns/Raudaia/05-Atlas/Religions/Slovan Druidism.md",
+    "01-Campaigns/Raudaia/05-Atlas/Religions/Soumi Beliefs.md",
+    "01-Campaigns/Raudaia/05-Atlas/Religions/Elladan Deities.md",
+    "01-Campaigns/Raudaia/05-Atlas/Religions/Yamoto Beliefs.md",
+    "01-Campaigns/Raudaia/05-Atlas/Religions/Astellian undefined.md",
+    "Maps/Raudaia World Map.svg",
     "Campaigns/Qs in R/Scene Board.canvas",
-    "Campaigns/Qs in R/Ironsworn/Journals/Session 0.md",
-    "Campaigns/Qs in R/Ironsworn/Homebrew/homebrew.json",
-    "Campaigns/Qs in R/Ironsworn/Homebrew/Untitled.md",
-    "Campaigns/Qs in R/Ironsworn/Homebrew/Goblin 2.json",
-    "Campaigns/Qs in R/Ironsworn/Homebrew/Acrobat.json",
-    "Campaigns/Qs in R/Ironsworn/Homebrew/Rope & Blade.json",
-    "Campaigns/Qs in R/Ironsworn/Homebrew/Goblin 1.json",
-    "Campaigns/Qs in R/Ironsworn/Homebrew/Goblin.json",
-    "Campaigns/Qs in R/Ironsworn/Homebrew",
-    "Campaigns/Qs in R/Ironsworn/Qs in R.md",
-    "Campaigns/Qs in R/Ironsworn/Truths.md",
-    "Campaigns/Qs in R/Ironsworn/Characters/Quentin McQuall.md",
-    "Campaigns/Qs in R/Ironsworn/Lore",
-    "Campaigns/Qs in R/Ironsworn/Factions",
-    "Campaigns/Qs in R/Ironsworn/Locations",
-    "Campaigns/Qs in R/Assets/Goblin (4).png",
-    "Campaigns/Qs in R/Assets/Goblin (3).png",
-    "Campaigns/Qs in R/Encounters/Scene 4 - Tunnel Ambush.md",
-    "Campaigns/Qs in R/Scene 2.md",
-    "Campaigns/Qs in R/Scene 3.md",
-    "Pasted image 20240905154428.png",
-    "Pasted image 20240905154405.png",
-    "Campaigns/Qs in R/Delves/Robber's Tunnels.md",
-    "Campaigns/Qs in R/Scene 4.md",
-    "Campaigns/Qs in R/Assets/Rope & Blade.png",
-    "Campaigns/Qs in R/Assets/Acrobat.png",
-    "Campaigns/Qs in R/Assets/Goblin (2).png",
-    "Campaigns/Qs in R/Assets/Goblin (1).png",
-    "Undush.md",
-    "Untitled.canvas",
-    "Campaigns/Qs in R/GM.md",
-    "King Nasib Legaiz.md",
-    "Nelharim.md",
-    "Factions.md",
-    "Kharparet.md",
-    "Gizir.md",
-    "Khix.md",
-    "Bilbar.md",
-    "Arkhazdus.md",
-    "Shazilbar.md",
-    "Buraz.md",
-    "The Knights of Stonefist.md",
-    "Religion.md",
-    "Council of the Mystics.md",
-    "images/issren.png",
-    "images/leeyaz.png"
+    "91-Assets/_general/PlaceholderImage.png",
+    "91-Assets/_general/Grauern Cosmology-1920x1920.png",
+    "91-Assets/Test Campaign Ladonia/Village-WEBPs/Zagyhad.webp",
+    "91-Assets/Test Campaign Ladonia/Village-WEBPs/Yryry.webp",
+    "91-Assets/Test Campaign Ladonia/Village-WEBPs/Woldenhober.webp",
+    "91-Assets/Test Campaign Ladonia/Village-WEBPs/Viokos.webp",
+    "91-Assets/Test Campaign Ladonia/Village-WEBPs/Vilpsase.webp",
+    "91-Assets/Test Campaign Ladonia/Village-WEBPs/Vehma.webp",
+    "91-Assets/Test Campaign Ladonia/Village-WEBPs/Varmaholaki.webp",
+    "Untitled.canvas"
   ]
 }
