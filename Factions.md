@@ -14,3 +14,8 @@ Masters of the criminal underworld in Raudaia.
 ## [[The Knights of Stonefist]]
 
 A clan of noble warriors.
+
+
+## [[The Ribbon in the Sand]]
+
+The Kara trade franchise.

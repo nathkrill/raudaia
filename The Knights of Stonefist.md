@@ -2,6 +2,7 @@
 tags:
   - Faction
 ---
+
 The Knights of Stonefist are a clan of warriors set up by the [[Khar]] demigod [[Buraz]].
 
 ### Purpose

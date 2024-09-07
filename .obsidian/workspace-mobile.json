@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e1400082b8125407",
+        "id": "6d435fa48f5c4902",
         "type": "tabs",
         "children": [
           {
-            "id": "f66be9af0efd88f0",
+            "id": "7e5aa256d1e05843",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/Qs in R/Scene 2.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7796f938014b59a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/Qs in R/GM.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Campaigns/Qs in R/GM.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Campaigns/Qs in R/GM.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Campaigns/Qs in R/GM.md"
-          }
+          "state": {}
         }
       },
       {
@@ -168,8 +147,23 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "1d469199f3c03113",
+  "active": "7e5aa256d1e05843",
   "lastOpenFiles": [
+    "Pidypethece.md",
+    "Maps/Raudaia at The Founding.md",
+    "Welcome to Raudaia!.md",
+    "Issren.md",
+    "The Counter.md",
+    "Zasan Q'ortell.md",
+    "The Ribbon in the Sand.md",
+    "Neo-Nelhar.md",
+    "Pevian Holy State.md",
+    "The Hooded Prince.md",
+    "Regions.md",
+    "Geography.md",
+    "Factions.md",
+    "The Knights of Stonefist.md",
+    "The Founding.md",
     "Campaigns/Qs in R/Ironsworn/Journals/Scene 5.md",
     "Campaigns/Qs in R/Ironsworn/Progress/Tunnel bandits.md",
     "Campaigns/Qs in R/Ironsworn/Progress",
@@ -182,26 +176,11 @@
     "Campaigns/Qs in R/Scene 1.md",
     "Campaigns/Qs in R/Introduction.md",
     "Campaigns/Qs in R/GM.md",
-    "Maps/Raudaia at The Founding.md",
     "Home.md",
     "Kharparet.md",
-    "Leeyaz.md",
     "images/leeyaz.png",
-    "Legaiziripo.md",
-    "The Founding.md",
-    "Maps/Blank Map.md",
     "Campaigns/Qs in R/Assets/Screenshot_20240327-145612.png",
-    "Welcome to Raudaia!.md",
-    "Religion.md",
-    "Campaigns/Qs in R/Threads/Find Fahnren.md",
-    "Campaigns/Qs in R/Characters/Inma.md",
-    "Campaigns/Qs in R/Characters/Bloola Steel.md",
-    "Campaigns/Qs in R/Encounters/Session 1 - Circus Encounter.md",
     "Campaigns/Qs in R/Encounters",
-    "Ebesia.md",
-    "Campaigns/Qs in R/Characters/Fahnren.md",
-    "Campaigns/Qs in R/PCs/Quentin McQuall.md",
-    "Untitled.md",
     "Campaigns/Qs in R/Assets",
     "Campaigns/Qs in R/Characters",
     "Campaigns/Qs in R/Threads",
