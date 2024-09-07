@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "0297dd5d9d6c027d",
+        "id": "1056adc18e5af535",
         "type": "tabs",
         "children": [
           {
-            "id": "12691282c53b2e8e",
+            "id": "e0c4d88a7197f16e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maps/Raudaia at The Founding.md",
-                "mode": "preview",
+                "file": "Alkhara Desert.md",
+                "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "9e38f2d74ff1cb29",
+            "id": "5ee934872d4a9d99",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,33 +30,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "d5398b66bb8381a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leeyaz.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "02f86190b1f34e53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Issren.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Issren.md",
+                "file": "Alkhara Desert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Issren.md",
+                "file": "Alkhara Desert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Issren.md"
+                "file": "Alkhara Desert.md"
               }
             }
           },
@@ -208,54 +183,55 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "02f86190b1f34e53",
+  "active": "e0c4d88a7197f16e",
   "lastOpenFiles": [
-    "Leeyaz.md",
+    "Regions.md",
+    "Alkhara Desert.md",
+    "Eastern Lands.md",
+    "images/eastern-lands.png",
+    "images/eastern-lands.png.crdownload",
     "Welcome to Raudaia!.md",
-    "Maps/Raudaia at The Founding.md",
-    "Maps/Unconfirmed 855328.crdownload",
-    "Issren.md",
+    "Tugar Forest.md",
+    "Fajari Wetlands.md",
+    "images/fajari.png",
+    "images/fajari.png.crdownload",
+    "Emerald Coast.md",
+    "images/emerald-coast.png",
+    "images/emerald-coast.png.crdownload",
+    "Western Horn.md",
+    "images/western-horn.png",
+    "images/western-horn.png.crdownload",
+    "Kara Valley.md",
+    "images/kara-valley.png",
+    "images/kara-valley.png.crdownload",
+    "Umrion Valley.md",
+    "images/umrion.png",
+    "images/umrion.png.crdownload",
+    "Starved Wastes.md",
+    "images/starved-wastes.png",
+    "images/starved-wastes.png.crdownload",
+    "images/tugar.png",
+    "images/tugar.png.crdownload",
+    "Witenspire Mountains.md",
+    "images/Witenspire.jpg",
+    "images/Witenspire.jpg.crdownload",
+    "images/issren.png",
     "Culture.md",
-    "History.md",
+    "Gafranthel.md",
+    "Falah.md",
     "Factions.md",
-    "Maps/Raudaia World Map.svg",
-    "Home.md",
-    "Campaigns/Qs in R/Ironsworn/Qs in R.md",
-    "Campaigns/Qs in R/Ironsworn/Progress/Session 1 - Circus Encounter.md",
-    "Campaigns/Qs in R/GM.md",
-    "Campaigns/Qs in R/Ironsworn/Progress/Scene 4 - Tunnel Ambush.md",
-    "Campaigns/Qs in R/Ironsworn/Locations/Robber's Tunnels.md",
-    "Campaigns/Qs in R/Ironsworn/Journals/Session 0.md",
-    "index.md",
-    "Campaigns/Qs in R/Ironsworn/Journals/Scene 7.md",
-    "Campaigns/Qs in R/Ironsworn/Journals/Scene 6.md",
-    "Campaigns/Qs in R/Ironsworn/Progress/Dirty Guard.md",
+    "images/Witenspire.jfif",
+    "Climate.md",
+    "Geography.md",
+    "Durmo.md",
+    "Atum.md",
+    "Gods of the Valley.md",
+    "Kharparet.md",
+    "Shazilbar.md",
+    "Issren.md",
+    "Leeyaz.md",
+    "Maps/Raudaia at The Founding.md",
     "Campaigns/Qs in R/Scene Board.canvas",
-    "Campaigns/Qs in R/Ironsworn/Journals/Scene 1.md",
-    "Maps/Unconfirmed 745569.crdownload",
-    "Campaigns/Qs in R/Characters/Ka'Eek.md",
-    "Maps/raurest.map",
-    "Maps/Unconfirmed 765185.crdownload",
-    "Campaigns/Qs in R/Ironsworn/Journals/Scene 2.md",
-    "Maps/Unconfirmed 670968.crdownload",
-    "Campaigns/Qs in R/Ironsworn/Journals/Scene 3.md",
-    "JSON Importing How To.md",
-    "01-Campaigns/Raudaia/05-Atlas/Raudaia-Simple Atlas.md",
-    "Maps/Raudaia Full 2024-09-06-09-30.json",
-    "Maps/Raudaia Full 2024-09-06-09-30-MODDED.json",
-    "Maps/Raudaia at The Founding.map",
-    "Maps/Raudaia - The Trifold Treaty.map",
-    "Maps/Raudaia - Rafarran Conquest Stage 7.map",
-    "01-Campaigns/Raudaia/05-Atlas/States/State-Thouiers/Thouiers.md",
-    "91-Assets/_general/PlaceholderImage.png",
-    "91-Assets/_general/Grauern Cosmology-1920x1920.png",
-    "91-Assets/Test Campaign Ladonia/Village-WEBPs/Zagyhad.webp",
-    "91-Assets/Test Campaign Ladonia/Village-WEBPs/Yryry.webp",
-    "91-Assets/Test Campaign Ladonia/Village-WEBPs/Woldenhober.webp",
-    "91-Assets/Test Campaign Ladonia/Village-WEBPs/Viokos.webp",
-    "91-Assets/Test Campaign Ladonia/Village-WEBPs/Vilpsase.webp",
-    "91-Assets/Test Campaign Ladonia/Village-WEBPs/Vehma.webp",
-    "91-Assets/Test Campaign Ladonia/Village-WEBPs/Varmaholaki.webp",
     "Untitled.canvas"
   ]
 }
