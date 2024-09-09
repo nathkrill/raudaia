@@ -20,3 +20,4 @@ Unsurprisingly, religion has been at the centre most of the historical, cultural
 
 ## [[Factions]]
 
+Various groups operate across borders, serving unique purposes. 
