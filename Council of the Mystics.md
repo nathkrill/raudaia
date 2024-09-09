@@ -3,6 +3,11 @@ tags:
   - Faction
   - Group
 ---
+
+## Council of the Mystics
+
+![Mystic mage](mage.png)
+
 The Council of the Mystics are a traditional group of magic practitioners who set themselves up as the governing authority of magic across Raudaia.
 
 ## Purpose

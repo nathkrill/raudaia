@@ -2,6 +2,9 @@
 tags:
   - Religion
 ---
+
+## The Nelharim
+
 This set of deities forms the organised religion of the [[Nelhahet]] people. They form temples and erect statues of their gods, each of which is supposed to bring different blessings and provisions for their people.
 
 Nelharim in the [[Nelhahet]] tongue literally means "Noble Ones". Each deity takes the form of a giant humanoid creature. They are benevolent beings. The [[Nelhahet]] see other deities as evil, particularly the [[Cult of the Mountains|Karran mountain cult]].

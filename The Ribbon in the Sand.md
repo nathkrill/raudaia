@@ -3,6 +3,10 @@ tags:
   - Faction
 ---
 
+# The Ribbon in the Sand
+
+![Ribbon Store](ribbonstore.png)
+
 The Ribbon in the Sand is a trade franchise based out of the [[Kara Valley]]. 
 
 ### Purpose
