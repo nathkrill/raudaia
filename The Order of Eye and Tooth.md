@@ -3,6 +3,10 @@ tags:
   - Faction
 ---
 
+# The Order of Eye and Tooth
+
+![Thief](thief.png)
+
 The Order of the Eye and Tooth act as the architects and masterminds behind the criminal networks in the underworld.
 
 ## Purpose

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "67750765878fbdac",
+        "id": "27d87ff540dc5866",
         "type": "tabs",
         "children": [
           {
-            "id": "96a7d781090882c8",
+            "id": "f4323231cf2aafc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nelhahet.md",
-                "mode": "source",
+                "file": "Alkhara Desert.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nelhahet.md",
+                "file": "Alkhara Desert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nelhahet.md",
+                "file": "Alkhara Desert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nelhahet.md"
+                "file": "Alkhara Desert.md"
               }
             }
           },
@@ -171,53 +171,54 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "96a7d781090882c8",
+  "active": "f4323231cf2aafc6",
   "lastOpenFiles": [
-    "Culture.md",
-    "Welcome to Raudaia!.md",
+    "Falah.md",
+    "Alkhara Desert.md",
+    "Regions.md",
+    "Eastern Lands.md",
+    "Fajari Wetlands.md",
+    "Emerald Coast.md",
+    "Western Horn.md",
+    "Kara Valley.md",
+    "Umrion Valley.md",
+    "Starved Wastes.md",
+    "Witenspire Mountains.md",
+    "Tugar Forest.md",
     "Geography.md",
     "Climate.md",
-    "Regions.md",
-    "Alkhara Desert.md",
-    "images/alkhara.png",
-    "images/alkhara.png.crdownload",
-    "Eastern Lands.md",
-    "images/eastern-lands.png",
-    "images/eastern-lands.png.crdownload",
-    "Tugar Forest.md",
-    "Fajari Wetlands.md",
-    "images/fajari.png",
-    "images/fajari.png.crdownload",
-    "Emerald Coast.md",
-    "images/emerald-coast.png",
-    "images/emerald-coast.png.crdownload",
-    "Western Horn.md",
-    "images/western-horn.png",
-    "images/western-horn.png.crdownload",
-    "Kara Valley.md",
-    "images/kara-valley.png",
-    "images/kara-valley.png.crdownload",
-    "Umrion Valley.md",
-    "images/umrion.png",
-    "images/umrion.png.crdownload",
-    "Starved Wastes.md",
-    "images/starved-wastes.png",
-    "images/starved-wastes.png.crdownload",
-    "images/tugar.png",
-    "images/tugar.png.crdownload",
-    "Witenspire Mountains.md",
-    "images/Witenspire.jpg",
-    "images/Witenspire.jpg.crdownload",
-    "Gafranthel.md",
-    "Falah.md",
+    "Welcome to Raudaia!.md",
     "Factions.md",
-    "Durmo.md",
-    "Atum.md",
-    "Gods of the Valley.md",
-    "Kharparet.md",
-    "Shazilbar.md",
-    "Issren.md",
-    "Leeyaz.md",
+    "Council of the Mystics.md",
+    "The Ribbon in the Sand.md",
+    "images/ribbonstore.png",
+    "images/ribbonstore.png.crdownload",
+    "The Knights of Stonefist.md",
+    "images/warrior.png",
+    "images/warrior.png.crdownload",
+    "The Order of Eye and Tooth.md",
+    "images/thief.png",
+    "images/thief.png.crdownload",
+    "images/mage.png",
+    "images/mage.png.crdownload",
+    "Religion.md",
+    "Nelhahet.md",
+    "Kara.md",
+    "Khar.md",
+    "Rafah.md",
+    "images/falah.png",
+    "images/falah.png.crdownload",
+    "Cult of the Mountains.md",
+    "images/qatu.png",
+    "images/qatu.png.crdownload",
+    "images/Newt.webp",
+    "images/shagrig.png",
+    "images/shagrig.png.crdownload",
+    "images/ibawat.png",
+    "images/ibawat.png.crdownload",
+    "images/hinara.png",
+    "images/hinara.png.crdownload",
+    "images/vadox.png.crdownload",
     "Campaigns/Qs in R/Scene Board.canvas",
     "Untitled.canvas"
   ]
