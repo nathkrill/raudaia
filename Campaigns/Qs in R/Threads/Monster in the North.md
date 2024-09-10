@@ -1,0 +1,1 @@
+To the north, where the [[Witenspire Mountains]] meet [[Tugar Forest]], there are reports of a rampaging monster taking down towns and villages.

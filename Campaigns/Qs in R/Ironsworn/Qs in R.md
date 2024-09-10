@@ -21,6 +21,12 @@ iron-vault-kind: campaign
 [[Scene 5]]
 [[Scene 6]]
 [[Scene 7]]
+[[Scene 8]]
+[[Scene 9]]
+[[Scene 10]]
+[[Scene 11]]
+[[Scene 12]]
+[[Scene 13]]
 
 ## Progress
 
@@ -29,3 +35,4 @@ iron-vault-kind: campaign
 [[Scene 4 - Tunnel Ambush]]
 [[Tunnel bandits]]
 [[Dirty Guard]]
+[[Scene 9 - house ambush]]
