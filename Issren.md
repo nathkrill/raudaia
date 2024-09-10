@@ -13,6 +13,6 @@ Most of it's outgoing trade is sent upriver to [[Leeyaz]], either by cart or sma
 
 ### Locations
 
-#### Bumpy Shroom Tavern
+#### [[Bumpy Shroom]] Tavern
 One of the many taverns in Issren, this particular tavern is run by a Fungril called [[Ka'Eek]].
 [[Quentin McQuall]] witnessed Ka'Eek being robbed whilst drinking in this tavern and agreed to sort out his problem in exchange for free board.

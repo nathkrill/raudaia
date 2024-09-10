@@ -55,4 +55,4 @@ The guard captain returns.
 
 She hurriedly rushes me out of the barracks and into the castle courtyard. I'd not seen this part of town yet. She walks me to the large wooden gates of the castle, which open as we approach.
 
-"I don't want to have to cross paths again. But, you've proven yourself a good fighter. I may have need of you if you find yourself available."
+"I don't want to have to cross paths again. But, you've proven yourself a good fighter. I may have need of you if you find yourself available. Just ask for [[Kater]]."

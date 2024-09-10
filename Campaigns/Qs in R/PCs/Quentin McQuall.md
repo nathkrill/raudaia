@@ -30,6 +30,7 @@ tags:
   - Person
 Spellcast: "2"
 ---
+
 Level 1 Troubadour Bard. Wanderborne
 
 Agility +`= this.agility`

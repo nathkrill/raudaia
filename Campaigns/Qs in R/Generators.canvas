@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"904d968b9fc9db11","type":"link","url":"https://donjon.bin.sh/","x":-520,"y":-707,"width":1040,"height":1414},
+		{"id":"95ac48a0cf8d37d8","x":520,"y":-690,"width":960,"height":1397,"type":"link","url":"https://www.thievesguild.cc/npc/index.php"}
+	],
+	"edges":[]
+}
