@@ -95,6 +95,55 @@
       "resultText": "[3]",
       "timestamp": 1725626187373,
       "id": "q9jaCgIpY80S"
+    },
+    {
+      "result": 6,
+      "original": "1d10",
+      "resultText": "[6]",
+      "timestamp": 1725904747987,
+      "id": "EbD265yP1OdT"
+    },
+    {
+      "result": 59,
+      "original": "1d%",
+      "resultText": "[59]",
+      "timestamp": 1725904836828,
+      "id": "E3KT9vFkisOD"
+    },
+    {
+      "result": 1,
+      "original": "1d4",
+      "resultText": "[1]",
+      "timestamp": 1725904884471,
+      "id": "HspEIJEH4hol"
+    },
+    {
+      "result": 4,
+      "original": "1d%",
+      "resultText": "[4]",
+      "timestamp": 1725905059213,
+      "id": "yOJQsmF3mf7P"
+    },
+    {
+      "result": 86,
+      "original": "1d%",
+      "resultText": "[86]",
+      "timestamp": 1725905060666,
+      "id": "DDUtH7sQ92mg"
+    },
+    {
+      "result": 73,
+      "original": "1d%",
+      "resultText": "[73]",
+      "timestamp": 1725906092474,
+      "id": "5Pm9bkZQ0e99"
+    },
+    {
+      "result": 9,
+      "original": "1d10",
+      "resultText": "[9]",
+      "timestamp": 1725906744119,
+      "id": "tX_GWMnNmxb9"
     }
   ]
 }

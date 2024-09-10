@@ -2,6 +2,7 @@
 tags:
   - Person
 ---
+
 Bloola is the leader of [[The Circus]]. 
 She is a tall, strong Faun. She doesn't take any nonsense and can be quite hotheaded at times. 
 

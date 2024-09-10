@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "dd1122837807be0d",
+        "id": "730df1951d013764",
         "type": "tabs",
         "children": [
           {
-            "id": "b82af25e51742063",
+            "id": "464ea272be5c7ba3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 9.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 9.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 9.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 9.md"
+          }
         }
       },
       {
@@ -127,7 +135,7 @@
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,12 +155,26 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "b82af25e51742063",
+  "active": "464ea272be5c7ba3",
   "lastOpenFiles": [
     "Welcome to Raudaia!.md",
+    "Campaigns/Qs in R/Ironsworn/Journals/Scene 9.md",
+    "Campaigns/Qs in R/GM.md",
+    "Campaigns/Qs in R/Ironsworn/Journals/Scene 8.md",
+    "Issren.md",
+    "Campaigns/Qs in R/Characters/Enugar.md",
+    "Campaigns/Qs in R/Ironsworn/Characters/Quentin McQuall.md",
+    "Campaigns/Qs in R/Ironsworn/Journals/Scene 7.md",
+    "2024-09-09.md",
+    "Campaigns/Qs in R/Assets/MythicGME2eV2.pdf",
+    "Campaigns/Qs in R/Scene Board.canvas",
+    "Campaigns/Qs in R/Ironsworn/Journals/Generators.md",
+    "Campaigns/Qs in R/Characters/Bloola Steel.md",
+    "Campaigns/Qs in R/Characters/Fahnren.md",
+    "Campaigns/Qs in R/Threads/Find Fahnren.md",
+    "Campaigns/Qs in R/Threads/Find and remove the robbers.md",
     "Pidypethece.md",
     "Maps/Raudaia at The Founding.md",
-    "Issren.md",
     "The Counter.md",
     "Zasan Q'ortell.md",
     "The Ribbon in the Sand.md",
@@ -163,21 +185,7 @@
     "Geography.md",
     "Factions.md",
     "The Knights of Stonefist.md",
-    "The Founding.md",
-    "Campaigns/Qs in R/Ironsworn/Journals/Scene 5.md",
-    "Campaigns/Qs in R/Ironsworn/Progress/Tunnel bandits.md",
     "Campaigns/Qs in R/Ironsworn/Progress",
-    "Campaigns/Qs in R/Ironsworn/Qs in R.md",
-    "Campaigns/Qs in R/Scene Board.canvas",
-    "Campaigns/Qs in R/The Circus.md",
-    "Campaigns/Qs in R/Scene 3.md",
-    "Campaigns/Qs in R/Assets/MythicGME2eV2.pdf",
-    "Campaigns/Qs in R/Scene 2.md",
-    "Campaigns/Qs in R/Scene 1.md",
-    "Campaigns/Qs in R/Introduction.md",
-    "Campaigns/Qs in R/GM.md",
-    "Home.md",
-    "Kharparet.md",
     "images/leeyaz.png",
     "Campaigns/Qs in R/Assets/Screenshot_20240327-145612.png",
     "Campaigns/Qs in R/Encounters",

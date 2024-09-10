@@ -3,6 +3,7 @@ tags:
   - Campaign
   - Person
 ---
+
 Fahnren Grail is a former member of [[The Circus]], and the mentor and mother figure of [[Quentin McQuall]].
 
 She is a Halfling bard - an acrobatic dancer like her protege. 
