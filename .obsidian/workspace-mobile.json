@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4d92b38176385589",
+        "id": "5d36a18c22534469",
         "type": "tabs",
         "children": [
           {
-            "id": "ff5d13d770378282",
+            "id": "90f781caf7f696b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 16.md",
+                "file": "Welcome to Raudaia!.md",
                 "mode": "preview",
                 "source": true
               }
             }
-          },
-          {
-            "id": "9737d7a965f02995",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Welcome to Raudaia!.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Welcome to Raudaia!.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -120,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Welcome to Raudaia!.md"
+          }
         }
       },
       {
@@ -160,7 +155,7 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "9737d7a965f02995",
+  "active": "90f781caf7f696b8",
   "lastOpenFiles": [
     "Campaigns/Qs in R/Threads/Find and remove the robbers.md",
     "Bandits in the Tunnel.md",
