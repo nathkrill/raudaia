@@ -3,7 +3,7 @@ name: Issren Citadel - Bunkhouse
 rank: troublesome
 progress: 36
 tags:
-  - incomplete
+  - complete
 track-type: Combat
 iron-vault-kind: progress
 ---

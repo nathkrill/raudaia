@@ -3,7 +3,7 @@ name: Scene 9 - house ambush
 rank: troublesome
 progress: 36
 tags:
-  - incomplete
+  - complete
 track-type: Combat
 iron-vault-kind: progress
 ---

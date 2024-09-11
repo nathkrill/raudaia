@@ -1,10 +1,10 @@
 ---
-name: Tunnel bandits
-rank: troublesome
-progress: 36
+name: Clear Issren of Bandits
+rank: dangerous
+progress: 40
 tags:
   - complete
-track-type: Combat
+track-type: Vow
 iron-vault-kind: progress
 ---
 

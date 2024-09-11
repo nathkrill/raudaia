@@ -1,17 +1,17 @@
 ---
 name: Quentin McQuall
 xp_spent: 0
-xp_added: 0
-momentum: 7
+xp_added: 2
+momentum: 8
 edge: 3
 heart: 2
 iron: 2
 shadow: 3
 wits: 1
-health: 1
-spirit: 0
+health: 3
+spirit: 1
 supply: 5
-Bonds_Progress: 0
+Bonds_Progress: 1
 Bonds_XPEarned: 0
 FailureTrack_Progress: 0
 FailureTrack_XPEarned: 0
