@@ -1,5 +1,5 @@
 ---
-Chaos: 8
+Chaos: 7
 Fear: 5
 Hope: 4
 Action: 0
@@ -11,6 +11,8 @@ Chaos `= this.chaos`
 Hope `= this.hope`
 Fear `= this.Fear`
 Action Tokens `= this.Action`
+
+[[Generators.canvas|Generators]]
 
 ![[Screenshot_20240327-141523 1.png]]
 ![[Screenshot_20240327-141732.png]]
