@@ -11,12 +11,8 @@
             "id": "e072b63253f89a77",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,6 +165,8 @@
   },
   "active": "e072b63253f89a77",
   "lastOpenFiles": [
+    "Maps/Unconfirmed 918255.crdownload",
+    "index.md",
     "Tugar Forest.md",
     "Welcome to Raudaia!.md",
     "Campaigns/Qs in R/Introduction.md",
@@ -199,10 +193,8 @@
     "Issren.md",
     "Witnes Conglomerate.md",
     "Campaigns/Qs in R/Ironsworn/Journals/Scene 7.md",
-    "Campaigns/Qs in R/Ironsworn/Journals/Scene 8.md",
     "images/quentin.png.crdownload",
     "images/quentin.png",
-    "Campaigns/Qs in R/The Circus.md",
     "Campaigns/Qs in R/Assets/Ironsworn-Rulebook.pdf",
     "Campaigns/Qs in R/Scene Board.canvas",
     "images/ribbonstore.png",
