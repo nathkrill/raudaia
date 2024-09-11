@@ -16,3 +16,8 @@ Most of it's outgoing trade is sent upriver to [[Leeyaz]], either by cart or sma
 #### [[Bumpy Shroom]] Tavern
 One of the many taverns in Issren, this particular tavern is run by a Fungril called [[Ka'Eek]].
 [[Quentin McQuall]] witnessed Ka'Eek being robbed whilst drinking in this tavern and agreed to sort out his problem in exchange for free board.
+
+### Events
+
+While [[Campaigns/Qs in R/Ironsworn/Characters/Quentin McQuall|Quentin McQuall]] was in Issren, the [[Bandits in the Tunnel]] staged a coup using corrupt town guards and took over the town. 
+Captain of the guard [[Kater]] was able to retake control with [[Campaigns/Qs in R/Ironsworn/Characters/Quentin McQuall|Quentin]]'s help and together they found out that the town's mayor was secretly financing the [[Bandits in the Tunnel]].
