@@ -4,18 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "dce2860d99684f05",
+        "id": "1c74ca104d7ce3b3",
         "type": "tabs",
         "children": [
           {
-            "id": "e072b63253f89a77",
+            "id": "1e22a98578ad9eef",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "obsidian-leaflet-map-view",
               "state": {}
             }
+          },
+          {
+            "id": "99661cf81cefe555",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome to Raudaia!.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Welcome to Raudaia!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Welcome to Raudaia!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Welcome to Raudaia!.md"
+              }
             }
           },
           {
@@ -163,12 +180,12 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "e072b63253f89a77",
+  "active": "99661cf81cefe555",
   "lastOpenFiles": [
+    "Welcome to Raudaia!.md",
     "Maps/Unconfirmed 918255.crdownload",
     "index.md",
     "Tugar Forest.md",
-    "Welcome to Raudaia!.md",
     "Campaigns/Qs in R/Introduction.md",
     "Leeyaz.md",
     "Campaigns/Qs in R/PCs/Quentin McQuall.md",
@@ -211,7 +228,6 @@
     "images/qatu.png.crdownload",
     "images/Newt.webp",
     "images/shagrig.png",
-    "images/shagrig.png.crdownload",
     "images/ibawat.png",
     "Untitled.canvas"
   ]
