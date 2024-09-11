@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1c74ca104d7ce3b3",
+        "id": "df49cd6227303d74",
         "type": "tabs",
         "children": [
           {
-            "id": "1e22a98578ad9eef",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-leaflet-map-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "99661cf81cefe555",
+            "id": "214b2eccdd04ce28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Welcome to Raudaia!.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,11 +171,23 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "99661cf81cefe555",
+  "active": "214b2eccdd04ce28",
   "lastOpenFiles": [
+    "Campaigns/Qs in R/Ironsworn/Journals/Scene 14.md",
+    "Bandits in the Tunnel.md",
+    "Campaigns/Qs in R/GM.md",
+    "Campaigns/Qs in R/Ironsworn/Progress/Issren Citadel - Enugar.md",
+    "Campaigns/Qs in R/Characters/Enugar.md",
+    "Campaigns/Qs in R/Assets/Ironsworn-Delve-Rulebook.pdf",
+    "Excalidraw/Drawing 2024-09-11 10.38.29.excalidraw.md",
+    "Campaigns/Qs in R/Assets/MythicGME2eV2.pdf",
+    "Campaigns/Qs in R/Ironsworn/Progress/Issren Citadel.md",
+    "Pasted image 20240911104231.png",
+    "Pasted image 20240911104211.png",
+    "Campaigns/Qs in R/Ironsworn/Progress/Issren Citadel - Bunkhouse.md",
+    "Welcome to Raudaia!.md",
     "Maps/Unconfirmed 147807.crdownload",
     "Maps/Unconfirmed 537651.crdownload",
-    "Welcome to Raudaia!.md",
     "Maps/Unconfirmed 918255.crdownload",
     "index.md",
     "Tugar Forest.md",
@@ -193,10 +196,8 @@
     "Campaigns/Qs in R/PCs/Quentin McQuall.md",
     "Campaigns/Qs in R/Ironsworn/Characters/Quentin McQuall.md",
     "Campaigns/Qs in R/Ironsworn/Qs in R.md",
-    "Campaigns/Qs in R/GM.md",
     "Campaigns/Qs in R/Ironsworn/Journals/Scene 13.md",
     "Campaigns/Qs in R/Ironsworn/Journals/Scene 12.md",
-    "Bandits in the Tunnel.md",
     "Minas.md",
     "Kater.md",
     "Campaigns/Qs in R/Generators.canvas",
@@ -204,14 +205,8 @@
     "Campaigns/Qs in R/Ironsworn/Journals/Scene 11.md",
     "Campaigns/Qs in R/Threads/Find and remove the robbers.md",
     "Uanan.md",
-    "Campaigns/Qs in R/Assets/MythicGME2eV2.pdf",
     "Campaigns/Qs in R/Threads/Monster in the North.md",
     "Campaigns/Qs in R/Ironsworn/Journals/Scene 10.md",
-    "Regions.md",
-    "Emerald Coast.md",
-    "Issren.md",
-    "Witnes Conglomerate.md",
-    "Campaigns/Qs in R/Ironsworn/Journals/Scene 7.md",
     "images/quentin.png.crdownload",
     "images/quentin.png",
     "Campaigns/Qs in R/Assets/Ironsworn-Rulebook.pdf",
@@ -223,13 +218,9 @@
     "images/thief.png",
     "images/thief.png.crdownload",
     "images/mage.png",
-    "images/mage.png.crdownload",
     "images/falah.png",
-    "images/falah.png.crdownload",
     "images/qatu.png",
     "images/Newt.webp",
-    "images/shagrig.png",
-    "images/ibawat.png",
     "Untitled.canvas"
   ]
 }
