@@ -20,6 +20,10 @@ The young world has seen two distinct ages, transitioned by a mighty religious c
 
 Unsurprisingly, religion has been at the centre most of the historical, cultural, and political interest in Raudaia.
 
-## [[Factions]]
+## [[Calendar]]
 
-Various groups operate across borders, serving unique purposes. 
+The months, seasons, and festivals around Raudaia.
+
+## [[Astronomy]]
+
+Learn about the planet Raudaia is part of, and it's celestial bodies. 

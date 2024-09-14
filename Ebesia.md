@@ -3,6 +3,7 @@ tags:
   - Location
 location: [-1.55, 4.45]
 ---
+
 ```leaflet
 id: raudaia-founding
 image: 

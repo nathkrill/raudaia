@@ -90,6 +90,10 @@ During this time, the [[Carria]] are mostly unknown. While the presence of deser
 
 Bartering and trade are well practiced during this time. The small nations trade with each other in limited capacity. The Founding sees the beginning of the use of small tokens of precious metal as forms of currency.
 
+## [[Factions]]
+
+Various groups operate across borders, serving unique purposes. 
+
 ## Technology
 
 The technology at the time of The Founding is comparable to the late Bronze Age and early Iron Age of our world. The use of the wheel and sail are well established as modes of transport, and weapons are formed of common metals.
