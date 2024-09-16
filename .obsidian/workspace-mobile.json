@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "112f51e75e236a57",
+        "id": "1ecb0e527d1cee6f",
         "type": "tabs",
         "children": [
           {
-            "id": "ae4006ae929613ce",
+            "id": "cec15d42807f881c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Welcome to Raudaia!.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Welcome to Raudaia!.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Welcome to Raudaia!.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Welcome to Raudaia!.md"
+          }
         }
       },
       {
@@ -147,14 +155,16 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "ae4006ae929613ce",
+  "active": "cec15d42807f881c",
   "lastOpenFiles": [
+    "Arlo/index.md",
+    "Astronomy.md",
+    "Arlo",
+    "Welcome to Raudaia!.md",
     "The Alignment.md",
     "Ebesia.md",
     "Untitled.canvas",
-    "Astronomy.md",
     "Calendar.md",
-    "Welcome to Raudaia!.md",
     "Culture.md",
     "Climate.md",
     "Seasons.md",
@@ -176,7 +186,6 @@
     "Campaigns/Qs in R/Threads/Find Fahnren.md",
     "Campaigns/Qs in R/Characters/Ka'Eek.md",
     "Campaigns/Qs in R/Characters/Enugar.md",
-    "Kater.md",
     "Campaigns/Qs in R/Assets/MythicGME2eV2.pdf",
     "Campaigns/Qs in R/Assets/Ironsworn-Rulebook.pdf",
     "Pasted image 20240911104231.png",
@@ -196,7 +205,6 @@
     "Campaigns/Qs in R/Assets/Screenshot_20240327-141523 1.png",
     "Campaigns/Qs in R/Assets/Screenshot_20240327-141523.png",
     "Campaigns/Qs in R/PCs",
-    "Campaigns/Qs in R",
     "images/Raudaia Overview.png"
   ]
 }
