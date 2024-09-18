@@ -1,1 +1,1 @@
-<iframe src="https://azgaar.github.io/Fantasy-Map-Generator/?burg=68&scale=8&maplink=https://raw.githubusercontent.com/nathkrill/raudaia/master/Maps/Raudaia%20at%20The%20Founding.map" style="width:100%;height:768px;max-width:100%;" width="768" height="768" />
+<iframe src="https://silly-kleicha-033709.netlify.app/?maplink=https://raw.githubusercontent.com/nathkrill/raudaia/master/Maps/Raudaia%20at%20The%20Founding.map" style="width:100%;height:768px;max-width:100%;" width="768" height="768" />
