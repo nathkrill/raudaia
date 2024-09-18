@@ -68,3 +68,12 @@ move "[End the Fight](datasworn:move:classic\/combat\/end_the_fight)" {
 }
 ```
 
+As I look at their bodies lying there, I realise all of a sudden - these are [[Kater]]'s men! Why didn't I notice it sooner? I hurriedly drag them into the house they came out of. 
+
+```iron-vault-mechanics
+move "[Face Danger](datasworn:move:classic\/adventure\/face_danger)" {
+    roll "Iron" action=6 adds=0 stat=2 vs1=8 vs2=2
+}
+```
+
+As I'm closing the door behind me, I hear one of the unconscious guys coming to. I quickly shut the door and run to the [[Bumpy Shroom]]. 

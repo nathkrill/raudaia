@@ -1,16 +1,12 @@
 ---
-Chaos: 6
-Fear: 5
-Hope: 4
-Action: 0
 tags:
   - Campaign
 ---
 
-Chaos `= this.chaos`
-Hope `= this.hope`
-Fear `= this.Fear`
-Action Tokens `= this.Action`
+Chaos: 5
+Fear: 5
+Hope: 4
+Action: 0
 
 [[Generators.canvas|Generators]]
 

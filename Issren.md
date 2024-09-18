@@ -11,8 +11,19 @@ The town of Issren is the most eastern settlement into the [[Emerald Coast]]. A 
 Due to it's proximity to the coast, it often has dealings with pirates and raiders that dwell in the jungles. As such, it's mayor is quite rich from ill-gotten gains and many fences and thieves can be found lurking in the taverns and trading halls.
 Most of it's outgoing trade is sent upriver to [[Leeyaz]], either by cart or small boats. Officially it's produce is dense jungle wood, but contraband regularly finds it's way amongst the lumber.
 
+### People 
+
+[[Erard Willow]]: Mayor of Issren. 
+[[Kater]]: Captain of the Guard.
+[[Ka'Eek]]: Tavern keeper. 
+
 ### Locations
 
 #### [[Bumpy Shroom]] Tavern
 One of the many taverns in Issren, this particular tavern is run by a Fungril called [[Ka'Eek]].
 [[Quentin McQuall]] witnessed Ka'Eek being robbed whilst drinking in this tavern and agreed to sort out his problem in exchange for free board.
+
+### Events
+
+While [[Campaigns/Qs in R/Ironsworn/Characters/Quentin McQuall|Quentin McQuall]] was in Issren, the [[Bandits in the Tunnel]] staged a coup using corrupt town guards and took over the town. 
+Captain of the guard [[Kater]] was able to retake control with [[Campaigns/Qs in R/Ironsworn/Characters/Quentin McQuall|Quentin]]'s help and together they found out that the town's mayor was secretly financing the [[Bandits in the Tunnel]].

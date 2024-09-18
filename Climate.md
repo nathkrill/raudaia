@@ -1,6 +1,6 @@
 ## Climate
 
-The [[Welcome to Raudaia!|Raudaian]] landmass is located spanning the equator of the globe. This results in a generally warm climate.
+The [[Welcome to Raudaia!|Raudaian]] landmass is located spanning the equator of the globe. This results in a generally warm climate, and not so many [[Seasons|seasons]].
 
 The coasts are lined by tropical forests and rainforests, where most of the rain falls. These give way to wide savannahs, with deserts occupying most of the centre of the land.
 

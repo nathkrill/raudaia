@@ -3,7 +3,7 @@ name: Issren Citadel
 rank: troublesome
 progress: 36
 tags:
-  - incomplete
+  - complete
 track-type: Delve
 iron-vault-kind: progress
 ---

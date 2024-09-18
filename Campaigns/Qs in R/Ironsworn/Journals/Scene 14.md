@@ -282,7 +282,7 @@ move "[Locate Your Objective](datasworn:move:delve\/delve\/locate_your_objective
 }
 ```
 
-I find a bundle of correspondence, some of the letters are signed by [[Enugar]]. Others have the name of the mayor! I'm just about to read further when the door opens and [[Enugar]] stands in the doorway.
+I find a bundle of correspondence, some of the letters are signed by [[Enugar]]. Others have the name of the [[Erard Willow|mayor]]! I'm just about to read further when the door opens and [[Enugar]] stands in the doorway.
 
 "You!" He draws his sword.
 
@@ -441,7 +441,7 @@ I find [[Kater]] surrounded by dead men. She appears to have led a valiant attac
 
 "Good job you were there. Did you manage to find any information about the [[Bandits in the Tunnel|Bandits]]?"
 
-"I did. Here are some letters between the mayor and [[Enugar]]. I think the mayor was playing us all. I haven't read through them properly but this should be enough to arrest him."
+"I did. Here are some letters between the [[Erard Willow|mayor]] and [[Enugar]]. I think the [[Erard Willow|mayor]] was playing us all. I haven't read through them properly but this should be enough to arrest him."
 
 "Nice work! I'll get some of my least injured men and we'll arrest him immediately. You should come."
 

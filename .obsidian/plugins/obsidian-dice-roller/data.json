@@ -214,6 +214,34 @@
       "resultText": "[2]",
       "timestamp": 1726053964535,
       "id": "ifysST8zmJ64"
+    },
+    {
+      "result": 2,
+      "original": "1d10",
+      "resultText": "[2]",
+      "timestamp": 1726076523490,
+      "id": "VIIcu-hXIjD-"
+    },
+    {
+      "result": 37,
+      "original": "1d%",
+      "resultText": "[37]",
+      "timestamp": 1726077066923,
+      "id": "evo1Y7_k2VwN"
+    },
+    {
+      "result": 82,
+      "original": "1d%",
+      "resultText": "[82]",
+      "timestamp": 1726077068535,
+      "id": "DmKSd6jWzZ_G"
+    },
+    {
+      "result": 3,
+      "original": "1d10",
+      "resultText": "[3]",
+      "timestamp": 1726125772324,
+      "id": "_hVVKR39xvAo"
     }
   ]
 }
