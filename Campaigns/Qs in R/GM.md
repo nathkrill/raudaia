@@ -3,7 +3,7 @@ tags:
   - Campaign
 ---
 
-Chaos: 6
+Chaos: 5
 Fear: 5
 Hope: 4
 Action: 0
@@ -15,3 +15,4 @@ Action: 0
 ![[Screenshot_20240327-141848.png]]
 ![[Screenshot_20240327-142015.png]]
 ![[Screenshot_20240327-145612.png]]
+![[Screenshot 2024-09-20 193738.png]]
