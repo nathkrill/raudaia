@@ -30,12 +30,7 @@ iron-vault-kind: campaign
 [[Scene 14]]
 [[Scene 15]]
 [[Scene 16]]
-
-## Progress
-
-[[Session 1 - Circus Encounter]]
-[[Robber's Tunnels]]
-[[Scene 4 - Tunnel Ambush]]
-[[Tunnel bandits]]
-[[Dirty Guard]]
-[[Scene 9 - house ambush]]
+[[Scene 17]]
+[[Scene 18]]
+[[Scene 19]]
+[[Scene 20]]

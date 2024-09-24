@@ -8,66 +8,80 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#Religion  ",
+      "query": "tag:#Person  ",
       "color": {
         "a": 1,
-        "rgb": 14714195
-      }
-    },
-    {
-      "query": "tag:#Culture ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "tag:#Region  ",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "tag:#State  ",
-      "color": {
-        "a": 1,
-        "rgb": 65535
-      }
-    },
-    {
-      "query": "tag:#History  ",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
+        "rgb": 65280
       }
     },
     {
       "query": "tag:#Location  ",
       "color": {
         "a": 1,
-        "rgb": 6053078
+        "rgb": 255
       }
     },
     {
-      "query": "path:Campaigns ",
+      "query": "tag:#Religion  ",
       "color": {
         "a": 1,
-        "rgb": 11361494
+        "rgb": 16711935
       }
     },
     {
-      "query": "tag:#Person  ",
+      "query": "tag:#History  ",
       "color": {
         "a": 1,
-        "rgb": 45884
+        "rgb": 9765119
       }
     },
     {
-      "query": "tag:#Faction",
+      "query": "tag:#Region  ",
       "color": {
         "a": 1,
-        "rgb": 14048429
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#State  ",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
+      }
+    },
+    {
+      "query": "tag:#Leader  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#Culture  ",
+      "color": {
+        "a": 1,
+        "rgb": 16745472
+      }
+    },
+    {
+      "query": "tag:#Group  ",
+      "color": {
+        "a": 1,
+        "rgb": 1245120
+      }
+    },
+    {
+      "query": "tag:#Faction  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Arlo  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
       }
     }
   ],
@@ -77,10 +91,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.416666666666667,
+  "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.21627069091733112,
+  "scale": 0.8089421597138997,
   "close": false
 }

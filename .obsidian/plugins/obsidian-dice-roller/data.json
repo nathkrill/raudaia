@@ -256,6 +256,62 @@
       "resultText": "[3]",
       "timestamp": 1726761585783,
       "id": "1fOwPInYKR4Z"
+    },
+    {
+      "result": 5,
+      "original": "1d10",
+      "resultText": "[5]",
+      "timestamp": 1726907651032,
+      "id": "Q_ENnFxUWMC1"
+    },
+    {
+      "result": 26,
+      "original": "1d%",
+      "resultText": "[26]",
+      "timestamp": 1726907994384,
+      "id": "qiscDNsFXKID"
+    },
+    {
+      "result": 71,
+      "original": "1d%",
+      "resultText": "[71]",
+      "timestamp": 1726909426963,
+      "id": "7LLe7zZ6EEMZ"
+    },
+    {
+      "result": 61,
+      "original": "1d%",
+      "resultText": "[61]",
+      "timestamp": 1726910959587,
+      "id": "IhwFQAYvvtKH"
+    },
+    {
+      "result": 6,
+      "original": "1d10",
+      "resultText": "[6]",
+      "timestamp": 1726925834551,
+      "id": "lQeoYGuX7Uto"
+    },
+    {
+      "result": 52,
+      "original": "1d%",
+      "resultText": "[52]",
+      "timestamp": 1726925915966,
+      "id": "1UrLbOPjUPJL"
+    },
+    {
+      "result": 4,
+      "original": "1d4",
+      "resultText": "[4]",
+      "timestamp": 1726925947887,
+      "id": "UhNlzU-xqdhv"
+    },
+    {
+      "result": 63,
+      "original": "1d%",
+      "resultText": "[63]",
+      "timestamp": 1726943562015,
+      "id": "KkQMA9tuK4hT"
     }
   ]
 }
