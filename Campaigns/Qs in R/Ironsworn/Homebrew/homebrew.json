@@ -1,0 +1,817 @@
+{
+	"_id": "homebrew",
+	"datasworn_version": "0.1.0",
+	"type": "expansion",
+	"ruleset": "classic",
+	"title": "Raudaia Homebrew",
+	"authors": [
+		{
+			"name": "Nathan Akrill"
+		}
+	],
+	"date": "2019-06-05",
+	"url": "https://ironswornrpg.com",
+	"license": "https://creativecommons.org/licenses/by/4.0",
+	"rules": {
+        "condition_meters": {
+			
+		},
+        "stats": {
+
+        },
+		"tags": {
+
+        },
+        "impacts": {
+
+        },
+        "special_tracks": {
+
+        }
+	},
+	"oracles": {
+		
+	},
+	"assets": {
+        "ancestry": {
+			"_id": "asset_collection:classic/collections/assets/ancestry",
+			"type": "asset_collection",
+			"name": "Ancestry Assets",
+			"description": "*Ironsworn* characters can have namy ancestries",
+            "collections": {
+
+            },
+			"contents": {
+				"goblin": {
+					"_id": "asset:classic/ancestry/goblin",
+					"type": "asset",
+					"name": "Goblin",
+					"category": "Ancestry",
+					"count_as_impact": false,
+					"shared": false,
+					"requirement": "You have a goblin ancestry",
+                    "options": {
+
+                    },
+					"abilities": [
+						{
+							"_id": "asset.ability:classic/assets/ancestry/goblin/abilities.0",
+							"enabled": true,
+							"text": "+1 when you [Face Danger](id:classic/adventure/face_danger), and gain +1 momentum on a hit. You have 3 uses at level 1, 5 uses at level 2, 8 uses at level 3.",
+							"enhance_moves": [
+								{
+									"roll_type": "action_roll",
+									"enhances": [
+										"move:classic/adventure/face_danger"
+									],
+									"trigger": {
+										"conditions": [
+											{
+												"method": null,
+												"roll_options": null,
+												"text": "by using your innate paranoia"
+											}
+										]
+									}
+								}
+							]
+						},
+						{
+							"_id": "asset.ability:classic/assets/ancestry/goblin/abilities.1",
+							"enabled": false,
+							"text": "+1 on [Compel](id:classic/relationship/compel) moves where you are deceiving.",
+							"enhance_moves": [
+								{
+									"roll_type": "action_roll",
+									"enhances": [
+										"move:classic/relationship/compel"
+									],
+									"trigger": {
+										"conditions": [
+											{
+												"method": null,
+												"roll_options": null,
+												"text": "you are a natural liar"
+											}
+										]
+									}
+								}
+							]
+						},
+						{
+							"_id": "asset.ability:classic/assets/ancestry/goblin/abilities.2",
+							"enabled": false,
+							"text": "+1 on a [Gather Information](id:classic/adventure/gather_information) move if you are trying to find out about something evil in nature.",
+							"enhance_moves": [
+								{
+									"roll_type": "action_roll",
+									"enhances": ["move:classic/adventure/gather_information"],
+									"trigger": {
+										"conditions": [
+											{
+												"method": null,
+												"roll_options": null,
+												"text": "your ancestry is steeped in malicious history"
+											}
+										]
+									}
+								}
+							]
+						},
+                        {
+							"_id": "asset.ability:classic/assets/ancestry/goblin/abilities.3",
+							"enabled": false,
+							"text": "Your small form gives you +1 when you [Face Danger](id:classic/adventure/face_danger) or [Secure an Advantage](id:classic/adventure/secure_an_advantage) by entering a small space.",
+							"enhance_moves": [
+								{
+									"roll_type": "action_roll",
+									"enhances": [
+                                        "move:classic/adventure/face_danger",
+                                        "move:classic/adventure/secure_an_advantage"
+                                    ],
+									"trigger": {
+										"conditions": [
+											{
+												"method": null,
+												"roll_options": null,
+												"text": "you have a small frame"
+											}
+										]
+									}
+								}
+							]
+						}
+					],
+                    "controls": {
+						"danger_uses": {
+							"label": "Danger Uses",
+							"field_type": "condition_meter",
+							"rollable": true,
+							"min": 0,
+							"max": 8,
+							"value": 3,
+							"controls": {},
+							"moves": {
+
+							}
+						}
+					},
+					"_source": {
+						"title": "Raudaia Homebrew",
+						"page": 12,
+						"authors": [
+							{
+								"name": "Nathan Akrill"
+							}
+						],
+						"date": "2019-06-05",
+						"url": "https://ironswornrpg.com",
+						"license": "https://creativecommons.org/licenses/by/4.0"
+					}
+				}
+			},
+			"_source": {
+				"title": "Raudaia Homebrew",
+				"page": 40,
+				"authors": [
+					{
+						"name": "Nathan Akrill"
+					}
+				],
+				"date": "2019-06-05",
+				"url": "https://ironswornrpg.com",
+				"license": "https://creativecommons.org/licenses/by/4.0"
+			}
+		},
+		"combat_talent": {
+			"_id": "asset_collection:classic/collections/assets/combat_talent",
+			"type": "asset_collection",
+			"name": "Combat Talent Assets",
+			"description": "*Ironsworn* characters are assumed to be skilled fighters. Even without a combat talent, you can wield weapons and perform [combat moves](id:classic/collections/moves/combat). A combat talent reflects a particular area of expertise, and gives you additional options and bonuses.\n\nCombat talent assets typically require you to wield a specific weapon, as noted in the asset text. For example, if you are a [Shield-Bearer](id:classic/assets/combat_talent/shield-bearer) and don’t have a shield at the ready, you can’t use the asset’s abilities.",
+			"contents": {
+				"rope_blade": {
+					"_id": "asset:classic/combat_talent/rope_blade",
+					"type": "asset",
+					"name": "Rope & Blade",
+					"category": "Combat Talent",
+					"options": {},
+					"count_as_impact": false,
+					"shared": false,
+					"requirement": "If you wield a rope with a blade",
+					"abilities": [
+						{
+							"_id": "asset.ability:classic/combat_talent/rope_blade.0",
+							"enabled": true,
+							"options": {},
+							"text": "Constrict: When you [Secure an Advantage](datasworn:move:classic/adventure/secure_an_advantage) and attempt to restrain someone. On a Weak Hit they are restrained. On a Strong Hit, they are restrained and you gain +1 to Strike.",
+							"controls": {},
+							"oracles": {},
+							"enhance_moves": [
+								{
+									"roll_type": "action_roll",
+									"enhances": ["move:classic/adventure/secure_an_advantage"],
+									"trigger": {
+										"conditions": [
+											{
+												"method": null,
+												"roll_options": [
+													{
+														"using": "stat",
+														"stat": "edge"
+													}
+												],
+												"text": "by attempting to restrain someone"
+											}
+										]
+									}
+								}
+							],
+							"moves": {}
+						},
+						{
+							"_id": "asset.ability:classic/combat_talent/rope_blade.1",
+							"enabled": false,
+							"options": {},
+							"text": "+1 to [Face Danger](datasworn:move:classic/adventure/face_danger) when you are using your rope to quickly swing or climb.",
+							"controls": {},
+							"oracles": {},
+							"enhance_moves": [
+								{
+									"roll_type": "action_roll",
+									"enhances": [
+										"move:classic/adventure/face_danger"
+									],
+									"trigger": {
+										"conditions": [
+											{
+												"method": null,
+												"roll_options": null,
+												"text": "when you are using your rope to quickly swing or climb"
+											}
+										]
+									}
+								}
+							],
+							"moves": {}
+						}
+					],
+					"controls": {},
+					"_source": {
+						"title": "Raudaia Homebrew",
+						"authors": [
+							{
+								"name": "Nathan Akrill"
+							}
+						],
+						"date": "2019-06-05",
+						"license": "https://creativecommons.org/licenses/by/4.0",
+						"page": 12,
+						"url": "https://ironswornrpg.com"
+					}
+				}
+			},
+            "collections": {
+
+            },
+			"_source": {
+				"title": "Raudaia Homebrew",
+				"page": 40,
+				"authors": [
+					{
+						"name": "Nathan Akrill"
+					}
+				],
+				"date": "2019-06-05",
+				"url": "https://ironswornrpg.com",
+				"license": "https://creativecommons.org/licenses/by/4.0"
+			}
+		},
+		"companion": {
+			"_id": "asset_collection:classic/collections/assets/companion",
+			"type": "asset_collection",
+			"name": "Companion Assets",
+			"description": "Companions are your NPC helpers. When you acquire a companion, give them a name and envision their appearance and personality. If they don’t have a starting ability, choose one. Upgrading a companion enables additional abilities.\n\nCompanions utilize a health track and may suffer harm as a result of one of your moves. When your companion takes damage, make the [Companion Endure Harm](id:classic/moves/suffer/companion_endure_harm) move to determine the outcome. See page 43 to learn more.",
+			"contents": {
+				
+			},
+            "collections": {
+
+            },
+			"_source": {
+				"title": "Raudaia Homebrew",
+				"page": 39,
+				"authors": [
+					{
+						"name": "Nathan Akrill"
+					}
+				],
+				"date": "2019-06-05",
+				"url": "https://ironswornrpg.com",
+				"license": "https://creativecommons.org/licenses/by/4.0"
+			}
+		},
+		"path": {
+			"_id": "asset_collection:classic/collections/assets/path",
+			"type": "asset_collection",
+			"name": "Path Assets",
+			"summary": "Paths represent your background, interests, training, and skills.",
+			"description": "Paths represent your background, interests, training, and skills. They provide mechanical and narrative advantages, but also reflect who you are and how you interact with the world. For example, a [Ritualist](id:classic/assets/path/ritualist) would likely have a different outlook than a [Veteran](id:classic/assets/path/veteran). Choosing both those paths can reflect an evolution of your character or an interesting background.",
+			"contents": {
+				"acrobat": {
+					"_id": "asset:classic/path/acrobat",
+					"type": "asset",
+					"name": "Acrobat",
+					"category": "Path",
+					"options": {},
+					"count_as_impact": false,
+					"shared": false,
+					"abilities": [
+						{
+							"_id": "asset.ability:classic/path/acrobat.0",
+							"enabled": true,
+							"options": {},
+							"text": "Agile: +1 to a move where you perform a feat of acrobatics. +1 momentum on success.",
+							"controls": {},
+							"oracles": {},
+							"moves": {
+								
+							}
+						},
+						{
+							"_id": "asset.ability:classic/path/acrobat.1",
+							"enabled": false,
+							"options": {},
+							"text": "Dancer's GraceYou can Secure An Advantage with Edge +1 to captivate those around you with your fluid movements.",
+							"controls": {},
+							"oracles": {},
+							"enhance_moves": [
+								{
+									"roll_type": "action_roll",
+									"enhances": ["move:classic/adventure/secure_an_advantage"],
+									"trigger": {
+										"conditions": [
+											
+										]
+									}
+								}
+							],
+							"moves": {}
+						}
+					],
+					"controls": {},
+					"_source": {
+						"title": "Raudaia Homebrew",
+						"authors": [
+							{
+								"name": "Nathan Akrill"
+							}
+						],
+						"date": "2019-06-05",
+						"license": "https://creativecommons.org/licenses/by/4.0",
+						"page": 4,
+						"url": "https://ironswornrpg.com"
+					}
+				}
+			},
+            "collections": {
+
+            },
+			"_source": {
+				"title": "Raudaia Homebrew",
+				"page": 40,
+				"authors": [
+					{
+						"name": "Nathan Akrill"
+					}
+				],
+				"date": "2019-06-05",
+				"url": "https://ironswornrpg.com",
+				"license": "https://creativecommons.org/licenses/by/4.0"
+			}
+		},
+		"ritual": {
+			"_id": "asset_collection:classic/collections/assets/ritual",
+			"type": "asset_collection",
+			"name": "Ritual Assets",
+			"description": "Magic in *Ironsworn* is cast through rituals which help support your actions or act as unique moves. Like all assets, rituals can be selected as you gain experience and can be upgraded over time to make them more flexible or powerful.\n\nAll rituals utilize a move as their default marked ability. You must make this move and the associated action roll to trigger the effect. Any secondary abilities you gain by upgrading the asset are dependent on performing the ritual described as the default ability.",
+			"contents": {
+				
+			},
+            "collections": {
+
+            },
+			"_source": {
+				"title": "Raudaia Homebrew",
+				"page": 41,
+				"authors": [
+					{
+						"name": "Nathan Akrill"
+					}
+				],
+				"date": "2019-06-05",
+				"url": "https://ironswornrpg.com",
+				"license": "https://creativecommons.org/licenses/by/4.0"
+			}
+		}
+	},
+	"atlas": {
+		
+	},
+	"moves": {
+        "custom": {
+            "_id": "move_category:homebrew/custom",
+			"type": "move_category",
+			"name": "Custom Moves",
+			"summary": "My Custom moves",
+            "collections": {
+
+            },
+            "contents": {
+                "travel": {
+                    "_id": "move:homebrew/custom/travel",
+                    "type": "move",
+                    "name": "Travel",
+                    "roll_type": "action_roll",
+                    "text": "When you travel on a hex map or grid",
+                    "_source": {
+						"title": "Raudaia Homebrew",
+						"page": 12,
+						"authors": [
+							{
+								"name": "Nathan Akrill"
+							}
+						],
+						"date": "2019-06-05",
+						"url": "https://ironswornrpg.com",
+						"license": "https://creativecommons.org/licenses/by/4.0"
+					},
+                    "allow_momentum_burn": true,
+                    "trigger": {
+						"conditions": [
+							{
+								"method": "player_choice",
+								"roll_options": [
+									{
+										"using": "stat",
+										"stat": "edge"
+									}
+								],
+								"text": "Travelling at speed"
+							},
+							{
+								"method": "player_choice",
+								"roll_options": [
+									{
+										"using": "stat",
+										"stat": "heart"
+									}
+								],
+								"text": "Travelling using a guide"
+							},
+							{
+								"method": "player_choice",
+								"roll_options": [
+									{
+										"using": "stat",
+										"stat": "shadow"
+									}
+								],
+								"text": "Travelling slowly and carefully to avoid being seen"
+							},
+							{
+								"method": "player_choice",
+								"roll_options": [
+									{
+										"using": "stat",
+										"stat": "wits"
+									}
+								],
+								"text": "Using the lay of the land to find the right path"
+							}
+						],
+						"text": "When you travel or navigate unknown lands..."
+					},
+                    "outcomes": {
+						"strong_hit": {
+							"text": "On a __strong hit__, you are successful. Take +1 momentum, choose from tables and choose an opportunity."
+						},
+						"weak_hit": {
+							"text": "On a __weak hit__, roll on the tables."
+						},
+						"miss": {
+							"text": "On a __miss__, you fail, choose a hindrance."
+						}
+					},
+                    "oracles": {
+                        "edge": {
+                            "_id": "move.oracle_rollable:homebrew/custom/travel.edge",
+                            "type": "oracle_rollable",
+                            "name": "Travelled with Edge",
+                            "oracle_type": "table_text",
+                            "dice": "1d100",
+							"column_labels": {
+								"roll": "Roll",
+								"text": "Result"
+							},
+                            "rows": [
+                                {
+                                    "_id": "move.oracle_rollable.row:homebrew/custom/travel.edge.0",
+                                    "text": "You move 2 cells in the right direction",
+                                    "roll": {
+										"min": 1,
+										"max": 25
+									}
+                                },
+                                {
+                                    "_id": "move.oracle_rollable.row:homebrew/custom/travel.edge.1",
+                                    "text": "You move 2 cells in the wrong direction",
+                                    "roll": {
+										"min": 26,
+										"max": 50
+									}
+                                },
+                                {
+                                    "_id": "move.oracle_rollable.row:homebrew/custom/travel.edge.2",
+                                    "text": "You move 1 cell in the right direction, then 1 cell in the wrong direction",
+                                    "roll": {
+										"min": 51,
+										"max": 75
+									}
+                                },
+                                {
+                                    "_id": "move.oracle_rollable.row:homebrew/custom/travel.edge.3",
+                                    "text": "You move 1 cell in the wrong direction, then 1 cell in the right direction",
+                                    "roll": {
+										"min": 76,
+										"max": 100
+									}
+                                }
+                            ]
+                        },
+                        "heart": {
+                            "_id": "move.oracle_rollable:homebrew/custom/travel.heart",
+                            "type": "oracle_rollable",
+                            "name": "Travelled with Heart",
+                            "oracle_type": "table_text",
+                            "dice": "1d100",
+							"column_labels": {
+								"roll": "Roll",
+								"text": "Result"
+							},
+                            "rows": [
+                                {
+                                    "_id": "move.oracle_rollable.row:homebrew/custom/travel.heart.0",
+                                    "text": "Your guide takes you 1 cell in the right direction",
+                                    "roll": {
+										"min": 1,
+										"max": 25
+									}
+                                },
+                                {
+                                    "_id": "move.oracle_rollable.row:homebrew/custom/travel.heart.1",
+                                    "text": "Your guide takes you 1 cell in the wrong direction",
+                                    "roll": {
+										"min": 26,
+										"max": 50
+									}
+                                },
+                                {
+                                    "_id": "move.oracle_rollable.row:homebrew/custom/travel.heart.2",
+                                    "text": "Your guide betrays you",
+                                    "roll": {
+										"min": 51,
+										"max": 75
+									}
+                                },
+                                {
+                                    "_id": "move.oracle_rollable.row:homebrew/custom/travel.heart.3",
+                                    "text": "Your guide is harmed in some way.",
+                                    "roll": {
+										"min": 76,
+										"max": 100
+									}
+                                }
+                            ]
+                        },
+                        "shadow": {
+                            "_id": "move.oracle_rollable:homebrew/custom/travel.shadow",
+                            "type": "oracle_rollable",
+                            "name": "Travelled with Shadow",
+                            "oracle_type": "table_text",
+                            "dice": "1d100",
+							"column_labels": {
+								"roll": "Roll",
+								"text": "Result"
+							},
+                            "rows": [
+                                {
+                                    "_id": "move.oracle_rollable.row:homebrew/custom/travel.shadow.0",
+                                    "text": "You are undetected and navigate 1 cell in the right direction",
+                                    "roll": {
+										"min": 1,
+										"max": 25
+									}
+                                },
+                                {
+                                    "_id": "move.oracle_rollable.row:homebrew/custom/travel.shadow.1",
+                                    "text": "You are undetected and navigate 1 cell in the wrong direction",
+                                    "roll": {
+										"min": 26,
+										"max": 50
+									}
+                                },
+                                {
+                                    "_id": "move.oracle_rollable.row:homebrew/custom/travel.shadow.2",
+                                    "text": "You are detected and navigate 1 cell in the right direction",
+                                    "roll": {
+										"min": 51,
+										"max": 75
+									}
+                                },
+                                {
+                                    "_id": "move.oracle_rollable.row:homebrew/custom/travel.shadow.3",
+                                    "text": "You are detected and navigate 1 cell in the wrong direction",
+                                    "roll": {
+										"min": 76,
+										"max": 100
+									}
+                                }
+                            ]
+                        },
+                        "wits": {
+                            "_id": "move.oracle_rollable:homebrew/custom/travel.wits",
+                            "type": "oracle_rollable",
+                            "name": "Travelled with Wits",
+                            "oracle_type": "table_text",
+                            "dice": "1d100",
+							"column_labels": {
+								"roll": "Roll",
+								"text": "Result"
+							},
+                            "rows": [
+                                {
+                                    "_id": "move.oracle_rollable.row:homebrew/custom/travel.wits.0",
+                                    "text": "Your insight leads you 1 cell in the right direction",
+                                    "roll": {
+										"min": 1,
+										"max": 25
+									}
+                                },
+                                {
+                                    "_id": "move.oracle_rollable.row:homebrew/custom/travel.wits.1",
+                                    "text": "Your insight leads you 1 cell in the wrong direction",
+                                    "roll": {
+										"min": 26,
+										"max": 50
+									}
+                                },
+                                {
+                                    "_id": "move.oracle_rollable.row:homebrew/custom/travel.wits.2",
+                                    "text": "You are lost and do not leave this cell",
+                                    "roll": {
+										"min": 51,
+										"max": 75
+									}
+                                },
+                                {
+                                    "_id": "move.oracle_rollable.row:homebrew/custom/travel.wits.3",
+                                    "text": "You find a shortcut and move 2 cells in the right direction",
+                                    "roll": {
+										"min": 76,
+										"max": 100
+									}
+                                }
+                            ]
+                        },
+                        "opportunity": {
+                            "_id": "move.oracle_rollable:homebrew/custom/travel.opportunity",
+                            "type": "oracle_rollable",
+                            "name": "Opportunities",
+                            "oracle_type": "table_text",
+                            "dice": "1d100",
+							"column_labels": {
+								"roll": "Roll",
+								"text": "Result"
+							},
+                            "rows": [
+                                {
+                                    "_id": "move.oracle_rollable.row:homebrew/custom/travel.opportunity.0",
+                                    "text": "You find something useful for your journey or quest. Take +1 Supply",
+                                    "roll": {
+										"min": 1,
+										"max": 20
+									}
+                                },
+                                {
+                                    "_id": "move.oracle_rollable.row:homebrew/custom/travel.opportunity.1",
+                                    "text": "You witness a marvel, or natural beauty. Take +1 Spirit",
+                                    "roll": {
+										"min": 21,
+										"max": 40
+									}
+                                },
+                                {
+                                    "_id": "move.oracle_rollable.row:homebrew/custom/travel.opportunity.2",
+                                    "text": "You find a peaceful place to rest. [Make Camp](datasworn:move:classic/adventure/make_camp) with +1",
+                                    "roll": {
+										"min": 41,
+										"max": 60
+									}
+                                },
+                                {
+                                    "_id": "move.oracle_rollable.row:homebrew/custom/travel.opportunity.3",
+                                    "text": "Your journey is smooth and inspiring. Take +1 momentum",
+                                    "roll": {
+										"min": 61,
+										"max": 80
+									}
+                                },
+                                {
+                                    "_id": "move.oracle_rollable.row:homebrew/custom/travel.opportunity.4",
+                                    "text": "You encounter something that will make your journey easier. Visualise it and roll your next [Travel](datasworn:move:homebrew/custom/travel) with +1",
+                                    "roll": {
+										"min": 81,
+										"max": 100
+									}
+                                }
+                            ]
+                        },
+                        "hindrance": {
+                            "_id": "move.oracle_rollable:homebrew/custom/travel.hindrance",
+                            "type": "oracle_rollable",
+                            "name": "Hindrances",
+                            "oracle_type": "table_text",
+                            "dice": "1d100",
+							"column_labels": {
+								"roll": "Roll",
+								"text": "Result"
+							},
+                            "rows": [
+                                {
+                                    "_id": "move.oracle_rollable.row:homebrew/custom/travel.hindrance.0",
+                                    "text": "You lose something important. -1 Supply",
+                                    "roll": {
+										"min": 1,
+										"max": 20
+									}
+                                },
+                                {
+                                    "_id": "move.oracle_rollable.row:homebrew/custom/travel.hindrance.1",
+                                    "text": "You witness something harrowing or miserable. [Endure Stress](datasworn:move:classic/suffer/endure_stress)",
+                                    "roll": {
+										"min": 21,
+										"max": 40
+									}
+                                },
+                                {
+                                    "_id": "move.oracle_rollable.row:homebrew/custom/travel.hindrance.2",
+                                    "text": "You encounter a danger or hazard. Visualize it and how you overcome it before you can roll another [Travel](datasworn:move:homebrew/custom/travel)",
+                                    "roll": {
+										"min": 41,
+										"max": 60
+									}
+                                },
+                                {
+                                    "_id": "move.oracle_rollable.row:homebrew/custom/travel.hindrance.3",
+                                    "text": "Something causes you harm. [Endure Harm](datasworn:move:classic/suffer/endure_harm)",
+                                    "roll": {
+										"min": 61,
+										"max": 80
+									}
+                                },
+                                {
+                                    "_id": "move.oracle_rollable.row:homebrew/custom/travel.hindrance.4",
+                                    "text": "You encounter something that will slow your journey down. Visualise it and roll your next [Travel](datasworn:move:homebrew/custom/travel) with -1",
+                                    "roll": {
+										"min": 81,
+										"max": 100
+									}
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "_source": {
+                "title": "Raudaia Homebrew",
+                "page": 12,
+                "authors": [
+                    {
+                        "name": "Nathan Akrill"
+                    }
+                ],
+                "date": "2019-06-05",
+                "url": "https://ironswornrpg.com",
+                "license": "https://creativecommons.org/licenses/by/4.0"
+            }
+        }
+	},
+	"npcs": {
+	},
+	"rarities": {},
+	"delve_sites": {},
+	"site_domains": {},
+	"site_themes": {},
+	"truths": {
+	}
+}

@@ -4,35 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "768c9cbeac4c33e3",
+        "id": "ef3b745e2ce8064e",
         "type": "tabs",
         "children": [
           {
-            "id": "65b8b63f63506d33",
+            "id": "85dd5857e9a90e95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 19.md",
+                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 26.md",
                 "mode": "source",
                 "source": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "35238798d5dfc371",
+        "type": "tabs",
+        "children": [
           {
-            "id": "f71f25d1da744af2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Khizdum.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "936e251c7d56fd1d",
+            "id": "e56e986dd037bd49",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,43 +36,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "ff4b358fc9d4b848",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/Qs in R/GM.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5045af300f5f0b96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 18.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "177b6d3de9769abc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Campaigns/Qs in R/Assets/MythicGME2eV2.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 18.md",
+                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 18.md",
+                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 18.md"
+                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 26.md"
               }
             }
           },
@@ -230,20 +189,39 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "5045af300f5f0b96",
+  "active": "85dd5857e9a90e95",
   "lastOpenFiles": [
-    "Hitching.md",
-    "Campaigns/Qs in R/Ironsworn/Journals/Scene 19.md",
-    "Witnes Conglomerate.md",
-    "Welcome to Raudaia!.md",
-    "Khizdum.md",
     "Campaigns/Qs in R/GM.md",
-    "Khola.md",
-    "Campaigns/Qs in R/Assets/MythicGME2eV2.pdf",
-    "Council of the Mystics.md",
+    "Campaigns/Qs in R/Ironsworn/Journals/Scene 26.md",
+    "Welcome to Raudaia!.md",
+    "Campaigns/Qs in R/Generators.canvas",
+    "Hitching.md",
+    "Campaigns/Qs in R/Ironsworn/Journals/Scene 25.md",
+    "Campaigns/Qs in R/Ironsworn/Characters/Quentin McQuall.md",
+    "Campaigns/Qs in R/Ironsworn/Qs in R.md",
+    "Campaigns/Qs in R/Ironsworn/Homebrew/test.json",
+    "Campaigns/Qs in R/Ironsworn/Homebrew/Untitled.md",
     "Campaigns/Qs in R/PCs/Quentin McQuall.md",
+    "Campaigns/Qs in R/Introduction.md",
+    "Campaigns/Qs in R/Ironsworn/Homebrew/classic.json",
+    "Campaigns/Qs in R/Ironsworn/Journals/Scene 20.md",
+    "Campaigns/Qs in R/Ironsworn/Journals/Scene 5.md",
+    "Campaigns/Qs in R/Ironsworn/Homebrew/homebrew.json",
+    "Campaigns/Qs in R/Threads/Threads List.md",
+    "Campaigns/Qs in R/Ironsworn/Journals/Scene 24.md",
+    "Campaigns/Qs in R/Threads/Find Fahnren.md",
+    "Council of the Mystics.md",
     "Campaigns/Qs in R/Threads/Monster in the North.md",
-    "Campaigns/Qs in R/Ironsworn/Journals/Scene 18.md",
+    "Campaigns/Qs in R/Assets/MythicGME2eV2.pdf",
+    "Kharb.md",
+    "Khola.md",
+    "Khizdum.md",
+    "Campaigns/Qs in R/Ironsworn/Journals/Scene 23.md",
+    "Campaigns/Qs in R/Ironsworn/Progress/Find Kharb 1.md",
+    "Campaigns/Qs in R/Ironsworn/Progress/Find Kharb.md",
+    "Campaigns/Qs in R/Ironsworn/Journals/Scene 22.md",
+    "The Alignment.md",
+    "Campaigns/Qs in R/Ironsworn/Journals/Scene 21.md",
     "Campaigns/Qs in R/Assets/Screenshot_20240327-141523.png",
     "Campaigns/Qs in R/Assets/Screenshot_20240327-141523 1.png",
     "Campaigns/Qs in R/Assets/Screenshot_20240327-141732.png",
@@ -252,33 +230,14 @@
     "Campaigns/Qs in R/Assets/Screenshot_20240327-145612.png",
     "Campaigns/Qs in R/Assets/Screenshot 2024-09-20 193738.png",
     "Pasted image 20240920193721.png",
-    "Shiz.md",
-    "Campaigns/Qs in R/Ironsworn/Journals/Untitled.md",
-    "Culture.md",
-    "Untitled.md",
-    "Ka'Eek.md",
-    "Inma.md",
-    "Hugo.md",
-    "Fahnren.md",
-    "Enugar.md",
-    "Campaigns/Qs in R/Threads/Threads List.md",
-    "Campaigns/Qs in R/Characters/Character List.md",
     "Campaigns/Qs in R/Characters",
-    "Bloola Steel.md",
-    "Arlo/index.md",
-    "Arlo/Chapter 1.md",
     "Arlo",
-    "Maps/Raudaia at The Founding.md",
     "Maps/Unconfirmed 575367.crdownload",
     "Maps/Unconfirmed 599474.crdownload",
     "Maps/Unconfirmed 266573.crdownload",
     "Campaigns/Qs in R/Assets/Ironsworn-Delve-Rulebook.pdf",
     "Pasted image 20240911104231.png",
     "Pasted image 20240911104211.png",
-    "Maps/Unconfirmed 147807.crdownload",
-    "Maps/Unconfirmed 537651.crdownload",
-    "Maps/Unconfirmed 918255.crdownload",
-    "Campaigns/Qs in R/Generators.canvas",
     "Campaigns/Qs in R/Scene Board.canvas",
     "Untitled.canvas"
   ]

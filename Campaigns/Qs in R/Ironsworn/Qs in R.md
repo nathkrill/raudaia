@@ -2,10 +2,12 @@
 name: Qs in R
 ironvault:
   playset:
-    type: registry
-    key: classic_delve
+    type: globs
+    lines:
+      - "*:classic/**"
+      - "*:delve/**"
+      - "*:homebrew/**"
 iron-vault-kind: campaign
-
 ---
 
 ## Characters
@@ -34,3 +36,8 @@ iron-vault-kind: campaign
 [[Scene 18]]
 [[Scene 19]]
 [[Scene 20]]
+[[Scene 21]]
+[[Scene 22]]
+[[Scene 23]]
+[[Scene 24]]
+
