@@ -20,7 +20,8 @@ Crime has had a history as long as civilisation in any land. But the mastery of 
 
 ## Structure
 
-Each "arm" of The Order is managed by an extremely accomplished criminal who manages a sub-network of operatives in their domain. These leaders reside in the secret headquarters of The Order, [[The Nest]].
+Each "arm" of The Order is managed by an extremely accomplished criminal who manages a sub-network of operatives in their domain. These leaders reside in the secret headquarters of The Order, [[The Nest]]. There is a Nest in every city that The Order operates in, but there are also whispers of a huge secret location where the highest of The Order's leaders work.
+
 The arms are:
 #### Whisperers
 The Whisperes are the network of spies and informants of The Order. They say there is a Whisperer in every ruling hall in Raudaia.
@@ -33,3 +34,6 @@ A merciless team of assassins. This arm has a countless record of contract kills
 
 #### Gifters
 They might sound like a generous group, but the Gifters are in fact some of the most heartless and materialistic people you will meet. Excellent fences and procurers of illegal goods, the Gifters supply and deal with black market trade.
+
+#### Markers
+The Markers are the administrators of The Order. They rarely leave their Nest and deal with the members of The Order when it comes to rewards, equipment, and messaging.

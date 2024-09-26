@@ -1,7 +1,7 @@
 {
   "collapse-filter": true,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -83,6 +83,13 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "tag:#Vessel  ",
+      "color": {
+        "a": 1,
+        "rgb": 5057792
+      }
     }
   ],
   "collapse-display": true,
@@ -95,6 +102,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.133206864296802,
-  "close": false
+  "scale": 0.20921634810029427,
+  "close": true
 }

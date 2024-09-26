@@ -16,10 +16,10 @@ iron-vault-kind: campaign
 
 ## Chapters
 
-[[Scene 1]]
-[[Scene 2]]
-[[Scene 3]]
-[[Scene 4]]
+[[Campaigns/Qs in R/Ironsworn/Journals/Scene 1]]
+[[Campaigns/Qs in R/Ironsworn/Journals/Scene 2]]
+[[Campaigns/Qs in R/Ironsworn/Journals/Scene 3]]
+[[Campaigns/Qs in R/Ironsworn/Journals/Scene 4]]
 [[Scene 5]]
 [[Scene 6]]
 [[Scene 7]]
