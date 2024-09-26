@@ -4,35 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "59593bafff65e9d5",
+        "id": "9818880c2511b342",
         "type": "tabs",
         "children": [
           {
-            "id": "dddfad3ea2b370d0",
+            "id": "16b82902eafda288",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 21.md",
+                "file": "The Order of Eye and Tooth.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "d77a6f53d91b2c77",
+            "id": "7f31f480d58289a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/Qs in R/Threads/Threads List.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Campaigns/Qs in R/Threads/Threads List.md",
+            "file": "The Order of Eye and Tooth.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Campaigns/Qs in R/Threads/Threads List.md",
+            "file": "The Order of Eye and Tooth.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Campaigns/Qs in R/Threads/Threads List.md"
+            "file": "The Order of Eye and Tooth.md"
           }
         }
       },
@@ -176,13 +171,18 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "d77a6f53d91b2c77",
+  "active": "16b82902eafda288",
   "lastOpenFiles": [
-    "Campaigns/Qs in R/Threads/Monster in the North.md",
-    "Campaigns/Qs in R/Threads/Threads List.md",
-    "Campaigns/Qs in R/GM.md",
-    "Campaigns/Qs in R/Ironsworn/Journals/Scene 21.md",
+    "Campaigns/Qs in R/Ironsworn/Journals/Scene 27.md",
     "Welcome to Raudaia!.md",
+    "Maps/Raudaia at The Founding.md",
+    "Campaigns/Qs in R/GM.md",
+    "Campaigns/Qs in R/Ironsworn/Journals/Scene 26.md",
+    "Campaigns/Qs in R/Threads/Threads List.md",
+    "Campaigns/Qs in R/Characters/Character List.md",
+    "Campaigns/Qs in R/Ironsworn/Progress/The archive.md",
+    "Campaigns/Qs in R/Threads/Monster in the North.md",
+    "Campaigns/Qs in R/Ironsworn/Journals/Scene 21.md",
     "Campaigns/Qs in R/Assets/MythicGME2eV2.pdf",
     "Hugo.md",
     "The Ribbon in the Sand.md",
@@ -192,7 +192,6 @@
     "Campaigns/Qs in R/Ironsworn/Qs in R.md",
     "The Order of Eye and Tooth.md",
     "Khizdum.md",
-    "Campaigns/Qs in R/Characters/Character List.md",
     "Kharb.md",
     "Campaigns/Qs in R/Ironsworn/Journals/Scene 20.md",
     "Campaigns/Qs in R/Ironsworn/Progress/Journey to Hitching.md",
@@ -201,9 +200,6 @@
     "Campaigns/Qs in R/Ironsworn/Journals/Scene 19.md",
     "Bloola Steel.md",
     "Enugar.md",
-    "Untitled.md",
-    "Ka'Eek.md",
-    "Campaigns/Qs in R/Ironsworn/Journals/Scene 17.md",
     "Arlo",
     "Untitled.canvas",
     "Campaigns/Qs in R/Generators.canvas",
