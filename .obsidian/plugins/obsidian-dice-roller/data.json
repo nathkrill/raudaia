@@ -312,6 +312,27 @@
       "resultText": "[63]",
       "timestamp": 1726943562015,
       "id": "KkQMA9tuK4hT"
+    },
+    {
+      "result": 5,
+      "original": "1d10",
+      "resultText": "[5]",
+      "timestamp": 1727282884026,
+      "id": "pvYAVvw6R_Gc"
+    },
+    {
+      "result": 87,
+      "original": "1d%",
+      "resultText": "[87]",
+      "timestamp": 1727296001384,
+      "id": "y9kT8v1oq65v"
+    },
+    {
+      "result": 8,
+      "original": "1d10",
+      "resultText": "[8]",
+      "timestamp": 1727336038991,
+      "id": "F_YBOt6aym2f"
     }
   ]
 }
