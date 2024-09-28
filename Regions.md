@@ -1,3 +1,10 @@
+---
+tags:
+ - Overview
+---
+
+# Regions
+
 [[Welcome to Raudaia!|Raudaia]] is not the most diverse place in its regional distribution, but there are a few notable areas of geographical and political interest.
 
 ## [[Tugar Forest]]
