@@ -24,7 +24,7 @@ Each "arm" of The Order is managed by an extremely accomplished criminal who man
 
 The arms are:
 #### Whisperers
-The Whisperes are the network of spies and informants of The Order. They say there is a Whisperer in every ruling hall in Raudaia.
+The Whisperers are the network of spies and informants of The Order. They say there is a Whisperer in every ruling hall in Raudaia.
 
 #### Gatherers
 Gatherers are expert thieves, robbers, and extortionists. Any surreptitious way to make coin - they can do.
@@ -37,3 +37,12 @@ They might sound like a generous group, but the Gifters are in fact some of the 
 
 #### Markers
 The Markers are the administrators of The Order. They rarely leave their Nest and deal with the members of The Order when it comes to rewards, equipment, and messaging.
+
+## Membership
+
+A lot of The Order's membership are recruited because they are indebted. Their debt is paid off through working more jobs.
+
+Each job is rewarded with a small silver token, given by the leader who gives the job. This token is a small silver tooth with an eye carved into it. 
+These tokens are exchanged for payment, and contribute to the member's ranking within the organisation. 
+Collecting enough tokens (by *any* means) earns you advancement, and things like the right to put together your own jobs (something that also rewards with tokens) and give out tokens to lesser members who do jobs for you. 
+It's a cutthroat environment to work in, but so are the people who work in it!

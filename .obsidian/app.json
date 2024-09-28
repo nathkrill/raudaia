@@ -28,9 +28,5 @@
     "editor:undo",
     "editor:configure-toolbar"
   ],
-  "userIgnoreFilters": [
-    "Campaigns/Qs in R/Ironsworn/Progress/",
-    "Campaigns/Qs in R/Ironsworn/Journals/",
-    "Campaigns/"
-  ]
+  "userIgnoreFilters": null
 }

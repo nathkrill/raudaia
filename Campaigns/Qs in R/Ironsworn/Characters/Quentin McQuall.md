@@ -2,15 +2,15 @@
 name: Quentin McQuall
 xp_spent: 0
 xp_added: 3
-momentum: 1
+momentum: 4
 edge: 3
 heart: 2
 iron: 2
 shadow: 3
 wits: 1
-health: 2
-spirit: 0
-supply: 3
+health: 3
+spirit: 1
+supply: 5
 Bonds_Progress: 2
 Bonds_XPEarned: 0
 FailureTrack_Progress: 0
@@ -31,7 +31,7 @@ assets:
       - false
       - false
     controls:
-      danger_uses: 3
+      danger_uses: 2
     options: {}
   - id: asset:classic/combat_talent/rope_blade
     abilities:

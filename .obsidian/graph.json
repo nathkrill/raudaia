@@ -1,94 +1,101 @@
 {
   "collapse-filter": true,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#Person  ",
-      "color": {
-        "a": 1,
-        "rgb": 65280
-      }
-    },
-    {
-      "query": "tag:#Location  ",
-      "color": {
-        "a": 1,
-        "rgb": 255
-      }
-    },
-    {
-      "query": "tag:#Religion  ",
-      "color": {
-        "a": 1,
-        "rgb": 16711935
-      }
-    },
-    {
-      "query": "tag:#History  ",
-      "color": {
-        "a": 1,
-        "rgb": 9765119
-      }
-    },
-    {
-      "query": "tag:#Region  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "tag:#State  ",
-      "color": {
-        "a": 1,
-        "rgb": 16776960
-      }
-    },
-    {
-      "query": "tag:#Leader  ",
+      "query": "path:Campaigns  ",
       "color": {
         "a": 1,
         "rgb": 16711680
       }
     },
     {
-      "query": "tag:#Culture  ",
+      "query": "tag:#Location  ",
       "color": {
         "a": 1,
-        "rgb": 16745472
+        "rgb": 2839444
+      }
+    },
+    {
+      "query": "tag:#Region  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#Location  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#Person  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
       }
     },
     {
       "query": "tag:#Group  ",
       "color": {
         "a": 1,
-        "rgb": 1245120
+        "rgb": 5419488
       }
     },
     {
-      "query": "tag:#Faction  ",
+      "query": "tag:#History  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "tag:#State  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "tag:#Culture  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
       }
     },
     {
       "query": "path:Arlo  ",
       "color": {
         "a": 1,
+        "rgb": 4204841
+      }
+    },
+    {
+      "query": "tag:#Religion  ",
+      "color": {
+        "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "tag:#Vessel  ",
+      "query": "tag:#Overview  ",
       "color": {
         "a": 1,
-        "rgb": 5057792
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#Faction  ",
+      "color": {
+        "a": 1,
+        "rgb": 6132833
       }
     }
   ],
@@ -102,6 +109,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.20921634810029427,
-  "close": true
+  "scale": 1.9245765129389822,
+  "close": false
 }

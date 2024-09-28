@@ -1,4 +1,12 @@
-~~The~~ cultures of [[Welcome to Raudaia!|Raudaia]] are mainly defined by their religious beliefs. Each culture has at least one set of beliefs.
+---
+tags:
+ - Overview
+---
+
+
+# Religion
+
+The cultures of [[Welcome to Raudaia!|Raudaia]] are mainly defined by their religious beliefs. Each culture has at least one set of beliefs.
 
 ## The [[Nelharim]]
 
