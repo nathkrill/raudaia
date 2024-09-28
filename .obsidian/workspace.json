@@ -4,137 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "25d0575080980684",
-        "type": "split",
-        "children": [
-          {
-            "id": "ee1bcca3d4945a27",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "84d7613b0aa89ecd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Welcome to Raudaia!.md",
-                    "mode": "preview",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "cd53960c5b6d0674",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Campaigns/Faal/Scenes/Scene 4.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "c6bed3d9a6977160",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Campaigns/Faal/Scenes/Scene 3.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "d44e01f529abd172",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Caustow.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "aef384b653dd2c8e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "802624f1609ca4f9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Campaigns/Faal/Scenes/Scene 4.md",
-                    "mode": "preview",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "939fa426d00d570e",
+        "id": "fc08af64adb2e617",
         "type": "tabs",
         "children": [
           {
-            "id": "9c24dd87b564b67c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Campaigns/Faal/Character/Character Sheet.pdf"
-              }
-            }
-          },
-          {
-            "id": "56f2eb9f66469f0f",
+            "id": "0ebd6d971bfc1848",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Faal/Character/Faal.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c63655460be724f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/Faal/Game.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c97eb1016d3f3111",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome to Raudaia!.md",
+                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 4.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/Faal/Scenes/Scene 4.md",
+                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaigns/Faal/Scenes/Scene 4.md",
+                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Faal/Scenes/Scene 4.md"
+                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 4.md"
               }
             }
           },
@@ -269,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -294,11 +179,11 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "3b0822facc6ccb34",
+  "active": "22fd716030cb9ecb",
   "lastOpenFiles": [
+    "Welcome to Raudaia!.md",
     "Campaigns/Faal/Scenes/Scene 4.md",
     "Deme.md",
-    "Welcome to Raudaia!.md",
     "The Order of Eye and Tooth.md",
     "Campaigns/Faal/Threads List.md",
     "Campaigns/Qs in R/Generators.canvas",
