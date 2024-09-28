@@ -4,16 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "fc08af64adb2e617",
+        "id": "01978ed2c4b88687",
         "type": "tabs",
         "children": [
           {
-            "id": "0ebd6d971bfc1848",
+            "id": "da785bf1e2be99c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 4.md",
+                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 28.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7f1b95cc14397ea6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "910ec584079a5bcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 28.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c49463b0692bf4cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/Qs in R/GM.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 4.md",
+                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 4.md",
+                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 4.md"
+                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 28.md"
               }
             }
           },
@@ -179,8 +209,23 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "22fd716030cb9ecb",
+  "active": "910ec584079a5bcc",
   "lastOpenFiles": [
+    "Campaigns/Qs in R/GM.md",
+    "Campaigns/Qs in R/Ironsworn/Journals/Scene 28.md",
+    "Campaigns/Qs in R/Ironsworn/Progress/Scene 28 - Brutes.md",
+    "Khizdum.md",
+    "Campaigns/Qs in R/Ironsworn/Journals/Scene 27.md",
+    "Campaigns/Qs in R/PCs/Quentin McQuall.md",
+    "Maps/Raudaia at The Founding.md",
+    "Campaigns/Qs in R/Ironsworn/Journals/Scene 4.md",
+    "The Nest.md",
+    "Nealin.md",
+    "Library of Ages.md",
+    "Kirad.md",
+    "Khiz.md",
+    "Iuneleltheas.md",
+    "Campaigns/Qs in R/Ironsworn/Progress/Orcs in Witenspire.md",
     "Welcome to Raudaia!.md",
     "Campaigns/Faal/Scenes/Scene 4.md",
     "Deme.md",
@@ -195,24 +240,9 @@
     "Campaigns/Faal/Game.md",
     "Campaigns/Faal/Scenes/Scene 1.md",
     "Caustow.md",
-    "Campaigns/Faal/Scenes/Scene 2.md",
-    "Campaigns/Faal/Clocks/Scene 2- Guards upstairs.md",
     "Campaigns/Faal/Clocks",
-    "Campaigns/Faal/Progress/Villa upstairs.md",
-    "Campaigns/Faal/Faal.md",
-    "Campaigns/Faal/Progress/Upstairs guards.md",
     "Campaigns/Faal/Progress",
-    "Maps/Raudaia at The Founding.md",
-    "Errant of Amak.md",
-    "Kolar Tarryst.md",
-    "Wenche Clodweed.md",
-    "The Pirate & Cauldron.md",
-    "Faal Baelitae.md",
-    "Campaigns/Faal/Introduction.md",
-    "Campaigns/Qs in R/GM.md",
     "Campaigns/Faal/Scenes",
-    "Western Horn.md",
-    "Campaigns/Qs in R/Ironsworn/Journals/Scene 26.md",
     "Campaigns/Qs in R/Ironsworn/Homebrew/test.json",
     "Campaigns/Qs in R/Ironsworn/Homebrew/classic.json",
     "Campaigns/Qs in R/Ironsworn/Homebrew/homebrew.json",

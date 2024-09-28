@@ -1,6 +1,6 @@
 Scene: travel back to [[Khizdum]] 
 
-Quentin and [[Kharb]] head north across the snowy plains. The sun sets and makes the snow glow pink and the sky orange. The mountain looms to their right. 
+[[Campaigns/Qs in R/PCs/Quentin McQuall|Quentin McQuall]] and [[Kharb]] head north across the snowy plains. The sun sets and makes the snow glow pink and the sky orange. The mountain looms to their right. 
 
 ```iron-vault-mechanics
 move "[Travel](datasworn:move:homebrew\/custom\/travel)" {
@@ -240,3 +240,69 @@ oracle-group name="Action and Theme Oracles: New Action and Theme Oracles" {
 
 ```
 
+As Quentin climbs down the jagged spike, it begins to shake. A large crack appears at the base and the whole thing starts to topple!
+
+```iron-vault-mechanics
+move "[Face Danger](datasworn:move:classic\/adventure\/face_danger)" {
+    add 1 "acrobat"
+    roll "Edge" action=2 adds=1 stat=3 vs1=3 vs2=2
+}
+```
+
+Quentin swings around to the upward side and slides down, flipping off at the end.
+
+He grins at [[Kharb]].
+>"That was close!."
+
+```iron-vault-mechanics
+move "[Travel](datasworn:move:homebrew\/custom\/travel)" {
+    roll "Wits" action=3 adds=0 stat=1 vs1=6 vs2=4
+    burn from=5 to=2
+}
+oracle name="[Travel \/ Travelled with Wits](datasworn:move.oracle_rollable:homebrew\/custom\/travel.wits)" result="Your insight leads you 1 cell in the wrong direction" roll=42
+
+```
+
+They carry on through the snow-covered grass. In all the excitement, Quentin has forgotten which way he was supposed to lead them...
+
+```iron-vault-mechanics
+move "[Travel](datasworn:move:homebrew\/custom\/travel)" {
+    roll "Wits" action=1 adds=0 stat=1 vs1=7 vs2=9
+}
+oracle name="[Travel \/ Hindrances](datasworn:move.oracle_rollable:homebrew\/custom\/travel.hindrance)" result="Something causes you harm. [Endure Harm](datasworn:move:classic\/suffer\/endure_harm)" roll=77
+oracle name="[Pay the Price \/ Pay the Price](datasworn:move.oracle_rollable:classic\/fate\/pay_the_price.pay_the_price)" result="It is stressful." roll=70
+
+```
+
+Quentin is getting fed up of all this wandering.
+>"We should be there by now! There's no way we've strayed this far from the trail!"
+
+```iron-vault-mechanics
+move "[Endure Stress](datasworn:move:classic\/suffer\/endure_stress)" {
+    roll "Heart" action=6 adds=0 stat=2 vs1=2 vs2=3
+}
+```
+
+They steel their will and push on.
+
+```iron-vault-mechanics
+move "[Travel](datasworn:move:homebrew\/custom\/travel)" {
+    roll "Wits" action=3 adds=0 stat=1 vs1=3 vs2=1
+}
+oracle name="[Travel \/ Opportunities](datasworn:move.oracle_rollable:homebrew\/custom\/travel.opportunity)" result="Your journey is smooth and inspiring. Take +1 momentum" roll=76
+
+```
+
+
+
+As thy trudge on, Quentin notices a cave in the edge of a slope in the mountain.
+
+>"Let's take a look. Better than wandering around pointlessly in the wilderness."
+
+The cave is a beautiful ice cave. The walls glitter and shimmer as if they are made of stars. They follow it along, not deviating from the main tunnel. Soon they see the light of an opening ahead of them. They come out beneath tall pines against the rise of the mountain slope.
+Ahead of them is a familiar sight - There beyond the trees is the city of [[Khizdum]]!
+
+[[Kharb]] is ecstatic to see his home at last.
+>"We made it! Let's get in and speak to [[Khola]]."
+
+They hurry out of the trees and across the plain to the city wall.
