@@ -4,137 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "25d0575080980684",
-        "type": "split",
-        "children": [
-          {
-            "id": "ee1bcca3d4945a27",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "84d7613b0aa89ecd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Welcome to Raudaia!.md",
-                    "mode": "preview",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "cd53960c5b6d0674",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Campaigns/Faal/Scenes/Scene 4.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "c6bed3d9a6977160",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Campaigns/Faal/Scenes/Scene 3.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "d44e01f529abd172",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Caustow.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "aef384b653dd2c8e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "802624f1609ca4f9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Campaigns/Faal/Scenes/Scene 4.md",
-                    "mode": "preview",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "939fa426d00d570e",
+        "id": "01978ed2c4b88687",
         "type": "tabs",
         "children": [
           {
-            "id": "9c24dd87b564b67c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Campaigns/Faal/Character/Character Sheet.pdf"
-              }
-            }
-          },
-          {
-            "id": "56f2eb9f66469f0f",
+            "id": "da785bf1e2be99c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Faal/Character/Faal.md",
+                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 28.md",
                 "mode": "source",
                 "source": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "7f1b95cc14397ea6",
+        "type": "tabs",
+        "children": [
           {
-            "id": "c63655460be724f5",
+            "id": "910ec584079a5bcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Faal/Game.md",
+                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 28.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "c97eb1016d3f3111",
+            "id": "c49463b0692bf4cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome to Raudaia!.md",
+                "file": "Campaigns/Qs in R/GM.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/Faal/Scenes/Scene 4.md",
+                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaigns/Faal/Scenes/Scene 4.md",
+                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Faal/Scenes/Scene 4.md"
+                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 28.md"
               }
             }
           },
@@ -269,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -294,11 +209,26 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "3b0822facc6ccb34",
+  "active": "910ec584079a5bcc",
   "lastOpenFiles": [
+    "Campaigns/Qs in R/GM.md",
+    "Campaigns/Qs in R/Ironsworn/Journals/Scene 28.md",
+    "Campaigns/Qs in R/Ironsworn/Progress/Scene 28 - Brutes.md",
+    "Khizdum.md",
+    "Campaigns/Qs in R/Ironsworn/Journals/Scene 27.md",
+    "Campaigns/Qs in R/PCs/Quentin McQuall.md",
+    "Maps/Raudaia at The Founding.md",
+    "Campaigns/Qs in R/Ironsworn/Journals/Scene 4.md",
+    "The Nest.md",
+    "Nealin.md",
+    "Library of Ages.md",
+    "Kirad.md",
+    "Khiz.md",
+    "Iuneleltheas.md",
+    "Campaigns/Qs in R/Ironsworn/Progress/Orcs in Witenspire.md",
+    "Welcome to Raudaia!.md",
     "Campaigns/Faal/Scenes/Scene 4.md",
     "Deme.md",
-    "Welcome to Raudaia!.md",
     "The Order of Eye and Tooth.md",
     "Campaigns/Faal/Threads List.md",
     "Campaigns/Qs in R/Generators.canvas",
@@ -310,24 +240,9 @@
     "Campaigns/Faal/Game.md",
     "Campaigns/Faal/Scenes/Scene 1.md",
     "Caustow.md",
-    "Campaigns/Faal/Scenes/Scene 2.md",
-    "Campaigns/Faal/Clocks/Scene 2- Guards upstairs.md",
     "Campaigns/Faal/Clocks",
-    "Campaigns/Faal/Progress/Villa upstairs.md",
-    "Campaigns/Faal/Faal.md",
-    "Campaigns/Faal/Progress/Upstairs guards.md",
     "Campaigns/Faal/Progress",
-    "Maps/Raudaia at The Founding.md",
-    "Errant of Amak.md",
-    "Kolar Tarryst.md",
-    "Wenche Clodweed.md",
-    "The Pirate & Cauldron.md",
-    "Faal Baelitae.md",
-    "Campaigns/Faal/Introduction.md",
-    "Campaigns/Qs in R/GM.md",
     "Campaigns/Faal/Scenes",
-    "Western Horn.md",
-    "Campaigns/Qs in R/Ironsworn/Journals/Scene 26.md",
     "Campaigns/Qs in R/Ironsworn/Homebrew/test.json",
     "Campaigns/Qs in R/Ironsworn/Homebrew/classic.json",
     "Campaigns/Qs in R/Ironsworn/Homebrew/homebrew.json",
