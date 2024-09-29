@@ -28,5 +28,7 @@
     "editor:undo",
     "editor:configure-toolbar"
   ],
-  "userIgnoreFilters": null
+  "userIgnoreFilters": [
+    "Campaigns/Qs in R/Ironsworn/Characters/"
+  ]
 }

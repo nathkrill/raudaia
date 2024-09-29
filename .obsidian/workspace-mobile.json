@@ -13,7 +13,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Welcome to Raudaia!.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -43,19 +42,268 @@
             }
           },
           {
-            "id": "d5a9b6967d1ab2e7",
+            "id": "53b22e8ce50fb2b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome to Raudaia!.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
+              "type": "graph",
+              "state": {}
+            },
+            "group": "786ad8488bd452bc"
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "fa1bf9e9b8126073",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e508a6dda3cf196",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Campaigns/Qs in R/Ironsworn/Characters/Quentin McQuall.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "786ad8488bd452bc"
+          }
+        ]
+      },
+      {
+        "id": "c3bd44bbbdd39ac2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "736934a3c9ed9c46",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Campaigns/Qs in R/Ironsworn/Characters/Quentin McQuall.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "786ad8488bd452bc"
+          }
+        ]
+      },
+      {
+        "id": "96be410b7b4764bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "564fa38daedb36ba",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Campaigns/Qs in R/Ironsworn/Characters/Quentin McQuall.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "786ad8488bd452bc"
+          }
+        ]
+      },
+      {
+        "id": "e2fb6c8f4547927d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21d8e8fa8dcf683b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Campaigns/Qs in R/Ironsworn/Characters/Quentin McQuall.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "786ad8488bd452bc"
+          }
+        ]
+      },
+      {
+        "id": "96f4e1ca8cd495a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d759a560f4869d8b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Campaigns/Qs in R/Ironsworn/Characters/Quentin McQuall.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "786ad8488bd452bc"
+          }
+        ]
+      },
+      {
+        "id": "f214e0a11b2f9d27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c5077dd1250d3c6",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Campaigns/Qs in R/Ironsworn/Characters/Quentin McQuall.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "786ad8488bd452bc"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +369,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Welcome to Raudaia!.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -138,7 +385,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Welcome to Raudaia!.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -149,9 +395,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Welcome to Raudaia!.md"
-          }
+          "state": {}
         }
       },
       {
@@ -199,11 +443,17 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "d5a9b6967d1ab2e7",
+  "active": "53b22e8ce50fb2b9",
   "lastOpenFiles": [
+    "Campaigns/Qs in R/Ironsworn/Characters/Quentin McQuall.md",
+    "Enugar.md",
+    "Erard Willow.md",
+    "Bandits in the Tunnel.md",
+    "Ka'Eek.md",
+    "Kharb.md",
+    "Welcome to Raudaia!.md",
     "Campaigns/Qs in R/Ironsworn/Journals/Scene 27.md",
     "Khiz.md",
-    "Welcome to Raudaia!.md",
     "Pevian Holy State.md",
     "Gafranthel.md",
     "Umrion Valley.md",
@@ -221,12 +471,6 @@
     "Iuneleltheas.md",
     "Nealin.md",
     "Campaigns/Qs in R/Ironsworn/Journals/Scene 18.md",
-    "Campaigns/Qs in R/Ironsworn/Progress/Journey to Khizdum.md",
-    "Religion.md",
-    "The Knights of Stonefist.md",
-    "Regions.md",
-    "Arlo/Chapter 1.md",
-    "The Founding.md",
     "Campaigns/Qs in R/Assets/MythicGME2eV2.pdf",
     "Arlo",
     "Untitled.canvas",
