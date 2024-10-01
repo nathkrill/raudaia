@@ -1,3 +1,9 @@
+---
+tags:
+ - Arlo
+---
+
+
 # Chapter One
 
 Arlo was an orphan boy, who didn't remember his parents. He lived with a cruel old caretaker called [[Lucia]]. 

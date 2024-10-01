@@ -1,3 +1,9 @@
+---
+tags:
+ - Overview
+---
+
+
 # Astronomy
 
 The continent of [[Welcome to Raudaia!|Raudaia]] takes up just over one third of the planet it is on. It is a mostly equatorial continent. Not much is known about other landmasses on the planet. 

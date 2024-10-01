@@ -175,3 +175,8 @@ move "[End the Fight](datasworn:move:classic\/combat\/end_the_fight)" {
 ```
 
 They both find their mark, and the robbers slump to the ground.
+
+Without acknowledging them at all, Quentin turns and starts walking across the encampment. 
+
+He is looking around for [[Kharb]]. 
+

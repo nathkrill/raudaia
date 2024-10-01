@@ -1,3 +1,9 @@
+---
+tags:
+ - Overview
+---
+
+
 [[Welcome to Raudaia!|Raudaia]] is home to many people, who have varying cultural backgrounds. Besides these, there are those who walk between cultures, and though they are rooted in specific racial heritage they are not exclusive.
 
 ## [[Nelhahet]]

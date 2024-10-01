@@ -1,4 +1,10 @@
-## Climate
+---
+tags:
+ - Overview
+---
+
+
+# Climate
 
 The [[Welcome to Raudaia!|Raudaian]] landmass is located spanning the equator of the globe. This results in a generally warm climate, and not so many [[Seasons|seasons]].
 
