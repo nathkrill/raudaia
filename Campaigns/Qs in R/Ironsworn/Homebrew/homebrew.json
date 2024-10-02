@@ -486,7 +486,7 @@
                     "type": "move",
                     "name": "Travel",
                     "roll_type": "action_roll",
-                    "text": "When you travel on a hex map or grid. \nOn a __strong hit__, you are successful. Take +1 momentum, choose from tables and choose an opportunity. \nOn a __weak hit__, roll on the tables. \nOn a __miss__, you fail, choose a hindrance.",
+                    "text": "When you travel on a hex map or grid. On a __strong hit__, you are successful. Take +1 momentum, choose from tables and choose an opportunity. On a __weak hit__, roll on the tables. On a __miss__, you fail, choose a hindrance.",
                     "_source": {
 						"title": "Raudaia Homebrew",
 						"page": 12,
@@ -731,7 +731,7 @@
                                 },
                                 {
                                     "_id": "move.oracle_rollable.row:homebrew/custom/travel.iron.2",
-                                    "text": "You move 1 cell in the right direction. The conditions of your journey get worse.",
+                                    "text": "You move 1 cell in the righqt direction. The conditions of your journey get worse.",
                                     "roll": {
 										"min": 31,
 										"max": 45
