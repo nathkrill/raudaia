@@ -90,6 +90,13 @@
         "a": 1,
         "rgb": 5057792
       }
+    },
+    {
+      "query": "tag:#Creature  ",
+      "color": {
+        "a": 1,
+        "rgb": 11010146
+      }
     }
   ],
   "collapse-display": true,
