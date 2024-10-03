@@ -3,7 +3,7 @@ name: Journey to Hitching
 rank: troublesome
 progress: 24
 tags:
-  - incomplete
+  - complete
 track-type: Journey
 iron-vault-kind: progress
 ---

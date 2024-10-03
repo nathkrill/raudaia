@@ -4,55 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2bbffaef3b6e8a64",
+        "id": "fada62950c61ffe0",
         "type": "tabs",
         "children": [
           {
-            "id": "c82c0bf17d739819",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 29.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "eb8bfd321038d8b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/Qs in R/GM.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e3dd4e21fa3aeed7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 26.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "56c35b73691c46cb",
+            "id": "12e174aa7fd8f578",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,7 +40,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Wahas",
+            "query": "tag:#incomplete",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -106,7 +69,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "bcb3231ae72d131e",
@@ -192,16 +155,19 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "c907ccd643eac3bb",
+  "active": "12e174aa7fd8f578",
   "lastOpenFiles": [
+    "Campaigns/Faal/Character/Faal.md",
     "Campaigns/Qs in R/Ironsworn/Journals/Scene 29.md",
-    "Campaigns/Qs in R/Ironsworn/Journals/Scene 26.md",
-    "Campaigns/Qs in R/GM.md",
-    "Welcome to Raudaia!.md",
-    "Campaigns/Qs in R/Characters/Character List.md",
-    "Campaigns/Qs in R/Ironsworn/Journals/Scene 28.md",
+    "Campaigns/Qs in R/Ironsworn/Progress/Scene 9 - house ambush.md",
+    "Campaigns/Qs in R/Ironsworn/Progress/Journey to Hitching.md",
     "Campaigns/Qs in R/Threads/Threads List.md",
     "Campaigns/Qs in R/Threads/Monster in the North.md",
+    "Welcome to Raudaia!.md",
+    "Campaigns/Qs in R/Ironsworn/Journals/Scene 26.md",
+    "Campaigns/Qs in R/GM.md",
+    "Campaigns/Qs in R/Characters/Character List.md",
+    "Campaigns/Qs in R/Ironsworn/Journals/Scene 28.md",
     "Campaigns/Qs in R/Threads/Fight in the club.md",
     "Lendis Suldusk.md",
     "Tofhur.md",
@@ -219,9 +185,6 @@
     "Enugar.md",
     "Erard Willow.md",
     "Bandits in the Tunnel.md",
-    "Ka'Eek.md",
-    "Kharb.md",
-    "Campaigns/Qs in R/Ironsworn/Journals/Scene 27.md",
     "Arlo",
     "Untitled.canvas",
     "Campaigns/Qs in R/Assets/Ironsworn-Rulebook.pdf",

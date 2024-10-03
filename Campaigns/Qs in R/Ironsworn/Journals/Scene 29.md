@@ -44,4 +44,18 @@ He pulls out the book.
 
 They step over to Khola's desk and open the book. There are several creatures mentioned, and it takes a while to read through each one. But eventually they come to a familiar passage. 
 
->"So, it's called a 
+[[Khola]] gasps as she reads. 
+>"So, it's called a [[Wahashka]]...
+>This is good stuff, boys, thank you for undertaking such a challenge."
+
+She taps the page. 
+>"I'll get the word around about this, and start mustering forces to track it down.
+>In the meantime take a bit of a rest, both of you."
+
+Quentin puts his hand on [[Kharb]]'s shoulder and leans into his ear. 
+>"Wanna get into trouble? I've found a place where we can have a bit of fun."
+
+[[Kharb]] gulps nervously. 
+>"Um... Okay, but I'd rather avoid too much danger at this point."
+
+Quentin laughs and leads him out the door.

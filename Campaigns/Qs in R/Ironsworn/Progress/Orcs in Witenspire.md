@@ -3,7 +3,7 @@ name: Orcs in Witenspire
 rank: dangerous
 progress: 24
 tags:
-  - incomplete
+  - complete
 track-type: Combat
 iron-vault-kind: progress
 ---

@@ -5,3 +5,5 @@ To the north, where the [[Witenspire Mountains]] meet [[Tugar Forest]], there ar
 Quentin arrives at [[Khizdum]] to find it ruined in the wake of The [[Monster in the North]].
 
 Quentin is tasked with travelling to [[Hitching]] to find any information out about the monster. 
+
+[[Campaigns/Qs in R/PCs/Quentin McQuall|Quentin McQuall]] and [[Kharb]] discovered that the monster is a [[Wahashka]]. 
