@@ -2,7 +2,7 @@
 name: Quentin McQuall
 xp_spent: 0
 xp_added: 3
-momentum: 3
+momentum: 7
 edge: 3
 heart: 2
 iron: 2

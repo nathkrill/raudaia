@@ -180,3 +180,96 @@ Without acknowledging them at all, Quentin turns and starts walking across the e
 
 He is looking around for [[Kharb]]. 
 
+```iron-vault-mechanics
+move "[Gather Information](datasworn:move:classic\/adventure\/gather_information)" {
+    roll "Wits" action=3 adds=0 stat=1 vs1=4 vs2=9
+}
+```
+
+Quentin doesn't spot [[Kharb]], but he does see a [[Khizdum]] guard coming out of a large tent.
+
+He calls out across the way.
+>"Hey there! Have you seen [[Kharb]]?"
+
+The guard stops suddenly as if caught in something. He's a younger, light haired dwarf. Quentin can't help but notice he's trying to cover the tent entrance as best he could. 
+
+The guard eyes Quentin up. 
+>"Kharb? No, haven't seen him in a while. He's off on some trip, last I heard. Check with [[Khola]]."
+
+Quentin nods. 
+>"Thanks. I'm Quentin by the way. What was your name?"
+
+```iron-vault-mechanics
+move "[Compel](datasworn:move:classic\/relationship\/compel)" {
+    roll "Heart" action=5 adds=0 stat=2 vs1=5 vs2=4
+}
+```
+
+>"I... I'm [[Tofhur]]. Nice to meet you Quentin."
+
+He looks around bashfully, as if trying to find an excuse to send Quentin away. 
+
+Quentin leans forwards and lowers his voice. 
+>"What's in that tent?"
+
+```iron-vault-mechanics
+move "[Compel](datasworn:move:classic\/relationship\/compel)" {
+    roll "Heart" action=5 adds=0 stat=2 vs1=2 vs2=8
+}
+```
+
+[[Tofhur]] looks panicked. 
+>"Why do you want to know?"
+
+>"Oh I'm just curious, you seem quite protective."
+
+```iron-vault-mechanics
+move "[Compel](datasworn:move:classic\/relationship\/compel)" {
+    roll "Heart" action=6 adds=0 stat=2 vs1=3 vs2=2
+}
+move "[Gather Information](datasworn:move:classic\/adventure\/gather_information)" {
+    add 1
+    roll "Wits" action=4 adds=1 stat=1 vs1=4 vs2=3
+}
+
+```
+
+[[Tofhur]] looks left and right, then pulls the tent flap aside and quickly ushers Quentin in. 
+>"Quick, come in and see for yourself." 
+
+The tent is a large bell tent. Around the edges there are several benches, each with various members of the guard, as well as a few muscular civilians sitting around. 
+In the center is a thick roped circle. The muddy ground is marked with boot prints and blood. 
+It's clear to Quentin that this is a fighting ring. Looking around he can also see a desk with bags of coins resting on it. 
+
+[[Tofhur]] turns to Quentin. 
+>"We had this set up properly in the city before it was ruined. It's quite a good way to get practice and coin, so we thought it was important to keep things running."
+
+Quentin looks around in awe, then back at [[Tofhur]]. 
+>"Are you in charge of this?"
+
+[[Tofhur]] points at a portly half-elven woman who is sitting behind a bench, scrawling in a ledger. 
+`is she part of the order? No`
+
+>"That's [[Lendis Suldusk|Lendis]], she's in charge. If you wanna fight or place a bet, talk to her."
+
+At the mention of her name, [[Lendis Suldusk]] stands up. 
+>"Who's that there, [[Tofhur]]? Bring him over, sweetie."
+
+[[Tofhur]] cocks his head at Quentin. Quentin strides over to the desk. 
+
+>"[[Campaigns/Qs in R/PCs/Quentin McQuall|Quentin McQuall]], nice to meet you madame [[Lendis Suldusk|Lendis]]."
+
+>"Ooh you're charming! A bit small, but you have the air around you. Looking for a fight?"
+
+Quentin puts his hands flat on the desk and leans in, grinning. 
+>"I'd be interested, but I have an errand to run. But I'd like to register and come back later, if that's how things work."
+
+`is there a registration? No`
+
+[[Lendis Suldusk]] laughs. 
+>"Oh nothing so formal, dearie! Just pop by when you're in the fighting spirit and we'll get you in the ring."
+
+As she stands, people are starting to gather around the edge of the rin. It looks like a fight is about to start. 
+>"I don't want to miss this one, see you soon!"
+
+She waves her chubby hand and rushes forward to the front of the crowd and begins addressing them as Quentin steps out of the tent. 

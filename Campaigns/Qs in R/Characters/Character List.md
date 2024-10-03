@@ -17,8 +17,8 @@
 |     | 4   | [[Khola]]        |
 | 4   | 5   | [[Shiz]]         |
 |     | 6   | Librarian        |
-|     | 7   |                  |
-|     | 8   |                  |
+|     | 7   |    [[Tofhur]]              |
+|     | 8   |      [[Lendis Suldusk]]            |
 |     | 9   |                  |
 |     | 10  |                  |
 |     |     |                  |
