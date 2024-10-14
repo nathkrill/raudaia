@@ -19,6 +19,6 @@
 |     | 6   | Librarian        |
 |     | 7   |    [[Tofhur]]              |
 |     | 8   |      [[Lendis Suldusk]]            |
-|     | 9   |                  |
+|     | 9   |      [[Odin]]            |
 |     | 10  |                  |
 |     |     |                  |

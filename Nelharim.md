@@ -15,6 +15,12 @@ The [[Pevian Holy State]] is ruled by a religious oligarchy that revere the Nelh
 
 Most other religions believe the Nelharim are real, but don't regard them as objects of worship. The religion of the [[Kharparet]] have ancient stories of their champions waging war against great colossi, but they don't see them as threats any more. 
 
+## Mythology 
+
+The [[Nelhahet]] believe that their gods are the stewards of this world. Their worldview considers the cosmos as an infinite realm of possibility, and that many places like Raudaia are formed out of the cosmos, as well as cosmic beings like the [[Nelharim]]. 
+
+The myth tells of Raudaia as yet another bead of possibility within the vast cosmos that was discovered by the [[Nelharim]] and formed into the beautiful world it is now. It was once a peaceful and wonderful place until [[Vadox]] turned against his kin and created evil and monstrous creatures in an attempt to destroy Raudaia out of spite. 
+
 ## [[Eahethel]]
 
 The supreme deity of the Nelharim. [[Eahethel]] takes the form of an immense Yeti. His preferred dwelling is the [[Tugar Forest]]. He brings the blessing of warmth from the cold climate, and is sometimes associated with fire.

@@ -14,6 +14,12 @@ Worship of the Valley Gods is what united the [[Kara]] of the east to form the s
 The power and renown of the seven is in reverse order, with the [[Atum]] the Violet as the leader, and [[Shal]] the Red as the lesser. When these gods manifest themselves, they are often tall figures, wearing brightly coloured robes and sashes, and usually with many gems adorning them. They are not too dissimilar in manner and appearance to something like a djiin.
 
 The Valley religion is mostly ignored by other cultures. Those who have encountered them are often convinced they are demons or desert spirits. 
+
+## Mythology 
+
+Followers of the Valley Gods believe that the [[Kara Valley]] is the centre of creation. They believe that the gods entered the world in the valley from a realm of paradise, and the cosmos exploded into being around their point of entry. 
+They also believe the gods will guide the faithful souls through the rift in the valley to paradise. 
+
 ## [[Atum]] (Violet)
 
 ## [[Durmo]] (Indigo)
