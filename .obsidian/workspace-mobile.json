@@ -4,31 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "a2b830593f971a6f",
+        "id": "35936af25b31385a",
         "type": "tabs",
         "children": [
           {
-            "id": "61dd5df99327572e",
+            "id": "428651fd31892940",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 31.md",
+                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 19.md",
                 "mode": "preview",
+                "backlinks": true,
                 "source": true
               }
             }
-          },
-          {
-            "id": "d27492a8a1b7c948",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 19.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,6 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 19.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -120,7 +114,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 19.md"
+          }
         }
       },
       {
@@ -168,17 +164,17 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "d27492a8a1b7c948",
+  "active": "428651fd31892940",
   "lastOpenFiles": [
+    "Khola.md",
+    "Welcome to Raudaia!.md",
     "Campaigns/Qs in R/Ironsworn/Qs in R.md",
     "Campaigns/Qs in R/Introduction.md",
     "Campaigns/Qs in R/GM.md",
     "Campaigns/Qs in R/Ironsworn/Journals/Scene 31.md",
-    "Khola.md",
     "Campaigns/Qs in R/Ironsworn/Bonds.md",
     "Campaigns/Qs in R/Ironsworn/Characters/Quentin McQuall.md",
     "Campaigns/Qs in R/Ironsworn/Journals/Scene 30.md",
-    "Welcome to Raudaia!.md",
     "Campaigns/Qs in R/Generators.canvas",
     "Campaigns/Qs in R/PCs/Quentin McQuall.md",
     "Tofhur.md",
