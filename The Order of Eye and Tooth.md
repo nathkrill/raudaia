@@ -46,3 +46,12 @@ Each job is rewarded with a small silver token, given by the leader who gives th
 These tokens are exchanged for payment, and contribute to the member's ranking within the organisation. 
 Collecting enough tokens (by *any* means) earns you advancement, and things like the right to put together your own jobs (something that also rewards with tokens) and give out tokens to lesser members who do jobs for you. 
 It's a cutthroat environment to work in, but so are the people who work in it!
+
+## Notable Members
+
+| Name                | Role                   |  Location   |
+| ------------------- | ---------------------- | --- |
+| [[Faal Baelitae]]   | Gatherer, Bloodletters |  [[Western Horn]]   |
+| [[Wenche Clodweed]] | Master of Gatherers    |    [[Caustow]] |
+| [[Mireille Soria]]  | Master of Whisperers   |    [[Caustow]] |
+|                     |                        |     |

@@ -1,4 +1,4 @@
-Scene: Faal makes his way to the villa
+Scene: [[Faal Baelitae]] makes his way to the villa
 
 Faal leaves [[The Pirate & Cauldron]] and steps out into the street. Even though the sun is gone, the night is heavy and warm.
 He makes his way through the crowded streets and people spill out of taverns and homes to enjoy tonight's festivities.

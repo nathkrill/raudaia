@@ -1,7 +1,7 @@
 Scene: locating the order hideout
 Altered scene: locating faal's safehouse
 
-Faal winds his way through the streets, heading back dockwards.
+[[Faal Baelitae]] winds his way through the streets, heading back dockwards.
 It seems word of the disturbance at [[Kolar Tarryst]]'s house has got out as there are guards from various groups combing the streets, all heading up the hill.
 
 Faal keeps to the shadows and eventually leaves the district. 

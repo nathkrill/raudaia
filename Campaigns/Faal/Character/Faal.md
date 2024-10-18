@@ -17,7 +17,7 @@
 
 | Platinum |  Gold   |   Electrum  |  Silver   |  Copper   |
 | -------- | --- | --- | --- | --- |
-|          | 15    |     |     |     |
+|          | 41    |     |     |     |
 
 
 |                       |      |

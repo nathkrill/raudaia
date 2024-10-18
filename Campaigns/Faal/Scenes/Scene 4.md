@@ -1,7 +1,7 @@
 Scene: Faal goes to the Order
 Altered: [[Wenche Clodweed|Wenche]] comes to Faal
 
-Faal is woken in the morning by the sound of someone coming up the ladder. He rolls over and grabs a dagger, crouching over the loft hatch.
+[[Faal Baelitae]] is woken in the morning by the sound of someone coming up the ladder. He rolls over and grabs a dagger, crouching over the loft hatch.
 
 [[Wenche Clodweed]]'s tan face and emerald eyes appear at the opening of the hatch. Faal relaxes and rolls over, letting the dagger fall.
 

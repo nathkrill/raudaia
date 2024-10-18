@@ -20,7 +20,7 @@ iron-vault-kind: campaign
 [[Campaigns/Qs in R/Ironsworn/Journals/Scene 2]]
 [[Campaigns/Qs in R/Ironsworn/Journals/Scene 3]]
 [[Campaigns/Qs in R/Ironsworn/Journals/Scene 4]]
-[[Scene 5]]
+[[Campaigns/Qs in R/Ironsworn/Journals/Scene 5]]
 [[Scene 6]]
 [[Scene 7]]
 [[Scene 8]]
