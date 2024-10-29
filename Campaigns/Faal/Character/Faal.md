@@ -1,6 +1,6 @@
 ## Momentum
 
-10
+7
 
 ## HP
 

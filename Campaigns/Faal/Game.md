@@ -3,7 +3,7 @@ tags:
   - Campaign
 ---
 
-Chaos: 7
+Chaos: 9
 
 [[Generators.canvas|Generators]]
 
