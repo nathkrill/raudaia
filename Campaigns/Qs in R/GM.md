@@ -3,7 +3,7 @@ tags:
   - Campaign
 ---
 
-Chaos: 2
+Chaos: 4
 Fear: 5
 Hope: 4
 Action: 0
