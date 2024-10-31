@@ -1,16 +1,16 @@
 ---
 name: Quentin McQuall
 xp_spent: 0
-xp_added: 3
-momentum: 3
+xp_added: 6
+momentum: 2
 edge: 3
 heart: 2
 iron: 2
 shadow: 3
 wits: 1
-health: 3
-spirit: 3
-supply: 5
+health: 5
+spirit: 2
+supply: 4
 Bonds_Progress: 3
 Bonds_XPEarned: 0
 FailureTrack_Progress: 0
@@ -41,7 +41,6 @@ assets:
     options: {}
 ---
 
-
 ```iron-vault-character-info
 ```
 
@@ -53,6 +52,8 @@ assets:
 
 ```iron-vault-character-special-tracks
 ```
+
+[[Quentin's Wealth]]
 
 ```iron-vault-character-impacts
 ```

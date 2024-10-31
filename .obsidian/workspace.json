@@ -4,72 +4,141 @@
     "type": "split",
     "children": [
       {
-        "id": "36ac778c0305cedd",
+        "id": "4fb279bd6afeccdc",
         "type": "tabs",
         "children": [
           {
-            "id": "099816e3c300f2f5",
+            "id": "47a76a05a672e9f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 32.md",
+                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 34.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Scene 34"
+            }
+          },
+          {
+            "id": "b5f118b6b99d9694",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/Qs in R/Ironsworn/Progress/Scene 34 - Ground floor.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Scene 32"
+              "title": "Scene 34 - Ground floor"
             }
           }
         ]
       },
       {
-        "id": "3f188ded7b13da52",
-        "type": "tabs",
+        "id": "eebd32807da01a4c",
+        "type": "split",
         "children": [
           {
-            "id": "c17099d9f5de2d52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/Qs in R/GM.md",
-                "mode": "preview",
-                "source": true
+            "id": "2f466d3cf905dc48",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ea853360a3ff1e37",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Campaigns/Qs in R/GM.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "GM"
+                }
               },
-              "icon": "lucide-file",
-              "title": "GM"
-            }
+              {
+                "id": "fdc4a126320f1256",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Campaigns/Qs in R/Characters/Character List.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Character List"
+                }
+              },
+              {
+                "id": "8898692db3dd4e58",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Khizdum.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Khizdum"
+                }
+              },
+              {
+                "id": "f9a426fb0aa518b7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Campaigns/Qs in R/Threads/Threads List.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Threads List"
+                }
+              },
+              {
+                "id": "220a1be610647976",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Gnawr's Farm.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Gnawr's Farm"
+                }
+              }
+            ]
           },
           {
-            "id": "e77b924aa22bf640",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maps/Raudaia at The Founding.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Raudaia at The Founding"
-            }
-          },
-          {
-            "id": "8c30b7fea36804b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/Qs in R/Threads/Threads List.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Threads List"
-            }
+            "id": "67369826097631ac",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1bce35cb4499449f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Maps/Raudaia at The Founding.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Raudaia at The Founding"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -141,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 32.md",
+                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 34.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +220,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Scene 32"
+              "title": "Backlinks for Scene 34"
             }
           },
           {
@@ -160,12 +229,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 32.md",
+                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 34.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Scene 32"
+              "title": "Outgoing links from Scene 34"
             }
           },
           {
@@ -187,10 +256,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 32.md"
+                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 34.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Scene 32"
+              "title": "Outline of Scene 34"
             }
           },
           {
@@ -249,35 +318,35 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "099816e3c300f2f5",
+  "active": "47a76a05a672e9f7",
   "lastOpenFiles": [
+    "Campaigns/Qs in R/Ironsworn/Progress/Scene 34 - Ground floor.md",
+    "Campaigns/Qs in R/Ironsworn/Journals/Scene 34.md",
     "Campaigns/Qs in R/GM.md",
+    "Gnawr's Farm.md",
+    "Campaigns/Qs in R/Characters/Character List.md",
     "Campaigns/Qs in R/Threads/Threads List.md",
+    "Khizdum.md",
+    "Campaigns/Faal/Threads List.md",
+    "Campaigns/Qs in R/Ironsworn/Progress/Scene 34 - Ambush.md",
+    "Campaigns/Qs in R/Ironsworn/Progress/Kill the Wahashka.md",
+    "Kirad.md",
+    "Campaigns/Qs in R/Ironsworn/Journals/Scene 33.md",
+    "Gnawr.md",
+    "Campaigns/Qs in R/Ironsworn/Journals/Untitled.md",
+    "Campaigns/Qs in R/Generators.canvas",
+    "Campaigns/Qs in R/Ironsworn/Progress/Clear Issren of Bandits.md",
+    "Campaigns/Qs in R/Ironsworn/Progress/Quentin's Wealth.md",
+    "Campaigns/Qs in R/Ironsworn/Characters/Quentin McQuall.md",
+    "Campaigns/Qs in R/PCs/Quentin McQuall.md",
+    "Campaigns/Qs in R/Threads/Fight in the club.md",
+    "Maps/Raudaia at The Founding.md",
+    "Welcome to Raudaia!.md",
     "Campaigns/Qs in R/Ironsworn/Journals/Scene 32.md",
     "Campaigns/Qs in R/Ironsworn/Progress/Scene 32 Wahashka.md",
-    "Maps/Raudaia at The Founding.md",
-    "Khizdum.md",
     "Campaigns/Qs in R/Ironsworn/Clocks/Scene 32 Wahashka chase.md",
     "Campaigns/Qs in R/Ironsworn/Journals/Scene 31.md",
-    "Welcome to Raudaia!.md",
     "Campaigns/Faal/Scenes/Scene 5.md",
-    "Campaigns/Faal/Scenes/Scene 4.md",
-    "Campaigns/Faal/Scenes/Scene 3.md",
-    "Campaigns/Faal/Scenes/Scene 2.md",
-    "Campaigns/Faal/Scenes/Scene 1.md",
-    "Faal Baelitae.md",
-    "The Order of Eye and Tooth.md",
-    "Kolar Tarryst.md",
-    "Deme.md",
-    "Wenche Clodweed.md",
-    "Jane Halliwell.md",
-    "Cambroke.md",
-    "Issren.md",
-    "Campaigns/Faal/Character List.md",
-    "Mireille Soria.md",
-    "Campaigns/Faal/Character/Faal.md",
-    "Campaigns/Qs in R/Generators.canvas",
-    "Campaigns/Faal/Game.md",
     "Campaigns/Faal/Character/Character Sheet.pdf",
     "Campaigns/Qs in R/Assets/MythicGME2eV2.pdf",
     "Campaigns/Faal/Clocks",
