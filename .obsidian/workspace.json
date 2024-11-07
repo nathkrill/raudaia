@@ -4,141 +4,126 @@
     "type": "split",
     "children": [
       {
-        "id": "4fb279bd6afeccdc",
+        "id": "bcbc38f9086f7455",
         "type": "tabs",
         "children": [
           {
-            "id": "47a76a05a672e9f7",
+            "id": "d2f3f477f666ffc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 34.md",
+                "file": "Campaigns/The Diaries of Mozga'n Alrai/Character Sheet.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Scene 34"
+              "title": "Character Sheet"
             }
           },
           {
-            "id": "b5f118b6b99d9694",
+            "id": "79f1eeb01dfd1682",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Qs in R/Ironsworn/Progress/Scene 34 - Ground floor.md",
+                "file": "Campaigns/The Diaries of Mozga'n Alrai/Memory 11.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Memory 11"
+            }
+          },
+          {
+            "id": "7c9f1aad76ed015a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/The Diaries of Mozga'n Alrai/Memory 10.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Memory 10"
+            }
+          },
+          {
+            "id": "5707be518de736ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/The Diaries of Mozga'n Alrai/Freida Galyt.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Freida Galyt"
+            }
+          },
+          {
+            "id": "9329f110c7ea6d5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/The Diaries of Mozga'n Alrai/Memory 9.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Memory 9"
+            }
+          },
+          {
+            "id": "928306c894fd3343",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/The Diaries of Mozga'n Alrai/Background.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Background"
+            }
+          },
+          {
+            "id": "c903d14cc4829aee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/The Diaries of Mozga'n Alrai/Mozga'n Alrai.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Scene 34 - Ground floor"
+              "title": "Mozga'n Alrai"
             }
           }
         ]
       },
       {
-        "id": "eebd32807da01a4c",
-        "type": "split",
+        "id": "06889a709c5a02e0",
+        "type": "tabs",
         "children": [
           {
-            "id": "2f466d3cf905dc48",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ea853360a3ff1e37",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Campaigns/Qs in R/GM.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "GM"
-                }
+            "id": "9080abeca0e22310",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Campaigns/The Diaries of Mozga'n Alrai/Thousand Year Old Vampire.pdf"
               },
-              {
-                "id": "fdc4a126320f1256",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Campaigns/Qs in R/Characters/Character List.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Character List"
-                }
-              },
-              {
-                "id": "8898692db3dd4e58",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Khizdum.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Khizdum"
-                }
-              },
-              {
-                "id": "f9a426fb0aa518b7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Campaigns/Qs in R/Threads/Threads List.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Threads List"
-                }
-              },
-              {
-                "id": "220a1be610647976",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Gnawr's Farm.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Gnawr's Farm"
-                }
-              }
-            ]
-          },
-          {
-            "id": "67369826097631ac",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1bce35cb4499449f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Maps/Raudaia at The Founding.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Raudaia at The Founding"
-                }
-              }
-            ]
+              "icon": "lucide-file-text",
+              "title": "Thousand Year Old Vampire"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -318,35 +303,37 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "47a76a05a672e9f7",
+  "active": "d2f3f477f666ffc7",
   "lastOpenFiles": [
-    "Campaigns/Qs in R/Ironsworn/Progress/Scene 34 - Ground floor.md",
-    "Campaigns/Qs in R/Ironsworn/Journals/Scene 34.md",
-    "Campaigns/Qs in R/GM.md",
-    "Gnawr's Farm.md",
-    "Campaigns/Qs in R/Characters/Character List.md",
-    "Campaigns/Qs in R/Threads/Threads List.md",
-    "Khizdum.md",
-    "Campaigns/Faal/Threads List.md",
-    "Campaigns/Qs in R/Ironsworn/Progress/Scene 34 - Ambush.md",
-    "Campaigns/Qs in R/Ironsworn/Progress/Kill the Wahashka.md",
-    "Kirad.md",
-    "Campaigns/Qs in R/Ironsworn/Journals/Scene 33.md",
-    "Gnawr.md",
-    "Campaigns/Qs in R/Ironsworn/Journals/Untitled.md",
-    "Campaigns/Qs in R/Generators.canvas",
-    "Campaigns/Qs in R/Ironsworn/Progress/Clear Issren of Bandits.md",
-    "Campaigns/Qs in R/Ironsworn/Progress/Quentin's Wealth.md",
-    "Campaigns/Qs in R/Ironsworn/Characters/Quentin McQuall.md",
-    "Campaigns/Qs in R/PCs/Quentin McQuall.md",
-    "Campaigns/Qs in R/Threads/Fight in the club.md",
+    "Campaigns/The Diaries of Mozga'n Alrai/Memory 11.md",
+    "Campaigns/The Diaries of Mozga'n Alrai/Character Sheet.md",
+    "Campaigns/The Diaries of Mozga'n Alrai/Memory 10.md",
+    "Campaigns/The Diaries of Mozga'n Alrai/Memory 8.md",
+    "Campaigns/The Diaries of Mozga'n Alrai/Memory 3 - First Love.md",
+    "Campaigns/The Diaries of Mozga'n Alrai/Freida Galyt.md",
+    "Campaigns/The Diaries of Mozga'n Alrai/Memory 9.md",
+    "Campaigns/The Diaries of Mozga'n Alrai/Memory 7.md",
+    "Campaigns/The Diaries of Mozga'n Alrai/Thousand Year Old Vampire.pdf",
+    "Campaigns/The Diaries of Mozga'n Alrai/Memory 5.md",
+    "Campaigns/The Diaries of Mozga'n Alrai/Finai Habren.md",
+    "Campaigns/The Diaries of Mozga'n Alrai/Memory 4 - Tavern Seductress.md",
+    "Campaigns/The Diaries of Mozga'n Alrai/Morgan Albry.md",
+    "Campaigns/The Diaries of Mozga'n Alrai/Memory 6.md",
+    "Campaigns/The Diaries of Mozga'n Alrai/Memory 1 - The Herd.md",
+    "Campaigns/The Diaries of Mozga'n Alrai/Galass Habren.md",
+    "Campaigns/The Diaries of Mozga'n Alrai/Peter Galyt.md",
+    "Abwahtar.md",
     "Maps/Raudaia at The Founding.md",
-    "Welcome to Raudaia!.md",
-    "Campaigns/Qs in R/Ironsworn/Journals/Scene 32.md",
-    "Campaigns/Qs in R/Ironsworn/Progress/Scene 32 Wahashka.md",
-    "Campaigns/Qs in R/Ironsworn/Clocks/Scene 32 Wahashka chase.md",
-    "Campaigns/Qs in R/Ironsworn/Journals/Scene 31.md",
-    "Campaigns/Faal/Scenes/Scene 5.md",
+    "Campaigns/The Diaries of Mozga'n Alrai/Background.md",
+    "Campaigns/The Diaries of Mozga'n Alrai/Mozga'n Alrai.md",
+    "Campaigns/The Diaries of Mozga'n Alrai/Jonah Romone.md",
+    "vampire.md",
+    "Faal Baelitae.md",
+    "Campaigns/Qs in R/PCs/Quentin McQuall.md",
+    "Dhanahraf.md",
+    "Campaigns/The Diaries of Mozga'n Alrai/Memory 2 - The Knife.md",
+    "Campaigns/The Diaries of Mozga'n Alrai",
+    "Campaigns/Qs in R/Generators.canvas",
     "Campaigns/Faal/Character/Character Sheet.pdf",
     "Campaigns/Qs in R/Assets/MythicGME2eV2.pdf",
     "Campaigns/Faal/Clocks",
@@ -363,8 +350,6 @@
     "Campaigns/Qs in R/Assets/Screenshot_20240327-145612.png",
     "Campaigns/Qs in R/Assets/Screenshot 2024-09-20 193738.png",
     "Pasted image 20240920193721.png",
-    "Campaigns/Qs in R/Characters",
-    "Arlo",
     "Pasted image 20240911104231.png",
     "Pasted image 20240911104211.png",
     "Campaigns/Qs in R/Scene Board.canvas",
