@@ -1,0 +1,3 @@
+- Teethmarks above my left collarbone
+- Stiff left arm
+- Glowing eyes
