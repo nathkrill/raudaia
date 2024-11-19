@@ -1,0 +1,14 @@
+ - [ ] ~~Boyishly Handsome~~
+ - [x] ~~Nimble~~
+ - [x] ~~Resourceful~~
+ - [x] Bloodthirsty
+ - [x] Destitute
+ - [x] Druggist
+ - [x] Hitchhiker
+ - [x] Claws
+ - [x] Trafficker
+ - [x] Imperceptible
+ - [x] Chameleon
+ - [x] Visionary
+ - [x] Architect
+ - [ ] It's none of my concern

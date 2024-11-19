@@ -1,7 +1,7 @@
 ## Last Prompt
 |     |
 | --- |
-|  57   |
+|  54   |
 
 ## Memories
 
@@ -51,6 +51,7 @@
 | Highborn Ally                                 |     |
 
 ## Characters
+[Fledgling Vampire Generator](https://perchance.org/fledglingvampiregenerator)
 
 |                           |          |
 | ------------------------- | -------- |

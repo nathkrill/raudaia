@@ -5,3 +5,7 @@ A wizard in town who had moved into our old home found the diary of [[Finai Habr
 ## Experience 2 -180PF
 
 My experience in creating drugs and poisons allows [[Camzah Indebok]] to climb the social ladder and provide opportunities for all of us. He keeps my diary as a means to preserve the recipes we concoct.
+
+## Experience 3 -179PF
+
+I learn to mimic [[Camzah Indebok]]'s presentation, and can soon pass myself off as a noble.
