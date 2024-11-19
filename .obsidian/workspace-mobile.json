@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "54c33e6a6551fe25",
+        "id": "1a958f5798632b77",
         "type": "tabs",
         "children": [
           {
-            "id": "c0c50fac59e14be6",
+            "id": "7f0eeb183d76833c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Welcome to Raudaia!.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Welcome to Raudaia!"
             }
           }
         ]
@@ -181,8 +185,10 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "c0c50fac59e14be6",
+  "active": "1d469199f3c03113",
   "lastOpenFiles": [
+    "Books",
+    "Campaigns/The Diaries of Mozga'n Alrai/thousand-year-old-vampire.md",
     "Welcome to Raudaia!.md",
     "Wineven.md",
     "Maps/Raudaia at The Founding.md",
@@ -210,8 +216,6 @@
     "Campaigns/Faal/Scenes/Scene 5.md",
     "Campaigns/Faal/Faal.md",
     "Campaigns/Qs in R/Ironsworn/Journals/Scene 19.md",
-    "Khola.md",
-    "Campaigns/Qs in R/Ironsworn/Qs in R.md",
     "Campaigns/Qs in R/Generators.canvas",
     "Arlo",
     "Untitled.canvas",
