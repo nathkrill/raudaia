@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1a958f5798632b77",
+        "id": "cb983955066a8125",
         "type": "tabs",
         "children": [
           {
-            "id": "7f0eeb183d76833c",
+            "id": "f062dd865d00a949",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome to Raudaia!.md",
+                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 34.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Welcome to Raudaia!"
+              "title": "Scene 34"
             }
           }
         ]
@@ -185,11 +185,12 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "1d469199f3c03113",
+  "active": "f062dd865d00a949",
   "lastOpenFiles": [
+    "Welcome to Raudaia!.md",
+    "Campaigns/Qs in R/Scene Board.canvas",
     "Books",
     "Campaigns/The Diaries of Mozga'n Alrai/thousand-year-old-vampire.md",
-    "Welcome to Raudaia!.md",
     "Wineven.md",
     "Maps/Raudaia at The Founding.md",
     "Campaigns/Faal/Scenes/Scene 8.md",
@@ -223,13 +224,11 @@
     "Pasted image 20240911104231.png",
     "Pasted image 20240911104211.png",
     "Excalidraw",
-    "Campaigns/Qs in R/Scene Board.canvas",
     "Campaigns/Qs in R/Ironsworn/Progress",
     "images/leeyaz.png",
     "Campaigns/Qs in R/Assets/Screenshot_20240327-145612.png",
     "Campaigns/Qs in R/Encounters",
     "Campaigns/Qs in R/Assets",
-    "Campaigns/Qs in R/Characters",
     "Campaigns/Qs in R/Assets/Screenshot_20240327-142015.png",
     "Campaigns/Qs in R/Assets/Screenshot_20240327-141848.png",
     "Campaigns/Qs in R/Assets/Screenshot_20240327-141732.png",
