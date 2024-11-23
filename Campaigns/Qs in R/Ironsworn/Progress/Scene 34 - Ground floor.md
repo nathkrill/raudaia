@@ -1,7 +1,7 @@
 ---
 name: Scene 34 - Ground floor
-rank: dangerous
-progress: 0
+rank: formidable
+progress: 12
 tags:
   - incomplete
 track-type: Combat

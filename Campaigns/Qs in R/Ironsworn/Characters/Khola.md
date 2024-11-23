@@ -1,45 +1,47 @@
 ---
-name: Quentin McQuall
+name: Khola
 xp_spent: 0
-xp_added: 6
-momentum: 7
-edge: 3
-heart: 2
-iron: 2
-shadow: 3
-wits: 1
-health: 4
-spirit: 2
+xp_added: 0
+momentum: 3
+edge: 2
+heart: 3
+iron: 3
+shadow: 1
+wits: 2
+health: 5
+spirit: 4
 supply: 4
-Bonds_Progress: 3
+Bonds_Progress: 0
 Bonds_XPEarned: 0
 FailureTrack_Progress: 0
 FailureTrack_XPEarned: 0
 iron-vault-kind: character
-initiative: true
 assets:
-  - id: asset:classic/path/acrobat
+  - id: asset:classic/combat_talent/ironclad
     abilities:
-      - true
-      - true
-    controls: {}
-    options: {}
-  - id: asset:classic/ancestry/goblin
-    abilities:
-      - true
       - true
       - false
       - false
     controls:
-      danger_uses: 2
+      equipped: 
     options: {}
-  - id: asset:classic/combat_talent/rope_blade
+  - id: asset:classic/path/commander
     abilities:
       - true
+      - false
+      - false
+    controls:
+      strength: 4
+    options: {}
+  - id: asset:classic/combat_talent/shield_bearer
+    abilities:
       - true
+      - false
+      - false
     controls: {}
     options: {}
 ---
+
 
 ```iron-vault-character-info
 ```
@@ -52,8 +54,6 @@ assets:
 
 ```iron-vault-character-special-tracks
 ```
-
-[[Quentin's Wealth]]
 
 ```iron-vault-character-impacts
 ```

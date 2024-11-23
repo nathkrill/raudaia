@@ -335,3 +335,207 @@ The dagger is drawn and holds Quentin at bay. The figure shouts with a nasal voi
 
 The sound of footsteps on stairs comes through the open door. Quentin backs up to the wall as the figure approaches with their dagger and lunges in with a stab.
 
+```iron-vault-mechanics
+move "[Face Danger](datasworn:move:classic\/adventure\/face_danger)" {
+    roll "Iron" action=3 adds=0 stat=2 vs1=10 vs2=4
+}
+```
+
+Quentin spins to the side and grabs their arm as the blade thrusts forwards. He misses the arm, but moves aside from their attack. The footsteps on the stair get closer.
+
+Quentin's attacker goes to grab Quentin. Quentin kicks off the wall to get around and hold them himself.
+
+```iron-vault-mechanics
+move "[Face Danger](datasworn:move:classic\/adventure\/face_danger)" {
+    add 1 "acrobat"
+    roll "Edge" action=2 adds=1 stat=3 vs1=3 vs2=8
+}
+```
+
+He rolls behind them, but cannot get a hold on them. They turn and strike as Quentin goes for a stab at their lower back.
+
+```iron-vault-mechanics
+move "[Clash](datasworn:move:classic\/combat\/clash)" {
+    roll "Iron" action=2 adds=0 stat=2 vs1=6 vs2=5
+}
+```
+
+They smack Quentin in the side of his head. Stars fly and things go out of focus for a moment.
+
+```iron-vault-mechanics
+move "[Endure Harm](datasworn:move:classic\/suffer\/endure_harm)" {
+    roll "Health" action=1 adds=0 stat=4 vs1=3 vs2=10
+}
+```
+
+Two more bandits join their companion in the hallway, with Quentin held in the corner.
+
+Quentin tries to dash between them with a springing leap.
+
+```iron-vault-mechanics
+move "[Face Danger](datasworn:move:classic\/adventure\/face_danger)" {
+    add 1 "acrobat"
+    roll "Edge" action=4 adds=1 stat=3 vs1=1 vs2=3
+}
+```
+
+He gets around them as they close in. He then barges one to push him into the other.
+
+```iron-vault-mechanics
+move "[Secure an Advantage](datasworn:move:classic\/adventure\/secure_an_advantage)" {
+    roll "Iron" action=1 adds=0 stat=2 vs1=2 vs2=1
+}
+```
+
+They tumble into each other, getting tangled in the corner. Quentin flails his ribbons to further tangle them up.
+
+```iron-vault-mechanics
+move "[Secure an Advantage](datasworn:move:classic\/adventure\/secure_an_advantage)" {
+    roll "Edge" action=2 adds=0 stat=3 vs1=9 vs2=7
+}
+```
+
+They manage to push through the ribbons, once again facing off against Quentin.
+
+The closest tries to reach out and grab Quentin, who leaps back and attempts to flee.
+
+```iron-vault-mechanics
+move "[Face Danger](datasworn:move:classic\/adventure\/face_danger)" {
+    roll "Edge" action=6 adds=0 stat=3 vs1=8 vs2=8
+}
+```
+
+Quentin leaps back and is ready to leg it, but the one who attacked him trips over his ally's foot and falls to the ground infront of him. Quentin takes the opportunity to finish him off.
+
+```iron-vault-mechanics
+move "[Strike](datasworn:move:classic\/combat\/strike)" {
+    add 1 "floored"
+    roll "Iron" action=1 adds=1 stat=2 vs1=1 vs2=3
+    progress from=0 name="[[Campaigns\/Qs in R\/Ironsworn\/Progress\/Scene 34 - Ground floor.md|Scene 34 - Ground floor]]" rank="formidable" steps=2
+}
+
+```
+
+Using this surprising turn of events, Quentin uses the fallen attacker as a springboard and leaps above the remaining enemies.
+
+```iron-vault-mechanics
+move "[Secure an Advantage](datasworn:move:classic\/adventure\/secure_an_advantage)" {
+    add 1 "acrobat"
+    roll "Edge" action=3 adds=1 stat=3 vs1=3 vs2=4
+}
+```
+
+He comes down with both daggers at the closest one.
+
+```iron-vault-mechanics
+move "[Strike](datasworn:move:classic\/combat\/strike)" {
+    add 1 "advantage"
+    roll "Iron" action=1 adds=1 stat=2 vs1=3 vs2=7
+    progress from=8 name="[[Campaigns\/Qs in R\/Ironsworn\/Progress\/Scene 34 - Ground floor.md|Scene 34 - Ground floor]]" rank="formidable" steps=1
+}
+
+```
+
+He cries out as Quentin lands on him, daggers piercing into his shoulders. He is wounded but not down just yet. 
+His friend swings a long club at Quentin sitting on top of his friend. Quentin leaps off in a backflip.
+
+```iron-vault-mechanics
+move "[Face Danger](datasworn:move:classic\/adventure\/face_danger)" {
+    add 1 "acrobat"
+    roll "Edge" action=1 adds=1 stat=3 vs1=5 vs2=10
+}
+```
+
+Quentin doesn't quite make the flip, and lands on his knees. The two foes surround him.
+
+As they both strike down, Quentin rolls aside, trying to get beneath their legs.
+
+```iron-vault-mechanics
+move "[Face Danger](datasworn:move:classic\/adventure\/face_danger)" {
+    roll "Edge" action=6 adds=0 stat=3 vs1=10 vs2=8
+}
+```
+
+He dodges the blows but stays between them. He does manage to get to his feet.
+
+They go in again, this time one after the other. Quentin does a classic and tries to jump onto an arm as it lunges forward.
+
+```iron-vault-mechanics
+move "[Face Danger](datasworn:move:classic\/adventure\/face_danger)" {
+    add 1 "acrobat"
+    roll "Edge" action=1 adds=1 stat=3 vs1=3 vs2=6
+}
+```
+
+Quentin jumps up above the attacks and comes down again, right between them. They close in to restrain him.
+
+```iron-vault-mechanics
+move "[Face Danger](datasworn:move:classic\/adventure\/face_danger)" {
+    add 1 "acrobat"
+    roll "Edge" action=1 adds=1 stat=3 vs1=6 vs2=9
+}
+```
+
+They grab Quentin and each hold him tightly by one arm. Quentin strains against them, using all the strength and wiles inside of him.
+
+```iron-vault-mechanics
+move "[Turn the Tide](datasworn:move:classic\/combat\/turn_the_tide)"
+move "[Face Danger](datasworn:move:classic\/adventure\/face_danger)" {
+    add 1 "danger sense"
+    add 1 "turn the tide"
+    roll "Edge" action=2 adds=2 stat=3 vs1=8 vs2=4
+}
+
+```
+
+Quentin breaks free, stumbling forward with them behind him. Avoiding their attacks, he tries to make a run for it.
+
+```iron-vault-mechanics
+move "[Face Danger](datasworn:move:classic\/adventure\/face_danger)" {
+    roll "Edge" action=4 adds=0 stat=3 vs1=3 vs2=5
+}
+```
+
+He breaks away and starts making for the farmhouse door.
+
+```iron-vault-mechanics
+move "[Secure an Advantage](datasworn:move:classic\/adventure\/secure_an_advantage)" {
+    roll "Edge" action=6 adds=0 stat=3 vs1=9 vs2=1
+}
+```
+
+They pursue, almost catching up to him as he reaches the entry room. He dives away from them again.
+
+```iron-vault-mechanics
+move "[Face Danger](datasworn:move:classic\/adventure\/face_danger)" {
+    add 1 "acrobat"
+    roll "Edge" action=4 adds=1 stat=3 vs1=8 vs2=8
+}
+```
+
+This time they grab his feet and he crashes to the ground. One gets on top of him and they hold him there.
+
+```iron-vault-mechanics
+move "[End the Fight](datasworn:move:classic\/combat\/end_the_fight)" {
+    progress-roll score=3 vs1=3 vs2=7
+}
+```
+
+`Are they the only ones remaining? Definitely not`
+`Are there two more? Yes`
+
+>"Boss! We got him!"
+
+One cries back towards the hallway. After a moment two more bandits arrive. One has a stronger air about him, the others look to the scruffy yet powerful man.
+
+`Do they choose to kill Quentin? No`
+
+>"A hostage? Excellent. He's clearly important to [[Kirad]]. Let's see if we can use him to get ourselves a bargain.
+
+Quentin squirms and tries to speak, but a rag is stuffed into his mouth.
+
+>"Put him in the workshop. Lock the door."
+
+Quentin is dragged out to the stairs and thrown down. Then he's taken through some doors to a large stone-floored workshop. There's an empty workbench and straw and sawdust hanging in the air.
+
+He's pushed in, then his arms and legs are tied so he's on his knees, unable to move. The cloth gag is reinforced with rope. The door is bolted behind the bandits as they leave.
