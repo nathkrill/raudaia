@@ -4,24 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "947b4b4fe973b7dd",
+        "id": "5c27c8a9bf2083a7",
         "type": "tabs",
         "children": [
           {
-            "id": "b502779b95944445",
+            "id": "62317b1937f5864f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Welcome to Raudaia!.md",
-                "mode": "preview",
-                "source": true
+                "file": "Campaigns/Qs in R/Drawing 2024-11-22 17.07.26.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Welcome to Raudaia!"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-22 17.07.26.excalidraw"
+            }
+          },
+          {
+            "id": "c082ba7736d7a909",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Campaigns/Qs in R/Drawing 2024-11-22 17.07.26.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-22 17.07.26.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,14 +197,14 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "b502779b95944445",
+  "active": "c082ba7736d7a909",
   "lastOpenFiles": [
-    "Campaigns/Qs in R/PUM.canvas",
+    "Welcome to Raudaia!.md",
     "Campaigns/Qs in R/Drawing 2024-11-22 17.07.26.excalidraw.md",
+    "Campaigns/Qs in R/Plots/Rescuing Quentin.excalidraw.md",
+    "Campaigns/Qs in R/PUM.canvas",
     "Campaigns/Qs in R/Ironsworn/Journals/Scene 36.md",
     "Campaigns/Qs in R/Ironsworn/Characters/Khola.md",
-    "Campaigns/Qs in R/Plots/Rescuing Quentin.excalidraw.md",
-    "Welcome to Raudaia!.md",
     "Campaigns/Qs in R/Ironsworn/Journals/Scene 34.md",
     "Campaigns/Qs in R/Scene Board.canvas",
     "Books",
