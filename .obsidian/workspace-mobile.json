@@ -4,24 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "cb983955066a8125",
+        "id": "5c27c8a9bf2083a7",
         "type": "tabs",
         "children": [
           {
-            "id": "f062dd865d00a949",
+            "id": "62317b1937f5864f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Campaigns/Qs in R/Ironsworn/Journals/Scene 34.md",
-                "mode": "preview",
-                "source": true
+                "file": "Campaigns/Qs in R/Drawing 2024-11-22 17.07.26.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Scene 34"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-22 17.07.26.excalidraw"
+            }
+          },
+          {
+            "id": "c082ba7736d7a909",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Campaigns/Qs in R/Drawing 2024-11-22 17.07.26.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-22 17.07.26.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -36,7 +47,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -165,7 +177,7 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,9 +197,15 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "f062dd865d00a949",
+  "active": "c082ba7736d7a909",
   "lastOpenFiles": [
     "Welcome to Raudaia!.md",
+    "Campaigns/Qs in R/Drawing 2024-11-22 17.07.26.excalidraw.md",
+    "Campaigns/Qs in R/Plots/Rescuing Quentin.excalidraw.md",
+    "Campaigns/Qs in R/PUM.canvas",
+    "Campaigns/Qs in R/Ironsworn/Journals/Scene 36.md",
+    "Campaigns/Qs in R/Ironsworn/Characters/Khola.md",
+    "Campaigns/Qs in R/Ironsworn/Journals/Scene 34.md",
     "Campaigns/Qs in R/Scene Board.canvas",
     "Books",
     "Campaigns/The Diaries of Mozga'n Alrai/thousand-year-old-vampire.md",
@@ -210,13 +228,8 @@
     "Hinara.md",
     "Campaigns/Qs in R/GM.md",
     "Campaigns/Faal/Scenes/Scene 6.md",
-    "Cliford.md",
-    "Campaigns/Faal/Character List.md",
     "Campaigns/Faal/Characters",
     "Campaigns/Qs in R/Assets/MythicGME2eV2.pdf",
-    "Campaigns/Faal/Scenes/Scene 5.md",
-    "Campaigns/Faal/Faal.md",
-    "Campaigns/Qs in R/Ironsworn/Journals/Scene 19.md",
     "Campaigns/Qs in R/Generators.canvas",
     "Arlo",
     "Untitled.canvas",

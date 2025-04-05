@@ -85,3 +85,31 @@ oracle name="[Travel \/ Travelled with Edge](datasworn:move.oracle_rollable:home
 
 The storm gets lower, blocking out the afternoon sun. While the wind dies down it's very hard to navigate. The group soon find themselves below the shadow of the eastern mountain.
 
+Not wanting to backtrack, [[Khola]] tries to take them north, up the slopes so they can come back down further up. 
+
+```iron-vault-mechanics
+actor name="[[Campaigns\/Qs in R\/Ironsworn\/Characters\/Khola.md|Khola]]" {
+    move "[Travel](datasworn:move:homebrew\/custom\/travel)" {
+        roll "Wits" action=4 adds=0 stat=2 vs1=5 vs2=4
+    }
+    move "[Ask the Oracle](datasworn:move:classic\/fate\/ask_the_oracle)"
+}
+oracle name="[Travel \/ Opportunities](datasworn:move.oracle_rollable:homebrew\/custom\/travel.opportunity)" result="You encounter something that will make your journey easier. Visualise it and roll your next [Travel](datasworn:move:homebrew\/custom\/travel) with +1" roll=92
+
+```
+
+Despite the incline, this side of the mountain is sheltered from the storm and the group make good progress north. From this height they can see across the valley to their destination. 
+
+They swing west and begin the descent back to flat ground.
+
+```iron-vault-mechanics
+actor name="[[Campaigns\/Qs in R\/Ironsworn\/Characters\/Khola.md|Khola]]" {
+    move "[Travel](datasworn:move:homebrew\/custom\/travel)" {
+        add 1 "opp"
+        roll "Wits" action=4 adds=1 stat=2 vs1=8 vs2=10
+    }
+}
+```
+
+
+
