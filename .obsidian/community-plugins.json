@@ -32,5 +32,7 @@
   "templater-obsidian",
   "obsidian-tts",
   "various-complements",
-  "obsidian-csv-table"
+  "obsidian-csv-table",
+  "obsidian-path-finder",
+  "neighbouring-files"
 ]

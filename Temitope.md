@@ -1,6 +1,7 @@
 ---
 tags:
  - Character
+ - Person
 ---
 
 ![Temitope](temitope.jpeg)
