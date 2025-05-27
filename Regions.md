@@ -27,6 +27,10 @@ Bountiful riverland, skirting the north
 
 Salty canyon in the centre
 
+## [[Elerion Woods]]
+
+Deep forests in the north-west
+
 ## [[Western Horn]]
 
 Uncharted jungles to the west
